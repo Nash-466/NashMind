@@ -1,0 +1,86 @@
+{
+  "timestamp": "20250914_025014",
+  "statistics": {
+    "total_tasks": 50,
+    "solved_tasks": 35,
+    "failed_tasks": 15,
+    "total_time": 25.90486454963684,
+    "avg_time_per_task": 0.5180972909927368,
+    "min_time": 0.0,
+    "max_time": 2.833251714706421,
+    "success_rate": 70.0
+  },
+  "by_complexity": {
+    "EASY": {
+      "total": 25,
+      "solved": 25
+    },
+    "MEDIUM": {
+      "total": 8,
+      "solved": 8
+    },
+    "TRIVIAL": {
+      "total": 1,
+      "solved": 1
+    },
+    "HARD": {
+      "total": 1,
+      "solved": 1
+    }
+  },
+  "failure_patterns": {},
+  "successes_count": 35,
+  "failures_count": 15,
+  "sample_successes": [
+    "009d5c81",
+    "00d62c1b",
+    "00dbd492",
+    "025d127b",
+    "03560426",
+    "045e512c",
+    "05269061",
+    "05a7bcf2",
+    "05f2a901",
+    "0607ce86",
+    "06df4c85",
+    "070dd51e",
+    "08ed6ac7",
+    "0962bcdd",
+    "09c534e7",
+    "0a2355a6",
+    "0a938d79",
+    "0b17323b",
+    "0becf7df",
+    "0ca9ddb6"
+  ],
+  "sample_failures": [
+    "00576224",
+    "007bbfb7",
+    "017c7c7b",
+    "0520fde7",
+    "0692e18c",
+    "09629e4f",
+    "0a1d4ef5",
+    "0b148d64",
+    "0bb8deee",
+    "0c786b71",
+    "0c9aba6e",
+    "10fcaaa3",
+    "1190e5a7",
+    "12997ef3",
+    "137eaa0f"
+  ],
+  "system_stats": {
+    "total_attempted": 50,
+    "total_solved": 35,
+    "success_rate": 0.7,
+    "strategies_stats": {
+      "simple": {
+        "success": 36,
+        "attempts": 36
+      }
+    },
+    "cached_solutions": 37,
+    "discovered_patterns": 0
+  }
+}

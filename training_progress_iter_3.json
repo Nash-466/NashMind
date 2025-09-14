@@ -1,0 +1,807 @@
+{
+  "iteration": 3,
+  "timestamp": "2025-09-13T15:46:21.755631",
+  "results": [
+    {
+      "task_id": "760b3cac",
+      "success": false,
+      "solution_shape": [
+        6,
+        9
+      ]
+    },
+    {
+      "task_id": "496994bd",
+      "success": true,
+      "solution_shape": [
+        10,
+        5
+      ]
+    },
+    {
+      "task_id": "c1d99e64",
+      "success": true,
+      "solution_shape": [
+        12,
+        14
+      ]
+    },
+    {
+      "task_id": "7d1f7ee8",
+      "success": true,
+      "solution_shape": [
+        22,
+        28
+      ]
+    },
+    {
+      "task_id": "00dbd492",
+      "success": true,
+      "solution_shape": [
+        15,
+        15
+      ]
+    },
+    {
+      "task_id": "689c358e",
+      "success": false,
+      "solution_shape": [
+        11,
+        11
+      ]
+    },
+    {
+      "task_id": "af902bf9",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "878187ab",
+      "success": false,
+      "solution_shape": [
+        16,
+        16
+      ]
+    },
+    {
+      "task_id": "d282b262",
+      "success": false,
+      "solution_shape": [
+        15,
+        15
+      ]
+    },
+    {
+      "task_id": "f341894c",
+      "success": true,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "54d9e175",
+      "success": false,
+      "solution_shape": [
+        7,
+        11
+      ]
+    },
+    {
+      "task_id": "6e82a1ae",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "995c5fa3",
+      "success": false,
+      "solution_shape": [
+        3,
+        3
+      ]
+    },
+    {
+      "task_id": "22168020",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "508bd3b6",
+      "success": false,
+      "solution_shape": [
+        12,
+        12
+      ]
+    },
+    {
+      "task_id": "b8cdaf2b",
+      "success": true,
+      "solution_shape": [
+        5,
+        5
+      ]
+    },
+    {
+      "task_id": "d5c634a2",
+      "success": true,
+      "solution_shape": [
+        3,
+        6
+      ]
+    },
+    {
+      "task_id": "5587a8d0",
+      "success": true,
+      "solution_shape": [
+        3,
+        3
+      ]
+    },
+    {
+      "task_id": "a61ba2ce",
+      "success": true,
+      "solution_shape": [
+        4,
+        4
+      ]
+    },
+    {
+      "task_id": "45bbe264",
+      "success": true,
+      "solution_shape": [
+        14,
+        14
+      ]
+    },
+    {
+      "task_id": "48634b99",
+      "success": false,
+      "solution_shape": [
+        16,
+        16
+      ]
+    },
+    {
+      "task_id": "b25e450b",
+      "success": true,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "f2829549",
+      "success": true,
+      "solution_shape": [
+        4,
+        3
+      ]
+    },
+    {
+      "task_id": "edcc2ff0",
+      "success": false,
+      "solution_shape": [
+        20,
+        10
+      ]
+    },
+    {
+      "task_id": "3d588dc9",
+      "success": false,
+      "solution_shape": [
+        16,
+        16
+      ]
+    },
+    {
+      "task_id": "ecb67b6d",
+      "success": true,
+      "solution_shape": [
+        6,
+        8
+      ]
+    },
+    {
+      "task_id": "73c3b0d8",
+      "success": false,
+      "solution_shape": [
+        12,
+        8
+      ]
+    },
+    {
+      "task_id": "aaecdb9a",
+      "success": true,
+      "solution_shape": [
+        2,
+        5
+      ]
+    },
+    {
+      "task_id": "d89b689b",
+      "success": true,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "b230c067",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "896d5239",
+      "success": true,
+      "solution_shape": [
+        15,
+        12
+      ]
+    },
+    {
+      "task_id": "45737921",
+      "success": true,
+      "solution_shape": [
+        7,
+        7
+      ]
+    },
+    {
+      "task_id": "351d6448",
+      "success": true,
+      "solution_shape": [
+        3,
+        13
+      ]
+    },
+    {
+      "task_id": "9772c176",
+      "success": true,
+      "solution_shape": [
+        22,
+        21
+      ]
+    },
+    {
+      "task_id": "2037f2c7",
+      "success": true,
+      "solution_shape": [
+        4,
+        8
+      ]
+    },
+    {
+      "task_id": "68b16354",
+      "success": false,
+      "solution_shape": [
+        7,
+        7
+      ]
+    },
+    {
+      "task_id": "642248e4",
+      "success": true,
+      "solution_shape": [
+        14,
+        10
+      ]
+    },
+    {
+      "task_id": "59341089",
+      "success": true,
+      "solution_shape": [
+        3,
+        12
+      ]
+    },
+    {
+      "task_id": "825aa9e9",
+      "success": true,
+      "solution_shape": [
+        6,
+        10
+      ]
+    },
+    {
+      "task_id": "67385a82",
+      "success": true,
+      "solution_shape": [
+        4,
+        4
+      ]
+    },
+    {
+      "task_id": "bd14c3bf",
+      "success": true,
+      "solution_shape": [
+        18,
+        18
+      ]
+    },
+    {
+      "task_id": "ad38a9d0",
+      "success": false,
+      "solution_shape": [
+        9,
+        9
+      ]
+    },
+    {
+      "task_id": "2ccd9fef",
+      "success": true,
+      "solution_shape": [
+        8,
+        11
+      ]
+    },
+    {
+      "task_id": "85fa5666",
+      "success": false,
+      "solution_shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "task_id": "c59eb873",
+      "success": true,
+      "solution_shape": [
+        4,
+        4
+      ]
+    },
+    {
+      "task_id": "f21745ec",
+      "success": true,
+      "solution_shape": [
+        21,
+        21
+      ]
+    },
+    {
+      "task_id": "d9fac9be",
+      "success": true,
+      "solution_shape": [
+        1,
+        1
+      ]
+    },
+    {
+      "task_id": "c61be7dc",
+      "success": true,
+      "solution_shape": [
+        11,
+        11
+      ]
+    },
+    {
+      "task_id": "a85d4709",
+      "success": false,
+      "solution_shape": [
+        3,
+        3
+      ]
+    },
+    {
+      "task_id": "332202d5",
+      "success": false,
+      "solution_shape": [
+        16,
+        16
+      ]
+    },
+    {
+      "task_id": "522fdd07",
+      "success": false,
+      "solution_shape": [
+        16,
+        16
+      ]
+    },
+    {
+      "task_id": "a04b2602",
+      "success": true,
+      "solution_shape": [
+        20,
+        20
+      ]
+    },
+    {
+      "task_id": "31adaf00",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "7e02026e",
+      "success": false,
+      "solution_shape": [
+        12,
+        12
+      ]
+    },
+    {
+      "task_id": "137eaa0f",
+      "success": true,
+      "solution_shape": [
+        3,
+        3
+      ]
+    },
+    {
+      "task_id": "b27ca6d3",
+      "success": true,
+      "solution_shape": [
+        15,
+        16
+      ]
+    },
+    {
+      "task_id": "e98196ab",
+      "success": true,
+      "solution_shape": [
+        5,
+        11
+      ]
+    },
+    {
+      "task_id": "5c0a986e",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "5582e5ca",
+      "success": false,
+      "solution_shape": [
+        3,
+        3
+      ]
+    },
+    {
+      "task_id": "c3202e5a",
+      "success": true,
+      "solution_shape": [
+        5,
+        5
+      ]
+    },
+    {
+      "task_id": "11852cab",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "50cb2852",
+      "success": true,
+      "solution_shape": [
+        12,
+        11
+      ]
+    },
+    {
+      "task_id": "da2b0fe3",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "4522001f",
+      "success": true,
+      "solution_shape": [
+        9,
+        9
+      ]
+    },
+    {
+      "task_id": "66ac4c3b",
+      "success": false,
+      "solution_shape": [
+        22,
+        22
+      ]
+    },
+    {
+      "task_id": "8d510a79",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "0520fde7",
+      "success": true,
+      "solution_shape": [
+        3,
+        3
+      ]
+    },
+    {
+      "task_id": "5a719d11",
+      "success": true,
+      "solution_shape": [
+        25,
+        17
+      ]
+    },
+    {
+      "task_id": "dbc1a6ce",
+      "success": true,
+      "solution_shape": [
+        12,
+        12
+      ]
+    },
+    {
+      "task_id": "d687bc17",
+      "success": true,
+      "solution_shape": [
+        12,
+        12
+      ]
+    },
+    {
+      "task_id": "5daaa586",
+      "success": true,
+      "solution_shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "task_id": "a406ac07",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "414297c0",
+      "success": true,
+      "solution_shape": [
+        9,
+        6
+      ]
+    },
+    {
+      "task_id": "e6721834",
+      "success": true,
+      "solution_shape": [
+        11,
+        10
+      ]
+    },
+    {
+      "task_id": "981add89",
+      "success": false,
+      "solution_shape": [
+        30,
+        30
+      ]
+    },
+    {
+      "task_id": "74dd1130",
+      "success": false,
+      "solution_shape": [
+        3,
+        3
+      ]
+    },
+    {
+      "task_id": "c35c1b4c",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "b190f7f5",
+      "success": true,
+      "solution_shape": [
+        9,
+        9
+      ]
+    },
+    {
+      "task_id": "b60334d2",
+      "success": false,
+      "solution_shape": [
+        9,
+        9
+      ]
+    },
+    {
+      "task_id": "d23f8c26",
+      "success": true,
+      "solution_shape": [
+        5,
+        5
+      ]
+    },
+    {
+      "task_id": "1caeab9d",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "12422b43",
+      "success": true,
+      "solution_shape": [
+        13,
+        6
+      ]
+    },
+    {
+      "task_id": "d90796e8",
+      "success": true,
+      "solution_shape": [
+        7,
+        6
+      ]
+    },
+    {
+      "task_id": "342ae2ed",
+      "success": false,
+      "solution_shape": [
+        16,
+        16
+      ]
+    },
+    {
+      "task_id": "f8b3ba0a",
+      "success": true,
+      "solution_shape": [
+        3,
+        1
+      ]
+    },
+    {
+      "task_id": "c92b942c",
+      "success": true,
+      "solution_shape": [
+        12,
+        18
+      ]
+    },
+    {
+      "task_id": "90347967",
+      "success": false,
+      "solution_shape": [
+        9,
+        9
+      ]
+    },
+    {
+      "task_id": "833dafe3",
+      "success": true,
+      "solution_shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "task_id": "ea959feb",
+      "success": false,
+      "solution_shape": [
+        22,
+        25
+      ]
+    },
+    {
+      "task_id": "b2bc3ffd",
+      "success": false,
+      "solution_shape": [
+        8,
+        8
+      ]
+    },
+    {
+      "task_id": "9b5080bb",
+      "success": true,
+      "solution_shape": [
+        23,
+        23
+      ]
+    },
+    {
+      "task_id": "444801d8",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "5792cb4d",
+      "success": false,
+      "solution_shape": [
+        10,
+        10
+      ]
+    },
+    {
+      "task_id": "9ddd00f0",
+      "success": true,
+      "solution_shape": [
+        5,
+        5
+      ]
+    },
+    {
+      "task_id": "d255d7a7",
+      "success": true,
+      "solution_shape": [
+        14,
+        14
+      ]
+    },
+    {
+      "task_id": "36d67576",
+      "success": true,
+      "solution_shape": [
+        13,
+        13
+      ]
+    },
+    {
+      "task_id": "48d8fb45",
+      "success": true,
+      "solution_shape": [
+        3,
+        3
+      ]
+    },
+    {
+      "task_id": "d968ffd4",
+      "success": true,
+      "solution_shape": [
+        5,
+        16
+      ]
+    },
+    {
+      "task_id": "29700607",
+      "success": false,
+      "solution_shape": [
+        11,
+        11
+      ]
+    },
+    {
+      "task_id": "93c31fbe",
+      "success": true,
+      "solution_shape": [
+        22,
+        23
+      ]
+    }
+  ],
+  "accuracy": 0.58
+}

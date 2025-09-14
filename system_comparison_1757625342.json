@@ -1,0 +1,972 @@
+[
+  {
+    "system_name": "Ultra Advanced ARC System",
+    "total_problems": 10,
+    "solved_correctly": 0,
+    "partial_matches": 1,
+    "failed": 9,
+    "success_rate": 0.0,
+    "average_similarity": 0.09024943310657596,
+    "average_time": 0.4061660528182983,
+    "total_time": 4.061660528182983,
+    "problem_results": [
+      {
+        "problem_id": "00576224",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.13912153244018555,
+        "input_shape": [
+          2,
+          2
+        ],
+        "output_shape": [
+          4,
+          4
+        ],
+        "expected_shape": [
+          6,
+          6
+        ]
+      },
+      {
+        "problem_id": "007bbfb7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.16960787773132324,
+        "input_shape": [
+          3,
+          3
+        ],
+        "output_shape": [
+          6,
+          6
+        ],
+        "expected_shape": [
+          9,
+          9
+        ]
+      },
+      {
+        "problem_id": "009d5c81",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.2919497489929199,
+        "input_shape": [
+          14,
+          14
+        ],
+        "output_shape": [
+          28,
+          28
+        ],
+        "expected_shape": [
+          14,
+          14
+        ]
+      },
+      {
+        "problem_id": "00d62c1b",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.5449800491333008,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          40,
+          40
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "00dbd492",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.32419729232788086,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          40,
+          40
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "017c7c7b",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.16027617454528809,
+        "input_shape": [
+          6,
+          3
+        ],
+        "output_shape": [
+          6,
+          3
+        ],
+        "expected_shape": [
+          9,
+          3
+        ]
+      },
+      {
+        "problem_id": "025d127b",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.29593420028686523,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "03560426",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 1.0144374370574951,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "045e512c",
+        "correct": false,
+        "similarity": 0.9024943310657596,
+        "solve_time": 0.8155648708343506,
+        "input_shape": [
+          21,
+          21
+        ],
+        "output_shape": [
+          21,
+          21
+        ],
+        "expected_shape": [
+          21,
+          21
+        ]
+      },
+      {
+        "problem_id": "0520fde7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.305591344833374,
+        "input_shape": [
+          3,
+          7
+        ],
+        "output_shape": [
+          6,
+          14
+        ],
+        "expected_shape": [
+          3,
+          3
+        ]
+      }
+    ],
+    "errors": []
+  },
+  {
+    "system_name": "Main System (Orchestrator)",
+    "total_problems": 10,
+    "solved_correctly": 0,
+    "partial_matches": 6,
+    "failed": 4,
+    "success_rate": 0.0,
+    "average_similarity": 0.49329308390022675,
+    "average_time": 0.002028942108154297,
+    "total_time": 0.02028942108154297,
+    "problem_results": [
+      {
+        "problem_id": "00576224",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0020737648010253906,
+        "input_shape": [
+          2,
+          2
+        ],
+        "output_shape": [
+          2,
+          2
+        ],
+        "expected_shape": [
+          6,
+          6
+        ]
+      },
+      {
+        "problem_id": "007bbfb7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0021228790283203125,
+        "input_shape": [
+          3,
+          3
+        ],
+        "output_shape": [
+          3,
+          3
+        ],
+        "expected_shape": [
+          9,
+          9
+        ]
+      },
+      {
+        "problem_id": "009d5c81",
+        "correct": false,
+        "similarity": 0.7806122448979592,
+        "solve_time": 0.0020563602447509766,
+        "input_shape": [
+          14,
+          14
+        ],
+        "output_shape": [
+          14,
+          14
+        ],
+        "expected_shape": [
+          14,
+          14
+        ]
+      },
+      {
+        "problem_id": "00d62c1b",
+        "correct": false,
+        "similarity": 0.885,
+        "solve_time": 0.003916740417480469,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "00dbd492",
+        "correct": false,
+        "similarity": 0.7475,
+        "solve_time": 0.0028634071350097656,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "017c7c7b",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.002198457717895508,
+        "input_shape": [
+          6,
+          3
+        ],
+        "output_shape": [
+          6,
+          3
+        ],
+        "expected_shape": [
+          9,
+          3
+        ]
+      },
+      {
+        "problem_id": "025d127b",
+        "correct": false,
+        "similarity": 0.79,
+        "solve_time": 0.0020003318786621094,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          10,
+          10
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "03560426",
+        "correct": false,
+        "similarity": 0.85,
+        "solve_time": 0.0010118484497070312,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          10,
+          10
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "045e512c",
+        "correct": false,
+        "similarity": 0.8798185941043084,
+        "solve_time": 0.001529693603515625,
+        "input_shape": [
+          21,
+          21
+        ],
+        "output_shape": [
+          21,
+          21
+        ],
+        "expected_shape": [
+          21,
+          21
+        ]
+      },
+      {
+        "problem_id": "0520fde7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0005159378051757812,
+        "input_shape": [
+          3,
+          7
+        ],
+        "output_shape": [
+          3,
+          7
+        ],
+        "expected_shape": [
+          3,
+          3
+        ]
+      }
+    ],
+    "errors": []
+  },
+  {
+    "system_name": "MetaBrain System",
+    "total_problems": 10,
+    "solved_correctly": 0,
+    "partial_matches": 6,
+    "failed": 4,
+    "success_rate": 0.0,
+    "average_similarity": 0.502672902494331,
+    "average_time": 0.00010995864868164062,
+    "total_time": 0.0010995864868164062,
+    "problem_results": [
+      {
+        "problem_id": "00576224",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0,
+        "input_shape": [
+          2,
+          2
+        ],
+        "output_shape": [
+          2,
+          2
+        ],
+        "expected_shape": [
+          6,
+          6
+        ]
+      },
+      {
+        "problem_id": "007bbfb7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0,
+        "input_shape": [
+          3,
+          3
+        ],
+        "output_shape": [
+          3,
+          3
+        ],
+        "expected_shape": [
+          9,
+          9
+        ]
+      },
+      {
+        "problem_id": "009d5c81",
+        "correct": false,
+        "similarity": 0.8367346938775511,
+        "solve_time": 0.0,
+        "input_shape": [
+          14,
+          14
+        ],
+        "output_shape": [
+          14,
+          14
+        ],
+        "expected_shape": [
+          14,
+          14
+        ]
+      },
+      {
+        "problem_id": "00d62c1b",
+        "correct": false,
+        "similarity": 0.9175,
+        "solve_time": 0.0010995864868164062,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "00dbd492",
+        "correct": false,
+        "similarity": 0.78,
+        "solve_time": 0.0,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "017c7c7b",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0,
+        "input_shape": [
+          6,
+          3
+        ],
+        "output_shape": [
+          6,
+          3
+        ],
+        "expected_shape": [
+          9,
+          3
+        ]
+      },
+      {
+        "problem_id": "025d127b",
+        "correct": false,
+        "similarity": 0.88,
+        "solve_time": 0.0,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          10,
+          10
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "03560426",
+        "correct": false,
+        "similarity": 0.71,
+        "solve_time": 0.0,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          10,
+          10
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "045e512c",
+        "correct": false,
+        "similarity": 0.9024943310657596,
+        "solve_time": 0.0,
+        "input_shape": [
+          21,
+          21
+        ],
+        "output_shape": [
+          21,
+          21
+        ],
+        "expected_shape": [
+          21,
+          21
+        ]
+      },
+      {
+        "problem_id": "0520fde7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0,
+        "input_shape": [
+          3,
+          7
+        ],
+        "output_shape": [
+          3,
+          7
+        ],
+        "expected_shape": [
+          3,
+          3
+        ]
+      }
+    ],
+    "errors": []
+  },
+  {
+    "system_name": "Revolutionary ARC System",
+    "total_problems": 10,
+    "solved_correctly": 0,
+    "partial_matches": 6,
+    "failed": 4,
+    "success_rate": 0.0,
+    "average_similarity": 0.502672902494331,
+    "average_time": 0.01576061248779297,
+    "total_time": 0.1576061248779297,
+    "problem_results": [
+      {
+        "problem_id": "00576224",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.005099773406982422,
+        "input_shape": [
+          2,
+          2
+        ],
+        "output_shape": [
+          2,
+          2
+        ],
+        "expected_shape": [
+          6,
+          6
+        ]
+      },
+      {
+        "problem_id": "007bbfb7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.004015922546386719,
+        "input_shape": [
+          3,
+          3
+        ],
+        "output_shape": [
+          3,
+          3
+        ],
+        "expected_shape": [
+          9,
+          9
+        ]
+      },
+      {
+        "problem_id": "009d5c81",
+        "correct": false,
+        "similarity": 0.8367346938775511,
+        "solve_time": 0.014028072357177734,
+        "input_shape": [
+          14,
+          14
+        ],
+        "output_shape": [
+          14,
+          14
+        ],
+        "expected_shape": [
+          14,
+          14
+        ]
+      },
+      {
+        "problem_id": "00d62c1b",
+        "correct": false,
+        "similarity": 0.9175,
+        "solve_time": 0.030984163284301758,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "00dbd492",
+        "correct": false,
+        "similarity": 0.78,
+        "solve_time": 0.030963897705078125,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "017c7c7b",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.005903959274291992,
+        "input_shape": [
+          6,
+          3
+        ],
+        "output_shape": [
+          6,
+          3
+        ],
+        "expected_shape": [
+          9,
+          3
+        ]
+      },
+      {
+        "problem_id": "025d127b",
+        "correct": false,
+        "similarity": 0.88,
+        "solve_time": 0.0201871395111084,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          10,
+          10
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "03560426",
+        "correct": false,
+        "similarity": 0.71,
+        "solve_time": 0.009964466094970703,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          10,
+          10
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "045e512c",
+        "correct": false,
+        "similarity": 0.9024943310657596,
+        "solve_time": 0.032366275787353516,
+        "input_shape": [
+          21,
+          21
+        ],
+        "output_shape": [
+          21,
+          21
+        ],
+        "expected_shape": [
+          21,
+          21
+        ]
+      },
+      {
+        "problem_id": "0520fde7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.00409245491027832,
+        "input_shape": [
+          3,
+          7
+        ],
+        "output_shape": [
+          3,
+          7
+        ],
+        "expected_shape": [
+          3,
+          3
+        ]
+      }
+    ],
+    "errors": []
+  },
+  {
+    "system_name": "Perfect ARC System",
+    "total_problems": 10,
+    "solved_correctly": 0,
+    "partial_matches": 6,
+    "failed": 4,
+    "success_rate": 0.0,
+    "average_similarity": 0.502672902494331,
+    "average_time": 0.0016220331192016602,
+    "total_time": 0.0162203311920166,
+    "problem_results": [
+      {
+        "problem_id": "00576224",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0013434886932373047,
+        "input_shape": [
+          2,
+          2
+        ],
+        "output_shape": [
+          2,
+          2
+        ],
+        "expected_shape": [
+          6,
+          6
+        ]
+      },
+      {
+        "problem_id": "007bbfb7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0005495548248291016,
+        "input_shape": [
+          3,
+          3
+        ],
+        "output_shape": [
+          3,
+          3
+        ],
+        "expected_shape": [
+          9,
+          9
+        ]
+      },
+      {
+        "problem_id": "009d5c81",
+        "correct": false,
+        "similarity": 0.8367346938775511,
+        "solve_time": 0.001003265380859375,
+        "input_shape": [
+          14,
+          14
+        ],
+        "output_shape": [
+          14,
+          14
+        ],
+        "expected_shape": [
+          14,
+          14
+        ]
+      },
+      {
+        "problem_id": "00d62c1b",
+        "correct": false,
+        "similarity": 0.9175,
+        "solve_time": 0.0020177364349365234,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "00dbd492",
+        "correct": false,
+        "similarity": 0.78,
+        "solve_time": 0.0029976367950439453,
+        "input_shape": [
+          20,
+          20
+        ],
+        "output_shape": [
+          20,
+          20
+        ],
+        "expected_shape": [
+          20,
+          20
+        ]
+      },
+      {
+        "problem_id": "017c7c7b",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.0009968280792236328,
+        "input_shape": [
+          6,
+          3
+        ],
+        "output_shape": [
+          6,
+          3
+        ],
+        "expected_shape": [
+          9,
+          3
+        ]
+      },
+      {
+        "problem_id": "025d127b",
+        "correct": false,
+        "similarity": 0.88,
+        "solve_time": 0.0015137195587158203,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          10,
+          10
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "03560426",
+        "correct": false,
+        "similarity": 0.71,
+        "solve_time": 0.0015456676483154297,
+        "input_shape": [
+          10,
+          10
+        ],
+        "output_shape": [
+          10,
+          10
+        ],
+        "expected_shape": [
+          10,
+          10
+        ]
+      },
+      {
+        "problem_id": "045e512c",
+        "correct": false,
+        "similarity": 0.9024943310657596,
+        "solve_time": 0.002000570297241211,
+        "input_shape": [
+          21,
+          21
+        ],
+        "output_shape": [
+          21,
+          21
+        ],
+        "expected_shape": [
+          21,
+          21
+        ]
+      },
+      {
+        "problem_id": "0520fde7",
+        "correct": false,
+        "similarity": 0.0,
+        "solve_time": 0.002251863479614258,
+        "input_shape": [
+          3,
+          7
+        ],
+        "output_shape": [
+          3,
+          7
+        ],
+        "expected_shape": [
+          3,
+          3
+        ]
+      }
+    ],
+    "errors": []
+  }
+]

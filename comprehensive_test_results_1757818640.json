@@ -1,0 +1,66 @@
+[
+  {
+    "system_name": "final_arc_system",
+    "status": "نجح",
+    "execution_time": 0.0020122528076171875,
+    "solutions_count": 1,
+    "error": null,
+    "success": true
+  },
+  {
+    "system_name": "arc_clean_integrated_system",
+    "status": "نجح",
+    "execution_time": 0.005757331848144531,
+    "solutions_count": 1,
+    "error": null,
+    "success": true
+  },
+  {
+    "system_name": "arc_ultimate_perfect_system",
+    "status": "نجح",
+    "execution_time": 0.0027146339416503906,
+    "solutions_count": 1,
+    "error": null,
+    "success": true
+  },
+  {
+    "system_name": "arc_core_redesign",
+    "status": "نجح",
+    "execution_time": 0.0010502338409423828,
+    "solutions_count": 1,
+    "error": null,
+    "success": true
+  },
+  {
+    "system_name": "perfect_arc_system",
+    "status": "خطأ",
+    "execution_time": 0.0,
+    "solutions_count": 0,
+    "error": "'PerfectARCSystem' object has no attribute 'solve_task'",
+    "success": false
+  },
+  {
+    "system_name": "ultimate_ai_system",
+    "status": "خطأ",
+    "execution_time": 0.004378080368041992,
+    "solutions_count": 0,
+    "error": "'UltimateAISystem' object has no attribute 'solve_task'",
+    "success": false
+  },
+  {
+    "system_name": "ultra_advanced_arc_system",
+    "status": "خطأ",
+    "execution_time": 0.0020151138305664062,
+    "solutions_count": 0,
+    "error": "'UltraAdvancedARCSystem' object has no attribute 'solve_task'",
+    "success": false
+  },
+  {
+    "system_name": "genius_arc_manager",
+    "status": "خطأ",
+    "execution_time": 0.30786943435668945,
+    "solutions_count": 0,
+    "error": "'GeniusARCManager' object has no attribute 'solve_task'",
+    "success": false
+  }
+]

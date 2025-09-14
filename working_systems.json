@@ -1,0 +1,10 @@
+[
+  {
+    "name": "enhanced_efficient_zero",
+    "function": "solve_task"
+  },
+  {
+    "name": "neural_pattern_learner",
+    "function": "solve_task"
+  }
+]

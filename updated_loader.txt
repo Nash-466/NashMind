@@ -1,0 +1,45 @@
+def load_all_working_systems(self):
+    """تحميل جميع الأنظمة العاملة"""
+    
+    # قائمة الأنظمة المؤكد عملها
+    working_systems = [
+        {
+            'module': 'enhanced_efficient_zero',
+            'function': 'solve_task'
+        },
+        {
+            'module': 'neural_pattern_learner',
+            'function': 'solve_task'
+        },
+    ]
+    
+    for system_info in working_systems:
+        try:
+            module = __import__(system_info['module'])
+            
+            if system_info['function'] == 'solve_task':
+                self.systems.append({
+                    'name': system_info['module'],
+                    'solve': module.solve_task,
+                    'priority': 1.0
+                })
+            elif system_info['function'] == 'ARCSolver':
+                solver = module.ARCSolver()
+                self.systems.append({
+                    'name': system_info['module'],
+                    'solve': solver.solve,
+                    'priority': 1.0
+                })
+            elif system_info['function'] == 'solve':
+                self.systems.append({
+                    'name': system_info['module'],
+                    'solve': module.solve,
+                    'priority': 1.0
+                })
+                
+            logger.info(f"✓ تم تحميل: {system_info['module']}")
+            
+        except Exception as e:
+            logger.warning(f"فشل تحميل {system_info['module']}: {e}")
+    
+    logger.info(f"تم تحميل {len(self.systems)} نظام بنجاح")

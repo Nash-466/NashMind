@@ -1,0 +1,66 @@
+[
+  {
+    "system_name": "final_arc_system",
+    "status": "نجح",
+    "execution_time": 0.0015087127685546875,
+    "solutions_count": 1,
+    "error": null,
+    "success": true
+  },
+  {
+    "system_name": "arc_clean_integrated_system",
+    "status": "نجح",
+    "execution_time": 0.001077890396118164,
+    "solutions_count": 1,
+    "error": null,
+    "success": true
+  },
+  {
+    "system_name": "arc_ultimate_perfect_system",
+    "status": "خطأ",
+    "execution_time": 0.00650334358215332,
+    "solutions_count": 0,
+    "error": "The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()",
+    "success": false
+  },
+  {
+    "system_name": "arc_core_redesign",
+    "status": "خطأ",
+    "execution_time": 0.0021893978118896484,
+    "solutions_count": 0,
+    "error": "The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()",
+    "success": false
+  },
+  {
+    "system_name": "perfect_arc_system",
+    "status": "خطأ",
+    "execution_time": 0.0,
+    "solutions_count": 0,
+    "error": "'PerfectARCSystem' object has no attribute 'solve_task'",
+    "success": false
+  },
+  {
+    "system_name": "ultimate_ai_system",
+    "status": "خطأ",
+    "execution_time": 0.006000995635986328,
+    "solutions_count": 0,
+    "error": "'UltimateAISystem' object has no attribute 'solve_task'",
+    "success": false
+  },
+  {
+    "system_name": "ultra_advanced_arc_system",
+    "status": "خطأ",
+    "execution_time": 0.0004763603210449219,
+    "solutions_count": 0,
+    "error": "'UltraAdvancedARCSystem' object has no attribute 'solve_task'",
+    "success": false
+  },
+  {
+    "system_name": "genius_arc_manager",
+    "status": "خطأ",
+    "execution_time": 0.3038656711578369,
+    "solutions_count": 0,
+    "error": "'GeniusARCManager' object has no attribute 'solve_task'",
+    "success": false
+  }
+]

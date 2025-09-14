@@ -1,0 +1,129 @@
+{
+  "{\"color_counts\": [[3, 3], [3, 3], [3, 3], [3, 3]], \"shapes\": [[[3, 3], [3, 3]], [[3, 3], [3, 3]], [[3, 3], [3, 3]], [[3, 3], [3, 3]]], \"test_shape\": [3, 3]}": {
+    "cached_grid": [
+      [
+        9,
+        5,
+        4
+      ],
+      [
+        9,
+        5,
+        4
+      ],
+      [
+        9,
+        5,
+        4
+      ]
+    ],
+    "source": "orchestrator"
+  },
+  "{\"color_counts\": [[3, 3], [2, 2], [3, 3]], \"shapes\": [[[10, 10], [10, 10]], [[10, 10], [10, 10]], [[10, 10], [10, 10]]], \"test_shape\": [10, 10]}": {
+    "strategy_name": "fill_between_rows",
+    "source": "market",
+    "confidence": 0.7
+  },
+  "{\"color_counts\": [[2, 2], [2, 2], [2, 2], [2, 2]], \"shapes\": [[[3, 3], [3, 3]], [[3, 3], [3, 3]], [[3, 3], [3, 3]], [[3, 3], [3, 3]]], \"test_shape\": [3, 3]}": {
+    "strategy_name": "translate_fg",
+    "source": "market",
+    "confidence": 0.65
+  },
+  "{\"color_counts\": [[2, 2], [3, 3], [3, 3], [3, 3]], \"shapes\": [[[3, 3], [3, 3]], [[3, 3], [3, 3]], [[3, 3], [3, 3]], [[3, 3], [3, 3]]], \"test_shape\": [3, 3]}": {
+    "cached_grid": [
+      [
+        7,
+        6,
+        4
+      ],
+      [
+        4,
+        6,
+        6
+      ],
+      [
+        4,
+        4,
+        6
+      ]
+    ],
+    "source": "orchestrator"
+  },
+  "{\"color_counts\": [[3, 3], [3, 3]], \"shapes\": [[[4, 4], [8, 8]], [[3, 3], [6, 6]]], \"test_shape\": [5, 5]}": {
+    "strategy_name": "pixel_scale",
+    "source": "market",
+    "confidence": 0.8
+  },
+  "{\"color_counts\": [[4, 4], [5, 5]], \"shapes\": [[[3, 3], [3, 3]], [[3, 3], [3, 3]]], \"test_shape\": [3, 3]}": {
+    "cached_grid": [
+      [
+        0,
+        0,
+        4
+      ],
+      [
+        0,
+        8,
+        6
+      ],
+      [
+        5,
+        3,
+        6
+      ]
+    ],
+    "source": "orchestrator"
+  },
+  "{\"color_counts\": [[4, 4], [4, 4], [4, 4]], \"shapes\": [[[7, 7], [7, 7]], [[4, 4], [4, 4]], [[6, 6], [6, 6]]], \"test_shape\": [3, 3]}": {
+    "strategy_name": "flip_horizontal",
+    "source": "market",
+    "confidence": 0.5
+  },
+  "{\"color_counts\": [[6, 6], [6, 6], [6, 6]], \"shapes\": [[[5, 5], [5, 5]], [[5, 5], [5, 5]], [[7, 7], [7, 7]]], \"test_shape\": [7, 7]}": {
+    "strategy_name": "flip_vertical",
+    "source": "market",
+    "confidence": 0.5
+  },
+  "{\"color_counts\": [[1, 2], [1, 2], [1, 2], [1, 2]], \"shapes\": [[[5, 4], [5, 4]], [[4, 3], [4, 3]], [[5, 6], [5, 6]], [[3, 3], [3, 3]]], \"test_shape\": [7, 6]}": {
+    "strategy_name": "border_fill",
+    "source": "market",
+    "confidence": 0.7
+  },
+  "{\"color_counts\": [[5, 5], [5, 5], [5, 5]], \"shapes\": [[[6, 6], [6, 6]], [[4, 4], [4, 4]], [[5, 5], [5, 5]]], \"test_shape\": [5, 5]}": {
+    "strategy_name": "apply_gravity",
+    "source": "market",
+    "confidence": 0.65
+  },
+  "{\"color_counts\": [], \"shapes\": [], \"test_shape\": [2, 2]}": {
+    "strategy_name": "compose(rotate_90+flip_horizontal)",
+    "source": "composition"
+  },
+  "{\"color_counts\": [], \"shapes\": [], \"test_shape\": [3, 3]}": {
+    "strategy_name": "compose(rotate_90+flip_horizontal)",
+    "source": "composition"
+  },
+  "{\"color_counts\": [], \"shapes\": [], \"test_shape\": [14, 14]}": {
+    "strategy_name": "compose(rotate_90+flip_horizontal)",
+    "source": "composition"
+  },
+  "{\"color_counts\": [], \"shapes\": [], \"test_shape\": [20, 20]}": {
+    "strategy_name": "compose(rotate_90+flip_horizontal)",
+    "source": "composition"
+  },
+  "{\"color_counts\": [], \"shapes\": [], \"test_shape\": [6, 3]}": {
+    "strategy_name": "compose(rotate_90+flip_horizontal)",
+    "source": "composition"
+  },
+  "{\"color_counts\": [], \"shapes\": [], \"test_shape\": [10, 10]}": {
+    "strategy_name": "compose(rotate_90+flip_horizontal)",
+    "source": "composition"
+  },
+  "{\"color_counts\": [], \"shapes\": [], \"test_shape\": [21, 21]}": {
+    "strategy_name": "compose(rotate_90+flip_horizontal)",
+    "source": "composition"
+  },
+  "{\"color_counts\": [], \"shapes\": [], \"test_shape\": [3, 7]}": {
+    "strategy_name": "compose(rotate_90+flip_horizontal)",
+    "source": "composition"
+  }
+}

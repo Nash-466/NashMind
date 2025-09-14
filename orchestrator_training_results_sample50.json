@@ -1,0 +1,1510 @@
+{
+  "summary": {
+    "total_tasks": 50,
+    "perfect": 2,
+    "partial": 43,
+    "avg_accuracy_percent": 69.59982914755935
+  },
+  "results": [
+    {
+      "task_id": "00576224",
+      "acc": 0.3333333333333333,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            6,
+            6
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            6,
+            6
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            6,
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "007bbfb7",
+      "acc": 0.7777777777777778,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "009d5c81",
+      "acc": 1.0,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            14,
+            14
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            14,
+            14
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            14,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "00d62c1b",
+      "acc": 0.9175,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "00dbd492",
+      "acc": 0.78,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "017c7c7b",
+      "acc": 0.7037037037037037,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            3
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            3
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            6,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "025d127b",
+      "acc": 0.88,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "03560426",
+      "acc": 0.79,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "045e512c",
+      "acc": 0.9024943310657596,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            21,
+            21
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            21,
+            21
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            21,
+            21
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0520fde7",
+      "acc": 0.4444444444444444,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            3,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "05269061",
+      "acc": 0.42857142857142855,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            7,
+            7
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            7,
+            7
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            7,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "05a7bcf2",
+      "acc": 0.6066666666666667,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            30,
+            30
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            30,
+            30
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            30,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "05f2a901",
+      "acc": 0.9454545454545454,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            11,
+            10
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            11,
+            10
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            11,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0607ce86",
+      "acc": 0.9015151515151515,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            24,
+            22
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            24,
+            22
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            24,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0692e18c",
+      "acc": 0.8024691358024691,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "06df4c85",
+      "acc": 0.9467455621301775,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            26,
+            26
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            26,
+            26
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            26,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "070dd51e",
+      "acc": 0.8925,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            20,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "08ed6ac7",
+      "acc": 0.8148148148148148,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "09629e4f",
+      "acc": 0.7024793388429752,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            11,
+            11
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            11,
+            11
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            11,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0962bcdd",
+      "acc": 0.8333333333333334,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            12,
+            12
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            12,
+            12
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            12,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "09c534e7",
+      "acc": 0.8544444444444445,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            30,
+            30
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            30,
+            30
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            30,
+            30
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0a1d4ef5",
+      "acc": 0.0,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            2,
+            3
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            2,
+            3
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0a2355a6",
+      "acc": 0.7725490196078432,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            17
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            17
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            15,
+            17
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0a938d79",
+      "acc": 0.8215488215488216,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            11,
+            27
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            11,
+            27
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            11,
+            27
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0b148d64",
+      "acc": 0.0,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            5,
+            8
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            5,
+            8
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            7,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0b17323b",
+      "acc": 0.9911111111111112,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0bb8deee",
+      "acc": 0.0,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            5,
+            6
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            5,
+            6
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            14,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0becf7df",
+      "acc": 0.96,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0c786b71",
+      "acc": 0.4166666666666667,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            6,
+            8
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            6,
+            8
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            6,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0c9aba6e",
+      "acc": 0.625,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            6,
+            4
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            6,
+            4
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            13,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0ca9ddb6",
+      "acc": 0.8518518518518519,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            9,
+            9
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0d3d703e",
+      "acc": 1.0,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0d87d2a6",
+      "acc": 0.8939130434782608,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            23,
+            25
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            23,
+            25
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            23,
+            25
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0e206a2e",
+      "acc": 0.9298245614035088,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            24,
+            19
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            24,
+            19
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            24,
+            19
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0e671a1a",
+      "acc": 0.8757396449704142,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "0f63c0b9",
+      "acc": 0.5377777777777778,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "103eff5b",
+      "acc": 0.8846153846153846,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            16,
+            26
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            16,
+            26
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            16,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "10fcaaa3",
+      "acc": 0.575,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            12,
+            10
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            12,
+            10
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            12,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "11852cab",
+      "acc": 0.97,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "1190bc91",
+      "acc": 0.390625,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            8,
+            8
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            8,
+            8
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "1190e5a7",
+      "acc": 0.0,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            6,
+            4
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            6,
+            4
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            22,
+            22
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "11dc524f",
+      "acc": 0.9644970414201184,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "11e1fe23",
+      "acc": 0.9761904761904762,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            12,
+            14
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            12,
+            14
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            12,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "12422b43",
+      "acc": 0.8571428571428571,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            7
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            7
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "12997ef3",
+      "acc": 0.0,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            4,
+            3
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            4,
+            3
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            9,
+            11
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "12eac192",
+      "acc": 0.765625,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            8,
+            8
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            8,
+            8
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            8,
+            8
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "13713586",
+      "acc": 0.5175438596491229,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            19,
+            18
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            19,
+            18
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            19,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "137eaa0f",
+      "acc": 0.4444444444444444,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "137f0df0",
+      "acc": 0.72,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "task_id": "13f06aa5",
+      "acc": 0.8,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            17
+          ]
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            17
+          ]
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            15,
+            17
+          ]
+        }
+      ]
+    }
+  ]
+}

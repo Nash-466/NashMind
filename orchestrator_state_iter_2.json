@@ -1,0 +1,2996 @@
+{
+  "memory": {
+    "successful_patterns": {
+      "e6721834": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "c3fa4749": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "3ee1011a": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "67c52801": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "a65b410d": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "94be5b80": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "ea786f4a": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "2f767503": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "0d87d2a6": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "50f325b5": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "cad67732": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "4ff4c9da": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "dc2e9a9d": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "67a3c6ac": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "abbfd121": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "2ccd9fef": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "6bcdb01e": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "34cfa167": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "b25e450b": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "834ec97d": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "da6e95e5": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "963e52fc": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "9c56f360": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "4364c1c4": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "f83cb3f6": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "896d5239": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "d5d6de2d": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "f9a67cb5": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "97c75046": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "d968ffd4": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "494ef9d7": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "ad3b40cf": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "e179c5f4": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "54d82841": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "7b7f7511": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "c074846d": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "e39e9282": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "58743b76": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "6aa20dc0": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "37d3e8b2": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "28e73c20": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "ae58858e": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "00dbd492": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "025d127b": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "0607ce86": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "070dd51e": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "0a1d4ef5": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "0a2355a6": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "0a938d79": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "0b148d64": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "0e206a2e": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "103eff5b": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "10fcaaa3": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1190e5a7": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "11e1fe23": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "12422b43": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "12997ef3": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "12eac192": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "13713586": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "13f06aa5": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "140c817e": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "150deff5": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "15660dd6": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "15663ba9": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "178fcbfb": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "17b866bd": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "18286ef8": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "182e5d0f": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "18419cfa": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "184a9768": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1a07d186": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1a6449f1": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1be83260": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1c0d0a4b": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1c786137": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1cf80156": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1d398264": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "1da012fc": [
+        {
+          "system": "unified_solver"
+        },
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "833dafe3": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "8dae5dfc": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "80214e03": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "b1986d4b": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "414297c0": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "b71a7747": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "d687bc17": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "712bf12e": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "9def23fe": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "67385a82": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "3ad05f52": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "67a423a3": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "d931c21c": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "d631b094": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "b942fd60": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "e4941b18": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "3cd86f4f": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "5168d44c": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "bf89d739": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "df8cc377": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "7e4d4f7c": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "ce8d95cc": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "2faf500b": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "48131b3c": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "45bbe264": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "fbf15a0b": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "50cb2852": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "d0f5fe59": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "5b692c0f": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "27a77e38": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "a3325580": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "22425bda": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "a5f85a15": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "25e02866": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "9344f635": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "fcb5c309": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "f0afb749": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "b745798f": [
+        {
+          "system": "unified_solver"
+        }
+      ],
+      "b457fec5": [
+        {
+          "system": "unified_solver"
+        }
+      ]
+    },
+    "failed_patterns": {
+      "32597951": [
+        {
+          "pattern": {
+            "best_score": 0.47750865051903113
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 47.75%",
+          "timestamp": "2025-09-13 14:07:17.168456"
+        }
+      ],
+      "c909285e": [
+        {
+          "pattern": {
+            "best_score": 0.3469387755102041
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 34.69%",
+          "timestamp": "2025-09-13 14:09:09.296623"
+        }
+      ],
+      "40f6cd08": [
+        {
+          "pattern": {
+            "best_score": 0.47944444444444445
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 47.94%",
+          "timestamp": "2025-09-13 14:13:32.422891"
+        }
+      ],
+      "d9fac9be": [
+        {
+          "pattern": {
+            "best_score": 0.25
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 25.00%",
+          "timestamp": "2025-09-13 14:13:47.707109"
+        }
+      ],
+      "c6e1b8da": [
+        {
+          "pattern": {
+            "best_score": 0.5641666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 56.42%",
+          "timestamp": "2025-09-13 14:14:42.237355"
+        }
+      ],
+      "447fd412": [
+        {
+          "pattern": {
+            "best_score": 0.8115079365079364
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 81.15%",
+          "timestamp": "2025-09-13 14:15:02.576636"
+        }
+      ],
+      "d8c310e9": [
+        {
+          "pattern": {
+            "best_score": 0.64
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 64.00%",
+          "timestamp": "2025-09-13 14:15:11.692029"
+        },
+        {
+          "pattern": {
+            "best_score": 0.64
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 64.00%",
+          "timestamp": "2025-09-13 15:12:12.252484"
+        }
+      ],
+      "d19f7514": [
+        {
+          "pattern": {
+            "best_score": 0.71875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.88%",
+          "timestamp": "2025-09-13 14:15:29.383597"
+        }
+      ],
+      "623ea044": [
+        {
+          "pattern": {
+            "best_score": 0.9111111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 91.11%",
+          "timestamp": "2025-09-13 14:15:49.456985"
+        }
+      ],
+      "992798f6": [
+        {
+          "pattern": {
+            "best_score": 0.95703125
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 95.70%",
+          "timestamp": "2025-09-13 14:16:18.018609"
+        }
+      ],
+      "a8d7556c": [
+        {
+          "pattern": {
+            "best_score": 0.6080246913580247
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 60.80%",
+          "timestamp": "2025-09-13 14:16:57.130832"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6080246913580247
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 60.80%",
+          "timestamp": "2025-09-13 14:58:15.181666"
+        }
+      ],
+      "e1baa8a4": [
+        {
+          "pattern": {
+            "best_score": 0.5
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 50.00%",
+          "timestamp": "2025-09-13 14:17:24.129980"
+        }
+      ],
+      "e3fe1151": [
+        {
+          "pattern": {
+            "best_score": 0.48
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 48.00%",
+          "timestamp": "2025-09-13 14:17:31.929372"
+        }
+      ],
+      "b1fc8b8e": [
+        {
+          "pattern": {
+            "best_score": 0.9039999999999999
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 90.40%",
+          "timestamp": "2025-09-13 14:17:44.222840"
+        }
+      ],
+      "e6de6e8f": [
+        {
+          "pattern": {
+            "best_score": 0.8452380952380952
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 84.52%",
+          "timestamp": "2025-09-13 14:17:48.881575"
+        }
+      ],
+      "5adee1b2": [
+        {
+          "pattern": {
+            "best_score": 0.7775000000000001
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 77.75%",
+          "timestamp": "2025-09-13 14:18:19.005514"
+        }
+      ],
+      "e57337a4": [
+        {
+          "pattern": {
+            "best_score": 0.3703703703703704
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 37.04%",
+          "timestamp": "2025-09-13 14:18:37.331085"
+        }
+      ],
+      "762cd429": [
+        {
+          "pattern": {
+            "best_score": 0.29375
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 29.38%",
+          "timestamp": "2025-09-13 14:19:06.223094"
+        }
+      ],
+      "ed98d772": [
+        {
+          "pattern": {
+            "best_score": 0.4222222222222222
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 42.22%",
+          "timestamp": "2025-09-13 14:19:15.602313"
+        }
+      ],
+      "cfb2ce5a": [
+        {
+          "pattern": {
+            "best_score": 0.4466666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 44.67%",
+          "timestamp": "2025-09-13 14:20:00.898554"
+        }
+      ],
+      "1b2d62fb": [
+        {
+          "pattern": {
+            "best_score": 0.6266666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.67%",
+          "timestamp": "2025-09-13 14:20:16.793891"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6266666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.67%",
+          "timestamp": "2025-09-13 14:53:16.899804"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6266666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.67%",
+          "timestamp": "2025-09-13 15:26:52.981443"
+        }
+      ],
+      "f3b10344": [
+        {
+          "pattern": {
+            "best_score": 0.7616666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 76.17%",
+          "timestamp": "2025-09-13 14:22:43.710125"
+        }
+      ],
+      "3428a4f5": [
+        {
+          "pattern": {
+            "best_score": 0.6333333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 63.33%",
+          "timestamp": "2025-09-13 14:23:09.316807"
+        }
+      ],
+      "8d510a79": [
+        {
+          "pattern": {
+            "best_score": 0.66
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 66.00%",
+          "timestamp": "2025-09-13 14:23:18.427987"
+        }
+      ],
+      "94f9d214": [
+        {
+          "pattern": {
+            "best_score": 0.796875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 79.69%",
+          "timestamp": "2025-09-13 14:23:25.981178"
+        }
+      ],
+      "0e671a1a": [
+        {
+          "pattern": {
+            "best_score": 0.8446745562130178
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 84.47%",
+          "timestamp": "2025-09-13 14:24:04.896216"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8446745562130178
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 84.47%",
+          "timestamp": "2025-09-13 14:45:35.000919"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8446745562130178
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 84.47%",
+          "timestamp": "2025-09-13 15:20:55.368843"
+        }
+      ],
+      "ecaa0ec1": [
+        {
+          "pattern": {
+            "best_score": 0.9834710743801653
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 98.35%",
+          "timestamp": "2025-09-13 14:24:16.166524"
+        },
+        {
+          "pattern": {
+            "best_score": 0.9834710743801653
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 98.35%",
+          "timestamp": "2025-09-13 15:11:23.651737"
+        }
+      ],
+      "456873bc": [
+        {
+          "pattern": {
+            "best_score": 0.7063711911357341
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.64%",
+          "timestamp": "2025-09-13 14:24:35.921621"
+        }
+      ],
+      "973e499e": [
+        {
+          "pattern": {
+            "best_score": 0.6728395061728395
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 67.28%",
+          "timestamp": "2025-09-13 14:24:41.747232"
+        }
+      ],
+      "9565186b": [
+        {
+          "pattern": {
+            "best_score": 0.41666666666666663
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 41.67%",
+          "timestamp": "2025-09-13 14:24:49.655866"
+        }
+      ],
+      "9172f3a0": [
+        {
+          "pattern": {
+            "best_score": 0.6666666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 66.67%",
+          "timestamp": "2025-09-13 14:24:53.714540"
+        }
+      ],
+      "1e0a9b12": [
+        {
+          "pattern": {
+            "best_score": 0.52
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 52.00%",
+          "timestamp": "2025-09-13 14:25:02.801396"
+        },
+        {
+          "pattern": {
+            "best_score": 0.52
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 52.00%",
+          "timestamp": "2025-09-13 14:56:15.235539"
+        },
+        {
+          "pattern": {
+            "best_score": 0.56
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 56.00%",
+          "timestamp": "2025-09-13 15:30:01.584194"
+        }
+      ],
+      "337b420f": [
+        {
+          "pattern": {
+            "best_score": 0.45
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 45.00%",
+          "timestamp": "2025-09-13 14:25:16.394296"
+        }
+      ],
+      "f76d97a5": [
+        {
+          "pattern": {
+            "best_score": 0.4
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 40.00%",
+          "timestamp": "2025-09-13 14:25:22.610999"
+        }
+      ],
+      "37ce87bb": [
+        {
+          "pattern": {
+            "best_score": 0.8690476190476191
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 86.90%",
+          "timestamp": "2025-09-13 14:25:33.471618"
+        }
+      ],
+      "d93c6891": [
+        {
+          "pattern": {
+            "best_score": 0.767578125
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 76.76%",
+          "timestamp": "2025-09-13 14:25:53.606590"
+        }
+      ],
+      "88a62173": [
+        {
+          "pattern": {
+            "best_score": 0.3333333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 33.33%",
+          "timestamp": "2025-09-13 14:25:58.924488"
+        }
+      ],
+      "6430c8c4": [
+        {
+          "pattern": {
+            "best_score": 0.71875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.88%",
+          "timestamp": "2025-09-13 14:26:06.676520"
+        },
+        {
+          "pattern": {
+            "best_score": 0.71875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.88%",
+          "timestamp": "2025-09-13 15:11:35.805537"
+        }
+      ],
+      "e78887d1": [
+        {
+          "pattern": {
+            "best_score": 0.8111111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 81.11%",
+          "timestamp": "2025-09-13 14:26:19.817325"
+        }
+      ],
+      "e48d4e1a": [
+        {
+          "pattern": {
+            "best_score": 0.68
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.00%",
+          "timestamp": "2025-09-13 14:26:37.427794"
+        }
+      ],
+      "5792cb4d": [
+        {
+          "pattern": {
+            "best_score": 0.69
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 69.00%",
+          "timestamp": "2025-09-13 14:26:45.328112"
+        }
+      ],
+      "3345333e": [
+        {
+          "pattern": {
+            "best_score": 0.849609375
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 84.96%",
+          "timestamp": "2025-09-13 14:27:03.732815"
+        }
+      ],
+      "a87f7484": [
+        {
+          "pattern": {
+            "best_score": 0.33333333333333337
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 33.33%",
+          "timestamp": "2025-09-13 14:27:20.915711"
+        }
+      ],
+      "be94b721": [
+        {
+          "pattern": {
+            "best_score": 0.5833333333333334
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 58.33%",
+          "timestamp": "2025-09-13 14:27:31.664573"
+        }
+      ],
+      "009d5c81": [
+        {
+          "pattern": {
+            "best_score": 0.8071428571428572
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 80.71%",
+          "timestamp": "2025-09-13 14:28:09.537715"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8071428571428572
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 80.71%",
+          "timestamp": "2025-09-13 14:34:37.007670"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8071428571428572
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 80.71%",
+          "timestamp": "2025-09-13 15:13:16.070561"
+        }
+      ],
+      "7e02026e": [
+        {
+          "pattern": {
+            "best_score": 0.5416666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 54.17%",
+          "timestamp": "2025-09-13 14:28:23.657700"
+        }
+      ],
+      "695367ec": [
+        {
+          "pattern": {
+            "best_score": 0.522962962962963
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 52.30%",
+          "timestamp": "2025-09-13 14:28:35.764935"
+        }
+      ],
+      "ec883f72": [
+        {
+          "pattern": {
+            "best_score": 0.6805555555555556
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.06%",
+          "timestamp": "2025-09-13 14:28:49.469223"
+        }
+      ],
+      "aabf363d": [
+        {
+          "pattern": {
+            "best_score": 0.6122448979591837
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 61.22%",
+          "timestamp": "2025-09-13 14:28:58.190192"
+        }
+      ],
+      "e5c44e8f": [
+        {
+          "pattern": {
+            "best_score": 0.559228650137741
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 55.92%",
+          "timestamp": "2025-09-13 14:29:12.776118"
+        }
+      ],
+      "484b58aa": [
+        {
+          "pattern": {
+            "best_score": 0.29805786761791514
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 29.81%",
+          "timestamp": "2025-09-13 14:31:41.876650"
+        }
+      ],
+      "e76a88a6": [
+        {
+          "pattern": {
+            "best_score": 0.55
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 55.00%",
+          "timestamp": "2025-09-13 14:31:50.056632"
+        }
+      ],
+      "fe45cba4": [
+        {
+          "pattern": {
+            "best_score": 0.90625
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 90.62%",
+          "timestamp": "2025-09-13 14:31:57.595097"
+        }
+      ],
+      "d511f180": [
+        {
+          "pattern": {
+            "best_score": 0.5555555555555556
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 55.56%",
+          "timestamp": "2025-09-13 14:32:03.764125"
+        }
+      ],
+      "17b80ad2": [
+        {
+          "pattern": {
+            "best_score": 0.657439446366782
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 65.74%",
+          "timestamp": "2025-09-13 14:32:32.492144"
+        },
+        {
+          "pattern": {
+            "best_score": 0.657439446366782
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 65.74%",
+          "timestamp": "2025-09-13 14:50:50.080109"
+        },
+        {
+          "pattern": {
+            "best_score": 0.657439446366782
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 65.74%",
+          "timestamp": "2025-09-13 15:24:34.773387"
+        }
+      ],
+      "6cf79266": [
+        {
+          "pattern": {
+            "best_score": 0.20666666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 20.67%",
+          "timestamp": "2025-09-13 14:33:20.320592"
+        }
+      ],
+      "ded97339": [
+        {
+          "pattern": {
+            "best_score": 0.8266666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 82.67%",
+          "timestamp": "2025-09-13 14:33:38.117742"
+        }
+      ],
+      "fd02da9e": [
+        {
+          "pattern": {
+            "best_score": 0.8828125
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 88.28%",
+          "timestamp": "2025-09-13 14:33:49.210033"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8828125
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 88.28%",
+          "timestamp": "2025-09-13 15:04:14.105470"
+        }
+      ],
+      "00576224": [
+        {
+          "pattern": {
+            "best_score": 0.5
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 50.00%",
+          "timestamp": "2025-09-13 14:33:58.072518"
+        },
+        {
+          "pattern": {
+            "best_score": 0.5
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 50.00%",
+          "timestamp": "2025-09-13 15:12:47.025487"
+        }
+      ],
+      "007bbfb7": [
+        {
+          "pattern": {
+            "best_score": 0.6839506172839507
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.40%",
+          "timestamp": "2025-09-13 14:34:07.290356"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6839506172839507
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.40%",
+          "timestamp": "2025-09-13 15:12:52.639085"
+        }
+      ],
+      "00d62c1b": [
+        {
+          "pattern": {
+            "best_score": 0.7025
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.25%",
+          "timestamp": "2025-09-13 14:35:07.738047"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7025
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.25%",
+          "timestamp": "2025-09-13 15:13:36.029647"
+        }
+      ],
+      "017c7c7b": [
+        {
+          "pattern": {
+            "best_score": 0.7654320987654321
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 76.54%",
+          "timestamp": "2025-09-13 14:35:17.681981"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7654320987654321
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 76.54%",
+          "timestamp": "2025-09-13 15:13:42.440410"
+        }
+      ],
+      "03560426": [
+        {
+          "pattern": {
+            "best_score": 0.8166666666666668
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 81.67%",
+          "timestamp": "2025-09-13 14:35:31.948447"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8166666666666668
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 81.67%",
+          "timestamp": "2025-09-13 15:13:50.785912"
+        }
+      ],
+      "045e512c": [
+        {
+          "pattern": {
+            "best_score": 0.8881330309901738
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 88.81%",
+          "timestamp": "2025-09-13 14:36:11.968393"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8881330309901738
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 88.81%",
+          "timestamp": "2025-09-13 15:14:27.951217"
+        }
+      ],
+      "0520fde7": [
+        {
+          "pattern": {
+            "best_score": 0.6666666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 66.67%",
+          "timestamp": "2025-09-13 14:36:15.800479"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6666666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 66.67%",
+          "timestamp": "2025-09-13 14:57:33.073711"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6666666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 66.67%",
+          "timestamp": "2025-09-13 15:14:32.134291"
+        }
+      ],
+      "05269061": [
+        {
+          "pattern": {
+            "best_score": 0.28571428571428575
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 28.57%",
+          "timestamp": "2025-09-13 14:36:20.463592"
+        },
+        {
+          "pattern": {
+            "best_score": 0.28571428571428575
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 28.57%",
+          "timestamp": "2025-09-13 15:14:37.332845"
+        }
+      ],
+      "05a7bcf2": [
+        {
+          "pattern": {
+            "best_score": 0.6296296296296297
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.96%",
+          "timestamp": "2025-09-13 14:39:27.014051"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6296296296296297
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.96%",
+          "timestamp": "2025-09-13 15:16:40.576784"
+        }
+      ],
+      "05f2a901": [
+        {
+          "pattern": {
+            "best_score": 0.8727272727272727
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 87.27%",
+          "timestamp": "2025-09-13 14:39:43.023736"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8727272727272727
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 87.27%",
+          "timestamp": "2025-09-13 15:16:48.645979"
+        }
+      ],
+      "0692e18c": [
+        {
+          "pattern": {
+            "best_score": 0.7283950617283951
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 72.84%",
+          "timestamp": "2025-09-13 14:40:12.475335"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7283950617283951
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 72.84%",
+          "timestamp": "2025-09-13 15:17:09.924858"
+        }
+      ],
+      "06df4c85": [
+        {
+          "pattern": {
+            "best_score": 0.666351606805293
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 66.64%",
+          "timestamp": "2025-09-13 14:41:10.034553"
+        },
+        {
+          "pattern": {
+            "best_score": 0.666351606805293
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 66.64%",
+          "timestamp": "2025-09-13 15:17:56.497834"
+        }
+      ],
+      "08ed6ac7": [
+        {
+          "pattern": {
+            "best_score": 0.7345679012345678
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 73.46%",
+          "timestamp": "2025-09-13 14:41:25.424550"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7345679012345678
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 73.46%",
+          "timestamp": "2025-09-13 15:18:10.315726"
+        }
+      ],
+      "09629e4f": [
+        {
+          "pattern": {
+            "best_score": 0.7024793388429752
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.25%",
+          "timestamp": "2025-09-13 14:41:40.541090"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7024793388429752
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.25%",
+          "timestamp": "2025-09-13 15:18:21.593972"
+        }
+      ],
+      "0962bcdd": [
+        {
+          "pattern": {
+            "best_score": 0.7569444444444444
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 75.69%",
+          "timestamp": "2025-09-13 14:41:49.207343"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7569444444444444
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 75.69%",
+          "timestamp": "2025-09-13 15:18:28.680322"
+        }
+      ],
+      "09c534e7": [
+        {
+          "pattern": {
+            "best_score": 0.5611111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 56.11%",
+          "timestamp": "2025-09-13 14:43:08.369344"
+        },
+        {
+          "pattern": {
+            "best_score": 0.5611111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 56.11%",
+          "timestamp": "2025-09-13 15:19:30.863836"
+        }
+      ],
+      "0b17323b": [
+        {
+          "pattern": {
+            "best_score": 0.971111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 97.11%",
+          "timestamp": "2025-09-13 14:43:45.444855"
+        },
+        {
+          "pattern": {
+            "best_score": 0.971111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 97.11%",
+          "timestamp": "2025-09-13 15:19:50.230539"
+        }
+      ],
+      "0bb8deee": [
+        {
+          "pattern": {
+            "best_score": 0.5555555555555556
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 55.56%",
+          "timestamp": "2025-09-13 14:44:10.282653"
+        },
+        {
+          "pattern": {
+            "best_score": 0.5555555555555556
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 55.56%",
+          "timestamp": "2025-09-13 15:20:01.655454"
+        }
+      ],
+      "0becf7df": [
+        {
+          "pattern": {
+            "best_score": 0.6866666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.67%",
+          "timestamp": "2025-09-13 14:44:26.728009"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6866666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.67%",
+          "timestamp": "2025-09-13 15:20:09.258097"
+        }
+      ],
+      "0c786b71": [
+        {
+          "pattern": {
+            "best_score": 0.3888888888888889
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 38.89%",
+          "timestamp": "2025-09-13 14:44:32.876273"
+        },
+        {
+          "pattern": {
+            "best_score": 0.3888888888888889
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 38.89%",
+          "timestamp": "2025-09-13 15:20:13.206145"
+        }
+      ],
+      "0c9aba6e": [
+        {
+          "pattern": {
+            "best_score": 0.6458333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 64.58%",
+          "timestamp": "2025-09-13 14:44:42.170259"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6458333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 64.58%",
+          "timestamp": "2025-09-13 15:20:20.371898"
+        }
+      ],
+      "0ca9ddb6": [
+        {
+          "pattern": {
+            "best_score": 0.7983539094650206
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 79.84%",
+          "timestamp": "2025-09-13 14:44:51.632313"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7983539094650206
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 79.84%",
+          "timestamp": "2025-09-13 14:59:31.226078"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7983539094650206
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 79.84%",
+          "timestamp": "2025-09-13 15:20:27.302366"
+        }
+      ],
+      "0d3d703e": [
+        {
+          "pattern": {
+            "best_score": 0.1111111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 11.11%",
+          "timestamp": "2025-09-13 14:44:58.861291"
+        },
+        {
+          "pattern": {
+            "best_score": 0.1111111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 11.11%",
+          "timestamp": "2025-09-13 15:11:29.979813"
+        },
+        {
+          "pattern": {
+            "best_score": 0.1111111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 11.11%",
+          "timestamp": "2025-09-13 15:20:32.124184"
+        }
+      ],
+      "0f63c0b9": [
+        {
+          "pattern": {
+            "best_score": 0.5533333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 55.33%",
+          "timestamp": "2025-09-13 14:46:04.093849"
+        },
+        {
+          "pattern": {
+            "best_score": 0.5533333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 55.33%",
+          "timestamp": "2025-09-13 15:21:16.952266"
+        }
+      ],
+      "11852cab": [
+        {
+          "pattern": {
+            "best_score": 0.8466666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 84.67%",
+          "timestamp": "2025-09-13 14:46:19.804076"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8466666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 84.67%",
+          "timestamp": "2025-09-13 15:21:29.664069"
+        }
+      ],
+      "1190bc91": [
+        {
+          "pattern": {
+            "best_score": 0.53
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 53.00%",
+          "timestamp": "2025-09-13 14:46:29.589452"
+        },
+        {
+          "pattern": {
+            "best_score": 0.53
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 53.00%",
+          "timestamp": "2025-09-13 15:21:35.907610"
+        }
+      ],
+      "11dc524f": [
+        {
+          "pattern": {
+            "best_score": 0.9644970414201183
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 96.45%",
+          "timestamp": "2025-09-13 14:46:45.959589"
+        },
+        {
+          "pattern": {
+            "best_score": 0.9644970414201183
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 96.45%",
+          "timestamp": "2025-09-13 15:21:48.350016"
+        }
+      ],
+      "137eaa0f": [
+        {
+          "pattern": {
+            "best_score": 0.48148148148148145
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 48.15%",
+          "timestamp": "2025-09-13 14:47:10.867152"
+        },
+        {
+          "pattern": {
+            "best_score": 0.48148148148148145
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 48.15%",
+          "timestamp": "2025-09-13 15:22:05.091573"
+        }
+      ],
+      "137f0df0": [
+        {
+          "pattern": {
+            "best_score": 0.4333333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 43.33%",
+          "timestamp": "2025-09-13 14:47:19.987464"
+        },
+        {
+          "pattern": {
+            "best_score": 0.4333333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 43.33%",
+          "timestamp": "2025-09-13 15:22:12.630768"
+        }
+      ],
+      "14754a24": [
+        {
+          "pattern": {
+            "best_score": 0.7476190476190476
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 74.76%",
+          "timestamp": "2025-09-13 14:48:02.819112"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7476190476190476
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 74.76%",
+          "timestamp": "2025-09-13 15:22:41.680641"
+        }
+      ],
+      "1478ab18": [
+        {
+          "pattern": {
+            "best_score": 0.7135416666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.35%",
+          "timestamp": "2025-09-13 14:48:14.711621"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7135416666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.35%",
+          "timestamp": "2025-09-13 15:22:47.617733"
+        }
+      ],
+      "14b8e18c": [
+        {
+          "pattern": {
+            "best_score": 0.62
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.00%",
+          "timestamp": "2025-09-13 14:48:25.119519"
+        },
+        {
+          "pattern": {
+            "best_score": 0.62
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.00%",
+          "timestamp": "2025-09-13 15:22:55.150256"
+        }
+      ],
+      "15113be4": [
+        {
+          "pattern": {
+            "best_score": 0.6465028355387524
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 64.65%",
+          "timestamp": "2025-09-13 14:49:47.781127"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6465028355387524
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 64.65%",
+          "timestamp": "2025-09-13 15:23:54.437769"
+        }
+      ],
+      "15696249": [
+        {
+          "pattern": {
+            "best_score": 0.654320987654321
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 65.43%",
+          "timestamp": "2025-09-13 14:50:09.953236"
+        },
+        {
+          "pattern": {
+            "best_score": 0.654320987654321
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 65.43%",
+          "timestamp": "2025-09-13 15:24:05.535156"
+        }
+      ],
+      "17829a00": [
+        {
+          "pattern": {
+            "best_score": 0.685546875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.55%",
+          "timestamp": "2025-09-13 14:50:26.712062"
+        },
+        {
+          "pattern": {
+            "best_score": 0.685546875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.55%",
+          "timestamp": "2025-09-13 15:08:06.037783"
+        },
+        {
+          "pattern": {
+            "best_score": 0.685546875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.55%",
+          "timestamp": "2025-09-13 15:24:17.965192"
+        }
+      ],
+      "17cae0c1": [
+        {
+          "pattern": {
+            "best_score": 0.25
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 25.00%",
+          "timestamp": "2025-09-13 14:51:06.012958"
+        },
+        {
+          "pattern": {
+            "best_score": 0.25
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 25.00%",
+          "timestamp": "2025-09-13 15:24:44.939685"
+        }
+      ],
+      "18447a8d": [
+        {
+          "pattern": {
+            "best_score": 0.7165775401069518
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.66%",
+          "timestamp": "2025-09-13 14:51:29.436342"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7165775401069518
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.66%",
+          "timestamp": "2025-09-13 15:25:07.310917"
+        }
+      ],
+      "195ba7dc": [
+        {
+          "pattern": {
+            "best_score": 0.7749999999999999
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 77.50%",
+          "timestamp": "2025-09-13 14:51:48.983749"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7749999999999999
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 77.50%",
+          "timestamp": "2025-09-13 15:25:29.248813"
+        }
+      ],
+      "1990f7a8": [
+        {
+          "pattern": {
+            "best_score": 0.7414965986394558
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 74.15%",
+          "timestamp": "2025-09-13 14:52:10.495549"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7414965986394558
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 74.15%",
+          "timestamp": "2025-09-13 15:25:51.025253"
+        }
+      ],
+      "19bb5feb": [
+        {
+          "pattern": {
+            "best_score": 0.4166666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 41.67%",
+          "timestamp": "2025-09-13 14:52:21.773895"
+        },
+        {
+          "pattern": {
+            "best_score": 0.4166666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 41.67%",
+          "timestamp": "2025-09-13 15:26:04.278403"
+        }
+      ],
+      "1a244afd": [
+        {
+          "pattern": {
+            "best_score": 0.94140625
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 94.14%",
+          "timestamp": "2025-09-13 14:52:36.013012"
+        },
+        {
+          "pattern": {
+            "best_score": 0.94140625
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 94.14%",
+          "timestamp": "2025-09-13 15:26:19.721849"
+        }
+      ],
+      "1a2e2828": [
+        {
+          "pattern": {
+            "best_score": 0.2
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 20.00%",
+          "timestamp": "2025-09-13 14:52:45.954117"
+        },
+        {
+          "pattern": {
+            "best_score": 0.2
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 20.00%",
+          "timestamp": "2025-09-13 15:26:31.124116"
+        }
+      ],
+      "1acc24af": [
+        {
+          "pattern": {
+            "best_score": 0.701388888888889
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.14%",
+          "timestamp": "2025-09-13 14:53:09.920302"
+        },
+        {
+          "pattern": {
+            "best_score": 0.701388888888889
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.14%",
+          "timestamp": "2025-09-13 15:26:45.799413"
+        }
+      ],
+      "1b59e163": [
+        {
+          "pattern": {
+            "best_score": 0.8935185185185185
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 89.35%",
+          "timestamp": "2025-09-13 14:53:32.165962"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8935185185185185
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 89.35%",
+          "timestamp": "2025-09-13 15:27:09.853642"
+        }
+      ],
+      "1b60fb0c": [
+        {
+          "pattern": {
+            "best_score": 0.71
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.00%",
+          "timestamp": "2025-09-13 14:53:39.366290"
+        },
+        {
+          "pattern": {
+            "best_score": 0.71
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.00%",
+          "timestamp": "2025-09-13 15:07:21.433235"
+        },
+        {
+          "pattern": {
+            "best_score": 0.71
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 71.00%",
+          "timestamp": "2025-09-13 15:27:17.312910"
+        }
+      ],
+      "1b8318e3": [
+        {
+          "pattern": {
+            "best_score": 0.8066666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 80.67%",
+          "timestamp": "2025-09-13 14:53:50.895992"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8066666666666666
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 80.67%",
+          "timestamp": "2025-09-13 15:27:30.545253"
+        }
+      ],
+      "1bfc4729": [
+        {
+          "pattern": {
+            "best_score": 0.48
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 48.00%",
+          "timestamp": "2025-09-13 14:53:58.855529"
+        },
+        {
+          "pattern": {
+            "best_score": 0.48
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 48.00%",
+          "timestamp": "2025-09-13 15:27:39.321972"
+        }
+      ],
+      "1c02dbbe": [
+        {
+          "pattern": {
+            "best_score": 0.5185185185185185
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 51.85%",
+          "timestamp": "2025-09-13 14:54:15.064849"
+        },
+        {
+          "pattern": {
+            "best_score": 0.5185185185185185
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 51.85%",
+          "timestamp": "2025-09-13 15:12:05.723035"
+        },
+        {
+          "pattern": {
+            "best_score": 0.5185185185185185
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 51.85%",
+          "timestamp": "2025-09-13 15:27:54.845612"
+        }
+      ],
+      "1c56ad9f": [
+        {
+          "pattern": {
+            "best_score": 0.7066666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.67%",
+          "timestamp": "2025-09-13 14:54:32.943845"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7066666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 70.67%",
+          "timestamp": "2025-09-13 15:28:15.864702"
+        }
+      ],
+      "1caeab9d": [
+        {
+          "pattern": {
+            "best_score": 0.81
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 81.00%",
+          "timestamp": "2025-09-13 14:54:40.179506"
+        },
+        {
+          "pattern": {
+            "best_score": 0.81
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 81.00%",
+          "timestamp": "2025-09-13 15:28:23.871769"
+        }
+      ],
+      "1d0a4b61": [
+        {
+          "pattern": {
+            "best_score": 0.4368
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 43.68%",
+          "timestamp": "2025-09-13 14:55:48.783144"
+        },
+        {
+          "pattern": {
+            "best_score": 0.4368
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 43.68%",
+          "timestamp": "2025-09-13 15:29:33.455775"
+        }
+      ],
+      "1d61978c": [
+        {
+          "pattern": {
+            "best_score": 0.8984375
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 89.84%",
+          "timestamp": "2025-09-13 14:56:04.918241"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8984375
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 89.84%",
+          "timestamp": "2025-09-13 15:29:50.256032"
+        }
+      ],
+      "1e32b0e9": [
+        {
+          "pattern": {
+            "best_score": 0.5905420991926182
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 59.05%",
+          "timestamp": "2025-09-13 14:56:35.428521"
+        },
+        {
+          "pattern": {
+            "best_score": 0.5905420991926182
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 59.05%",
+          "timestamp": "2025-09-13 15:30:25.672804"
+        }
+      ],
+      "1e5d6875": [
+        {
+          "pattern": {
+            "best_score": 0.78125
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 78.12%",
+          "timestamp": "2025-09-13 14:56:39.659861"
+        },
+        {
+          "pattern": {
+            "best_score": 0.78125
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 78.12%",
+          "timestamp": "2025-09-13 15:30:30.561085"
+        }
+      ],
+      "1e81d6f9": [
+        {
+          "pattern": {
+            "best_score": 0.8237037037037037
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 82.37%",
+          "timestamp": "2025-09-13 14:56:53.918574"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8237037037037037
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 82.37%",
+          "timestamp": "2025-09-13 15:30:45.828653"
+        }
+      ],
+      "1efba499": [
+        {
+          "pattern": {
+            "best_score": 0.7857142857142857
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 78.57%",
+          "timestamp": "2025-09-13 14:57:04.425670"
+        },
+        {
+          "pattern": {
+            "best_score": 0.7857142857142857
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 78.57%",
+          "timestamp": "2025-09-13 15:30:56.185140"
+        }
+      ],
+      "1f0c79e5": [
+        {
+          "pattern": {
+            "best_score": 0.6975308641975309
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 69.75%",
+          "timestamp": "2025-09-13 14:57:13.694219"
+        },
+        {
+          "pattern": {
+            "best_score": 0.6975308641975309
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 69.75%",
+          "timestamp": "2025-09-13 15:31:05.487054"
+        }
+      ],
+      "1f642eb9": [
+        {
+          "pattern": {
+            "best_score": 0.8133333333333334
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 81.33%",
+          "timestamp": "2025-09-13 14:57:20.579264"
+        },
+        {
+          "pattern": {
+            "best_score": 0.8133333333333334
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 81.33%",
+          "timestamp": "2025-09-13 15:31:13.127204"
+        }
+      ],
+      "f8ff0b80": [
+        {
+          "pattern": {
+            "best_score": 0.3333333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 33.33%",
+          "timestamp": "2025-09-13 14:57:29.111621"
+        }
+      ],
+      "878187ab": [
+        {
+          "pattern": {
+            "best_score": 0.791015625
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 79.10%",
+          "timestamp": "2025-09-13 14:57:44.012853"
+        }
+      ],
+      "bc1d5164": [
+        {
+          "pattern": {
+            "best_score": 0.4
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 40.00%",
+          "timestamp": "2025-09-13 14:57:50.564752"
+        }
+      ],
+      "6a11f6da": [
+        {
+          "pattern": {
+            "best_score": 0.44800000000000006
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 44.80%",
+          "timestamp": "2025-09-13 14:58:24.068978"
+        }
+      ],
+      "e98196ab": [
+        {
+          "pattern": {
+            "best_score": 0.7212121212121212
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 72.12%",
+          "timestamp": "2025-09-13 14:58:33.034832"
+        }
+      ],
+      "f45f5ca7": [
+        {
+          "pattern": {
+            "best_score": 0.9266666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 92.67%",
+          "timestamp": "2025-09-13 14:58:40.423236"
+        }
+      ],
+      "662c240a": [
+        {
+          "pattern": {
+            "best_score": 0.3055555555555556
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 30.56%",
+          "timestamp": "2025-09-13 14:58:54.464546"
+        }
+      ],
+      "e69241bd": [
+        {
+          "pattern": {
+            "best_score": 0.4074074074074074
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 40.74%",
+          "timestamp": "2025-09-13 14:59:01.185183"
+        }
+      ],
+      "694f12f3": [
+        {
+          "pattern": {
+            "best_score": 0.64
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 64.00%",
+          "timestamp": "2025-09-13 14:59:11.162835"
+        }
+      ],
+      "c8b7cc0f": [
+        {
+          "pattern": {
+            "best_score": 0.6296296296296297
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.96%",
+          "timestamp": "2025-09-13 14:59:17.765394"
+        }
+      ],
+      "a406ac07": [
+        {
+          "pattern": {
+            "best_score": 0.65
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 65.00%",
+          "timestamp": "2025-09-13 14:59:24.946399"
+        }
+      ],
+      "5783df64": [
+        {
+          "pattern": {
+            "best_score": 0.3333333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 33.33%",
+          "timestamp": "2025-09-13 14:59:36.123112"
+        }
+      ],
+      "f3e14006": [
+        {
+          "pattern": {
+            "best_score": 0.9791666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 97.92%",
+          "timestamp": "2025-09-13 14:59:49.063182"
+        }
+      ],
+      "264363fd": [
+        {
+          "pattern": {
+            "best_score": 0.32148148148148153
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 32.15%",
+          "timestamp": "2025-09-13 15:02:24.203261"
+        }
+      ],
+      "f5c89df1": [
+        {
+          "pattern": {
+            "best_score": 0.9092702169625246
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 90.93%",
+          "timestamp": "2025-09-13 15:03:18.768148"
+        }
+      ],
+      "817e6c09": [
+        {
+          "pattern": {
+            "best_score": 0.7238095238095238
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 72.38%",
+          "timestamp": "2025-09-13 15:03:29.404416"
+        }
+      ],
+      "a2fd1cf0": [
+        {
+          "pattern": {
+            "best_score": 0.8928571428571429
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 89.29%",
+          "timestamp": "2025-09-13 15:03:48.232347"
+        }
+      ],
+      "df978a02": [
+        {
+          "pattern": {
+            "best_score": 0.7239583333333334
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 72.40%",
+          "timestamp": "2025-09-13 15:04:06.350505"
+        }
+      ],
+      "e1d2900e": [
+        {
+          "pattern": {
+            "best_score": 0.9605555555555556
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 96.06%",
+          "timestamp": "2025-09-13 15:05:25.517888"
+        }
+      ],
+      "3d588dc9": [
+        {
+          "pattern": {
+            "best_score": 0.69921875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 69.92%",
+          "timestamp": "2025-09-13 15:05:38.555314"
+        }
+      ],
+      "3b4c2228": [
+        {
+          "pattern": {
+            "best_score": 0.9111111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 91.11%",
+          "timestamp": "2025-09-13 15:05:46.293992"
+        }
+      ],
+      "ff28f65a": [
+        {
+          "pattern": {
+            "best_score": 0.3611111111111111
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 36.11%",
+          "timestamp": "2025-09-13 15:06:01.411093"
+        }
+      ],
+      "aaef0977": [
+        {
+          "pattern": {
+            "best_score": 0.1484375
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 14.84%",
+          "timestamp": "2025-09-13 15:06:18.398400"
+        }
+      ],
+      "b20f7c8b": [
+        {
+          "pattern": {
+            "best_score": 0.5530303030303031
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 55.30%",
+          "timestamp": "2025-09-13 15:06:52.588202"
+        }
+      ],
+      "465b7d93": [
+        {
+          "pattern": {
+            "best_score": 0.62
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.00%",
+          "timestamp": "2025-09-13 15:07:03.840917"
+        }
+      ],
+      "6350f1f4": [
+        {
+          "pattern": {
+            "best_score": 0.6799999999999999
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.00%",
+          "timestamp": "2025-09-13 15:07:13.263330"
+        }
+      ],
+      "b9b7f026": [
+        {
+          "pattern": {
+            "best_score": 0.3333333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 33.33%",
+          "timestamp": "2025-09-13 15:07:45.372841"
+        }
+      ],
+      "bbc9ae5d": [
+        {
+          "pattern": {
+            "best_score": 0.4444444444444445
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 44.44%",
+          "timestamp": "2025-09-13 15:08:11.976331"
+        }
+      ],
+      "e729b7be": [
+        {
+          "pattern": {
+            "best_score": 0.8096885813148789
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 80.97%",
+          "timestamp": "2025-09-13 15:08:31.291905"
+        }
+      ],
+      "6150a2bd": [
+        {
+          "pattern": {
+            "best_score": 0.4444444444444444
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 44.44%",
+          "timestamp": "2025-09-13 15:08:37.406896"
+        }
+      ],
+      "ba1aa698": [
+        {
+          "pattern": {
+            "best_score": 0.7604166666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 76.04%",
+          "timestamp": "2025-09-13 15:08:56.224448"
+        }
+      ],
+      "cf5fd0ad": [
+        {
+          "pattern": {
+            "best_score": 0.5925925925925926
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 59.26%",
+          "timestamp": "2025-09-13 15:09:00.884214"
+        }
+      ],
+      "1fad071e": [
+        {
+          "pattern": {
+            "best_score": 0.8666666666666667
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 86.67%",
+          "timestamp": "2025-09-13 15:09:07.305327"
+        }
+      ],
+      "5ad8a7c0": [
+        {
+          "pattern": {
+            "best_score": 0.6333333333333334
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 63.33%",
+          "timestamp": "2025-09-13 15:09:14.969236"
+        }
+      ],
+      "66f2d22f": [
+        {
+          "pattern": {
+            "best_score": 0.6875
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 68.75%",
+          "timestamp": "2025-09-13 15:09:22.007254"
+        }
+      ],
+      "c6141b15": [
+        {
+          "pattern": {
+            "best_score": 0.89453125
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 89.45%",
+          "timestamp": "2025-09-13 15:09:36.976923"
+        }
+      ],
+      "91714a58": [
+        {
+          "pattern": {
+            "best_score": 0.9544270833333334
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 95.44%",
+          "timestamp": "2025-09-13 15:09:57.622566"
+        }
+      ],
+      "66e6c45b": [
+        {
+          "pattern": {
+            "best_score": 0.625
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 62.50%",
+          "timestamp": "2025-09-13 15:10:18.760156"
+        }
+      ],
+      "5c2c9af4": [
+        {
+          "pattern": {
+            "best_score": 0.5633270321361058
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 56.33%",
+          "timestamp": "2025-09-13 15:11:12.403473"
+        }
+      ],
+      "a6953f00": [
+        {
+          "pattern": {
+            "best_score": 0.3333333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 33.33%",
+          "timestamp": "2025-09-13 15:11:40.461703"
+        }
+      ],
+      "746b3537": [
+        {
+          "pattern": {
+            "best_score": 0.5
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 50.00%",
+          "timestamp": "2025-09-13 15:11:48.390467"
+        }
+      ],
+      "a59b95c0": [
+        {
+          "pattern": {
+            "best_score": 0.5
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 50.00%",
+          "timestamp": "2025-09-13 15:12:18.126245"
+        }
+      ],
+      "48f8583b": [
+        {
+          "pattern": {
+            "best_score": 0.7489711934156379
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 74.90%",
+          "timestamp": "2025-09-13 15:12:33.030514"
+        }
+      ],
+      "281123b4": [
+        {
+          "pattern": {
+            "best_score": 0.4583333333333333
+          },
+          "error": "\u0623\u0641\u0636\u0644 \u0646\u0642\u0627\u0637: 45.83%",
+          "timestamp": "2025-09-13 15:12:44.451741"
+        }
+      ]
+    },
+    "transformations": {},
+    "task_solutions": {
+      "e6721834": "[[1 1 1 1 1 3 3 3 1 1]\n [1 1 1 1 1 8 3 8 1 1]\n [1 1 1 1 1 3 3 3 1 1]\n [1 1 1 1 1 3 3 3 1 1]\n [1 1 1 1 1 1 1 1 1 1]\n [1 1 1 1 1 1 1 1 1 1]\n [1 3 3 3 2 1 1 1 1 1]\n [1 3 2 3 3 1 1 1 1 1]\n [1 3 3 3 3 1 1 1 1 1]\n [1 1 1 1 1 1 1 1 1 1]\n [1 1 1 1 1 1 1 1 1 1]]",
+      "c3fa4749": "[[8 4 2 1 8 9 2 4 7 1 6 2 0 5 3 5 1 7 2 9 9 6 7 7 1]\n [4 6 5 0 0 6 1 5 0 6 0 0 3 4 4 1 8 1 8 9 2 8 8 4 3]\n [4 4 7 5 0 9 7 5 4 7 3 3 9 2 7 2 6 4 1 1 9 8 3 6 1]\n [3 5 8 7 8 7 2 7 6 8 0 2 3 5 0 2 9 7 6 4 8 8 2 1 1]\n [7 4 2 4 7 1 6 6 0 3 3 1 4 0 8 8 5 2 8 4 7 4 3 4 6]\n [1 0 1 1 1 6 3 9 9 0 9 6 1 8 2 1 7 7 4 1 9 5 1 2 3]\n [3 2 0 7 0 9 6 6 1 8 6 5 6 4 7 1 7 3 7 3 1 2 1 1 8]\n [7 5 3 4 7 9 7 5 5 9 3 1 6 7 9 1 6 0 1 2 8 2 0 4 8]\n [7 5 0 8 6 6 2 9 8 3 5 1 8 4 7 3 2 7 5 1 1 1 1 1 1]\n [6 6 3 6 5 1 5 8 0 4 9 8 0 5 9 5 5 5 6 1 1 1 1 1 1]\n [3 2 0 0 2 1 0 8 7 6 3 8 6 5 1 2 7 6 4 1 1 9 9 9 9]\n [8 8 8 8 8 8 8 8 8 8 5 6 3 9 3 2 1 3 1 1 1 9 1 1 1]\n [8 8 8 8 8 8 8 8 8 8 7 8 5 9 6 1 5 6 3 1 1 1 1 1 1]\n [9 9 9 9 9 9 9 9 8 8 9 2 3 8 0 9 6 2 9 1 1 1 1 2 2]\n [8 8 8 8 8 8 8 8 8 8 7 5 5 9 8 5 1 5 6 5 2 1 9 3 5]\n [8 8 8 8 8 8 8 8 8 8 2 6 4 9 4 0 8 8 5 9 9 1 8 4 4]\n [0 4 5 2 1 6 7 4 0 0 2 0 8 7 6 0 6 6 7 6 5 4 8 7 8]\n [8 8 6 1 0 2 8 5 7 2 8 8 5 5 8 8 8 8 8 8 2 7 9 6 3]\n [2 9 7 2 6 4 7 4 1 9 0 7 2 0 8 8 8 8 8 8 3 9 7 3 9]\n [9 7 6 4 0 9 8 3 8 5 2 7 6 2 8 8 9 9 8 8 6 8 4 6 9]\n [9 4 7 9 1 5 6 2 8 5 4 8 0 7 8 8 9 9 8 8 5 4 7 1 0]\n [8 8 0 8 1 5 3 0 1 9 8 6 3 4 8 8 9 9 8 8 8 2 1 7 5]\n [8 7 2 2 1 7 3 8 2 5 3 6 6 8 8 8 9 8 8 8 8 5 4 0 6]\n [7 5 2 7 3 1 1 3 8 4 4 9 5 9 8 8 9 8 8 3 2 1 1 6 6]\n [6 2 1 1 8 7 9 7 2 5 2 5 0 2 8 8 9 8 8 6 5 5 0 8 0]]",
+      "3ee1011a": "[[1 1 1 1 1 1]\n [1 3 3 3 3 1]\n [1 3 6 6 3 1]\n [1 3 6 6 3 1]\n [1 3 3 3 3 1]\n [1 1 1 1 1 1]]",
+      "67c52801": "[[0 0 0 0 0]\n [0 8 0 0 0]\n [3 8 3 3 3]\n [3 3 3 3 3]]",
+      "a65b410d": "[[3 3 3 3 3 3 0 0 0]\n [3 3 3 3 3 0 0 0 0]\n [3 3 3 3 0 0 0 0 0]\n [2 2 2 0 0 0 0 0 0]\n [1 1 0 0 0 0 0 0 0]\n [1 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0]]",
+      "94be5b80": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 7 0 0 7 0 0 0 0 0 0 0]\n [0 0 7 7 7 7 7 7 0 0 0 0 0 0]\n [0 0 0 0 7 7 0 0 0 0 0 0 0 0]\n [0 0 0 2 0 0 2 0 0 0 0 0 0 0]\n [0 0 2 2 2 2 2 2 0 0 0 0 0 0]\n [0 0 0 0 2 2 0 0 0 0 0 0 0 0]\n [0 0 0 1 0 0 1 0 0 0 0 0 0 0]\n [0 0 1 1 1 1 1 1 0 0 0 0 0 0]\n [0 0 0 0 1 1 0 0 0 0 0 0 0 0]\n [0 0 0 3 0 0 3 0 0 0 0 0 0 0]\n [0 0 3 3 3 3 3 3 0 0 0 0 0 0]\n [0 0 0 0 3 3 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "ea786f4a": "[[0 2 2 2 0]\n [2 0 2 0 2]\n [2 2 0 2 2]\n [2 0 2 0 2]\n [0 2 2 2 0]]",
+      "2f767503": "[[4 4 7 7 7 4 4 7 4 4]\n [4 7 7 7 7 7 4 7 4 7]\n [7 7 7 7 7 7 4 7 7 7]\n [7 7 7 7 7 7 7 7 7 7]\n [7 7 7 7 7 4 7 7 7 7]\n [4 7 7 7 7 7 7 7 7 7]\n [7 7 7 4 7 4 7 7 7 7]\n [7 5 5 5 7 7 4 7 7 7]\n [7 7 9 7 7 7 7 7 7 7]\n [7 7 7 7 7 7 7 7 7 4]]",
+      "0d87d2a6": "[[0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 1 1 1 1 1 0 0 0 0 0 0 2 2 2 2 0 0]\n [0 0 0 1 1 1 1 1 0 0 0 0 0 0 2 2 2 2 0 0]\n [0 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 1 1 1 1 1 0 2 2 2 0 0 0 0 2 2 2 2]\n [0 0 0 0 0 0 1 0 0 2 2 2 0 0 0 0 2 2 2 2]\n [0 0 2 2 0 0 1 0 0 2 2 2 0 0 0 0 2 2 2 2]\n [0 0 2 2 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "50f325b5": "[[3 0 0 7 3 3 3 2 2 3 3 2 0 2 4 7 2 0]\n [0 2 4 0 2 0 7 0 0 2 0 3 2 2 2 2 2 7]\n [7 0 2 3 0 4 4 7 2 7 7 0 4 0 4 3 0 3]\n [7 3 0 2 4 3 7 2 0 2 0 3 3 2 2 7 4 0]\n [0 3 4 3 2 4 3 8 0 2 3 3 4 0 3 0 3 0]\n [0 2 2 0 7 3 8 8 8 4 3 0 7 3 4 2 2 2]\n [2 3 2 4 7 0 7 2 0 4 0 0 0 0 7 0 4 7]\n [3 4 7 7 0 3 2 0 0 7 3 0 2 7 4 2 0 3]\n [2 8 0 3 3 0 0 2 2 0 7 7 3 0 2 2 2 3]\n [0 8 8 4 0 3 0 0 2 7 8 0 0 0 2 3 7 3]\n [0 8 4 3 0 7 2 0 3 0 8 8 0 4 0 2 3 3]\n [3 2 0 4 0 2 7 3 7 0 8 3 2 0 0 2 2 7]\n [2 2 3 3 4 3 7 7 2 2 4 0 0 0 4 2 3 2]\n [0 2 0 2 0 0 4 0 0 3 7 0 0 0 4 3 4 2]\n [0 4 3 0 0 3 0 0 7 0 0 0 2 3 3 7 4 3]]",
+      "cad67732": "[[2 5 0 0 0 0 0 0 0 0]\n [5 2 0 0 0 0 0 0 0 0]\n [0 0 2 5 0 0 0 0 0 0]\n [0 0 5 2 0 0 0 0 0 0]\n [0 0 0 0 2 5 0 0 0 0]\n [0 0 0 0 5 2 0 0 0 0]\n [0 0 0 0 0 0 2 5 0 0]\n [0 0 0 0 0 0 5 2 0 0]\n [0 0 0 0 0 0 0 0 2 5]\n [0 0 0 0 0 0 0 0 5 2]]",
+      "4ff4c9da": "[[0 0 2 1 2 1 0 1 2 2 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [0 0 2 1 2 1 0 1 2 2 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [2 2 2 1 2 1 2 1 2 2 2 1 2 2 2 1 2 1 2 1 2 2 2]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]\n [2 2 2 1 2 1 2 1 2 2 2 1 2 2 2 1 2 1 2 1 2 2 2]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]\n [0 0 2 1 2 1 0 1 8 8 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]\n [2 2 2 1 2 1 8 1 2 2 2 1 2 2 2 1 8 1 8 1 2 2 2]\n [2 2 2 1 2 1 8 1 2 2 2 1 2 2 2 1 8 1 8 1 2 2 2]\n [0 0 2 1 2 1 0 1 2 2 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]\n [0 0 2 1 2 1 0 1 2 2 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [0 0 2 1 2 1 0 1 2 2 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [2 2 2 1 2 1 2 1 2 2 2 1 2 2 2 1 2 1 2 1 2 2 2]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]\n [0 0 2 1 2 1 0 1 8 8 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]\n [0 0 2 1 2 1 0 1 8 8 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]\n [2 2 2 1 2 1 2 1 2 2 2 1 2 2 2 1 2 1 2 1 2 2 2]\n [0 0 2 1 2 1 0 1 2 2 0 1 0 0 2 1 0 1 0 1 2 0 0]\n [0 0 2 1 2 1 0 1 2 2 0 1 0 0 2 1 0 1 0 1 2 0 0]]",
+      "dc2e9a9d": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 3 3 3 0 1 1 1]\n [0 0 0 0 0 3 0 0 0 0 0 3 3 0 3 0 1 0 1]\n [0 0 0 3 3 3 3 3 0 0 0 0 3 3 3 0 1 1 1]\n [0 0 0 3 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 3 0 0 0 3 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 3 3 3 3 3 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 8 8 8 8 8 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 8 0 0 0 8 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 8 0 0 0 8 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 8 8 8 8 8 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 1 1 1 1 0 3 3 3 3 0 0 0 0 0]\n [0 0 0 0 0 1 0 0 1 0 3 0 0 3 0 0 0 0 0]\n [0 0 0 0 1 1 0 0 1 0 3 0 0 3 3 0 0 0 0]\n [0 0 0 0 0 1 0 0 1 0 3 0 0 3 0 0 0 0 0]\n [0 0 0 0 0 1 1 1 1 0 3 3 3 3 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "67a3c6ac": "[[2 6 6 6 7 7 7]\n [1 7 7 1 1 7 6]\n [6 6 2 1 2 7 7]\n [2 2 7 7 7 2 2]\n [2 7 2 1 7 2 7]\n [1 1 2 2 6 6 6]\n [6 6 6 6 6 2 6]]",
+      "abbfd121": "[[4 5 6 3 4 5 6]\n [5 3 5 3 5 3 5]\n [6 5 4 3 6 5 4]\n [3 3 3 3 3 3 3]\n [4 5 6 3 4 5 6]\n [5 3 5 3 5 3 5]\n [6 5 4 3 6 5 4]]",
+      "2ccd9fef": "[[1 4 1 1 1 1 1 1 1 4 1]\n [4 4 1 1 1 1 1 1 1 4 4]\n [1 1 1 1 1 8 8 8 8 1 1]\n [1 1 3 3 3 1 1 1 8 1 1]\n [1 1 3 3 3 1 1 1 8 1 1]\n [1 1 1 1 1 8 8 8 8 1 1]\n [4 4 1 1 1 1 1 1 1 4 4]\n [1 4 1 1 1 1 1 1 1 4 1]]",
+      "6bcdb01e": "[[8 7 7 8 7 8 7]\n [7 8 8 3 3 3 8]\n [7 7 7 3 7 3 7]\n [3 3 3 3 3 3 8]\n [7 7 7 3 7 8 7]\n [3 3 3 3 8 7 7]\n [7 7 7 8 7 7 7]]",
+      "34cfa167": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 4 4 4 4 4 4 4 4 4 4 4 4 4 0 0 0 0 0 0 0]\n [0 0 0 1 1 1 4 0 2 0 4 0 2 0 4 0 2 0 4 1 1 1 0 0 0 0]\n [0 0 0 1 1 1 4 0 2 0 4 0 2 0 4 0 2 0 4 1 1 1 0 0 0 0]\n [0 0 0 1 1 1 4 0 2 0 4 0 2 0 4 0 2 0 4 1 1 1 0 0 0 0]\n [0 0 8 8 8 8 0 0 0 0 0 0 0 0 0 0 0 0 0 8 8 8 8 0 0 0]\n [0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 8 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 8 0 0 0]\n [0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 8 8 8 8 0 0 0 0 0 0 0 0 0 0 0 0 0 8 8 8 8 0 0 0]\n [0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 8 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 8 0 0 0]\n [0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 8 8 8 8 0 0 0 0 0 0 0 0 0 0 0 0 0 8 8 8 8 0 0 0]\n [0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 8 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 2 8 0 0 0]\n [0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 8 8 8 8 0 0 0 0 0 0 0 0 0 0 0 0 0 8 8 8 8 0 0 0]\n [0 0 0 1 1 1 4 0 2 0 4 0 2 0 4 0 2 0 4 1 1 1 0 0 0 0]\n [0 0 0 1 1 1 4 0 2 0 4 0 2 0 4 0 2 0 4 1 1 1 0 0 0 0]\n [0 0 0 1 1 1 4 0 2 0 4 0 2 0 4 0 2 0 4 1 1 1 0 0 0 0]\n [0 0 0 0 0 0 4 4 4 4 4 4 4 4 4 4 4 4 4 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "b25e450b": "[[7 0 0 7 5 0 0 7 5 7]\n [7 0 0 7 7 0 0 0 0 0]\n [7 0 0 7 7 7 7 0 0 0]\n [7 7 7 7 7 7 7 0 0 0]\n [7 7 7 5 5 7 7 5 5 5]\n [7 7 7 5 7 7 7 5 7 5]\n [7 7 7 7 5 7 7 7 7 7]\n [7 7 7 5 5 7 7 5 7 5]\n [5 7 7 7 5 7 7 7 5 7]\n [7 7 7 5 5 7 7 5 7 7]]",
+      "834ec97d": "[[4 0 4 0 4]\n [4 0 4 0 4]\n [4 0 4 0 4]\n [0 0 6 0 0]\n [0 0 0 0 0]]",
+      "da6e95e5": "[[4 4 3]\n [3 4 4]\n [4 4 3]]",
+      "963e52fc": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [2 3 3 2 3 3 2 3 3 2 3 3 2 3]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "9c56f360": "[[0 0 0 8 0 0 8 3]\n [0 8 0 0 8 3 0 0]\n [8 8 0 8 0 0 8 3]\n [8 8 3 0 0 0 0 0]\n [0 0 0 8 8 0 0 8]\n [8 0 0 0 0 0 0 0]\n [0 0 0 8 8 8 0 0]]",
+      "4364c1c4": "[[1 1 1 1 1 1 1 1 1 1 1 1]\n [1 1 1 1 1 1 1 1 1 1 1 1]\n [1 4 1 1 1 4 4 4 1 1 1 1]\n [1 4 1 1 1 4 4 4 1 1 1 1]\n [1 4 4 4 4 4 4 4 1 1 1 1]\n [1 4 4 4 4 4 4 4 1 1 1 1]\n [1 1 1 2 2 2 2 2 2 2 1 1]\n [1 1 1 2 2 2 2 1 1 2 1 1]\n [1 1 1 1 1 1 1 1 1 1 1 1]\n [1 1 1 1 1 1 1 1 1 1 1 1]\n [1 1 1 1 1 1 1 1 1 1 1 1]\n [1 1 1 1 1 1 1 1 1 1 1 1]]",
+      "f83cb3f6": "[[0 0 0 0 0 8 1 0 0 0 0 0 0 0]\n [0 0 0 0 1 8 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 8 1 0 0 0 0 0 0 0]\n [0 0 0 0 0 8 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 8 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 8 1 0 0 0 0 0 0 0]\n [0 0 0 0 0 8 1 0 0 0 0 0 0 0]\n [0 0 0 0 0 8 1 0 0 0 0 0 0 0]\n [0 0 0 0 1 8 1 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "896d5239": "[[1 0 1 0 1 0 1 1 0 1 0 0]\n [1 0 0 1 1 0 1 1 0 0 1 1]\n [1 0 0 0 0 0 3 0 1 0 1 1]\n [1 0 0 1 0 3 8 1 1 1 1 1]\n [1 1 1 0 3 8 8 0 1 0 1 1]\n [0 1 1 3 8 8 8 1 0 1 0 0]\n [0 1 0 0 3 8 8 0 1 0 0 1]\n [1 1 1 1 1 3 8 0 1 0 0 1]\n [0 0 1 0 0 1 3 0 1 0 1 1]\n [1 0 0 1 0 1 1 0 1 0 1 0]\n [1 1 1 1 0 0 1 0 1 1 1 0]\n [1 1 0 1 1 0 1 0 0 1 0 0]\n [0 1 0 0 3 1 1 0 0 0 0 1]\n [0 1 0 8 8 8 1 1 0 0 1 1]\n [0 1 3 8 8 8 3 0 0 1 1 1]]",
+      "d5d6de2d": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 3 3 3 0 0 0 0 0 0 0 0 0 0]\n [0 0 3 3 3 0 0 0 0 0 0 0 0 0 0]\n [0 0 3 3 3 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "f9a67cb5": "[[0 2 8 0 0 8 0 0 2 8 0 0]\n [0 2 8 0 0 8 0 0 2 8 0 0]\n [0 2 8 0 0 8 0 0 2 8 0 0]\n [2 2 8 0 2 2 2 2 2 8 0 0]\n [0 2 8 0 2 8 0 0 2 8 0 0]\n [0 2 2 2 2 8 0 0 2 8 0 0]\n [0 0 8 0 2 8 0 0 2 2 2 2]\n [0 0 8 0 2 8 0 0 0 8 0 0]\n [0 0 0 0 2 8 0 0 0 0 0 0]\n [0 0 8 0 2 8 0 0 0 8 0 0]\n [0 0 8 0 2 8 0 0 0 8 0 0]]",
+      "97c75046": "[[7 7 7 7 7 7]\n [7 7 7 7 7 7]\n [7 7 7 7 7 7]\n [7 7 7 7 7 7]\n [7 7 7 7 7 7]\n [7 7 7 7 7 0]\n [7 7 7 5 0 0]\n [7 7 0 0 0 0]\n [7 0 0 0 0 0]\n [7 7 7 0 0 0]]",
+      "d968ffd4": "[[4 4 4 1 1 1 1 1 6 6 6 6 6 4 4 4]\n [4 1 1 1 1 1 1 1 6 6 6 6 6 6 6 4]\n [4 1 1 1 1 1 1 1 6 6 6 6 6 6 6 4]\n [4 1 1 1 1 1 1 1 6 6 6 6 6 6 6 4]\n [4 4 4 1 1 1 1 1 6 6 6 6 6 4 4 4]]",
+      "494ef9d7": "[[0 0 8 0 0 0 0 9 0 0]\n [0 0 6 0 0 0 0 7 0 0]\n [0 7 4 0 0 0 0 0 0 0]\n [0 0 0 2 0 4 0 0 0 0]\n [0 0 0 0 1 8 0 0 0 0]\n [0 0 3 0 0 0 9 0 0 0]\n [6 0 0 0 0 0 0 4 0 0]\n [0 0 4 7 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 1 0 0]\n [0 0 0 0 0 0 0 0 0 0]]",
+      "ad3b40cf": "[[8 8 8 8 1 8 8 8 8]\n [8 5 5 8 1 8 5 5 8]\n [8 5 5 8 1 8 5 5 8]\n [8 8 8 8 1 8 8 8 8]\n [8 8 8 8 1 8 2 8 8]\n [8 8 8 8 1 8 2 8 8]\n [8 8 8 8 1 8 2 8 8]\n [8 8 8 8 1 8 2 2 8]\n [8 8 8 8 1 8 8 8 8]]",
+      "e179c5f4": "[[8 1 8]\n [1 8 8]\n [8 1 8]\n [8 8 1]\n [8 1 8]\n [1 8 8]\n [8 1 8]\n [8 8 1]\n [8 1 8]\n [1 8 8]]",
+      "54d82841": "[[0 3 3 3 0]\n [0 3 0 3 0]\n [0 0 0 0 0]\n [0 0 0 0 0]\n [0 0 4 0 0]]",
+      "7b7f7511": "[[4 4 4]\n [6 4 8]\n [6 6 8]]",
+      "c074846d": "[[0 0 0 0 2 0 0]\n [0 0 0 0 2 0 0]\n [0 0 0 0 2 0 0]\n [0 3 3 3 5 0 0]\n [0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0]]",
+      "e39e9282": "[[8 8 8 8 8 8 8 8 8 8 8]\n [8 6 6 6 8 8 8 8 8 8 8]\n [8 6 6 6 8 8 8 8 8 8 8]\n [8 6 9 6 8 8 8 8 9 9 8]\n [8 8 8 8 8 8 8 8 8 8 8]\n [8 8 8 8 8 8 8 8 8 8 8]\n [8 8 8 8 8 8 8 8 8 8 8]\n [8 8 8 6 6 6 8 8 8 8 8]\n [8 8 8 9 9 6 8 8 8 8 8]\n [8 8 8 6 6 6 8 8 8 8 8]\n [8 8 8 8 8 8 8 8 8 8 8]]",
+      "58743b76": "[[8 8 8 8 8 8 8 8 8 8 4 6]\n [8 8 8 8 8 8 8 8 8 8 1 2]\n [0 0 0 0 4 0 0 0 0 0 8 8]\n [0 4 0 0 0 0 0 0 6 0 8 8]\n [0 0 0 0 0 0 0 0 0 0 8 8]\n [4 0 0 0 0 0 6 6 0 0 8 8]\n [0 0 0 0 0 0 0 0 6 0 8 8]\n [0 0 0 1 0 0 0 0 0 0 8 8]\n [0 0 0 0 0 0 0 0 0 0 8 8]\n [0 1 0 0 0 0 0 2 0 0 8 8]\n [0 1 0 0 0 0 0 0 0 0 8 8]\n [0 0 0 0 1 0 0 0 0 2 8 8]]",
+      "6aa20dc0": "[[4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 1 1 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 1 4 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 2 1 1 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 4 4 1 1 1 1 1 1 2 2 2 4 4 4 4 4 4 4]\n [4 4 4 4 4 1 1 1 1 1 1 2 2 2 4 4 4 4 4 4 4]\n [4 4 4 4 4 1 1 1 1 1 1 2 2 2 4 4 4 4 4 4 4]\n [4 4 4 4 4 1 1 1 4 4 4 1 1 1 4 4 4 4 4 4 4]\n [4 4 4 4 4 1 1 1 4 4 4 1 1 1 4 4 4 4 4 4 4]\n [4 4 4 4 4 1 1 1 4 4 4 1 1 1 4 4 4 4 4 4 4]\n [4 4 4 4 4 6 6 6 1 1 1 1 1 1 4 4 4 4 4 4 4]\n [4 4 4 4 4 6 6 6 1 1 1 1 1 1 4 4 4 4 4 4 4]\n [4 4 4 4 4 6 6 6 1 1 1 1 1 1 4 4 4 4 4 4 4]\n [4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]\n [4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4]]",
+      "37d3e8b2": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 2 2 2 2 2 2 0 0 0 3 3 3 3 3 0]\n [0 0 2 0 0 2 0 2 0 0 0 3 0 3 3 3 0]\n [0 0 2 0 0 2 2 2 0 0 0 3 3 3 0 3 0]\n [0 0 2 2 2 2 2 2 0 0 0 3 0 3 3 3 0]\n [0 0 0 0 0 0 0 0 0 0 0 3 3 3 3 3 0]\n [0 0 0 0 0 2 2 2 2 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 2 0 0 2 0 0 1 1 1 1 0 0]\n [0 0 0 0 0 2 2 2 2 0 0 1 0 0 1 0 0]\n [0 0 0 0 0 2 2 0 2 0 0 1 1 1 1 0 0]\n [0 0 0 0 0 2 2 2 2 0 0 1 1 1 1 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 2 2 2 2 2 0 0 0 7 7 7 7 7 7 7 0]\n [0 2 2 2 0 2 0 0 0 7 0 7 7 7 0 7 0]\n [0 2 0 2 2 2 0 0 0 7 7 7 0 7 0 7 0]\n [0 2 2 2 2 2 0 0 0 7 0 7 7 7 7 7 0]\n [0 0 0 0 0 0 0 0 0 7 7 7 7 7 7 7 0]]",
+      "28e73c20": "[[3 3 3 3 3 3 3 3 3 3 3 3 3]\n [0 0 0 0 0 0 0 0 0 0 0 0 3]\n [3 3 3 3 3 3 3 3 3 3 3 0 3]\n [3 0 0 0 0 0 0 0 0 0 3 0 3]\n [3 0 3 3 3 3 3 3 3 0 3 0 3]\n [3 0 3 0 0 0 0 0 3 0 3 0 3]\n [3 0 3 0 3 3 3 0 3 0 3 0 3]\n [3 0 3 0 3 0 0 0 3 0 3 0 3]\n [3 0 3 0 3 3 3 3 3 0 3 0 3]\n [3 0 3 0 0 0 0 0 0 0 3 0 3]\n [3 0 3 3 3 3 3 3 3 3 3 0 3]\n [3 0 0 0 0 0 0 0 0 0 0 0 3]\n [3 3 3 3 3 3 3 3 3 3 3 3 3]]",
+      "ae58858e": "[[6 6 0 0 0 2]\n [6 6 0 0 0 2]\n [0 0 0 2 0 0]\n [0 2 0 0 0 0]\n [0 0 0 6 0 2]\n [0 6 6 6 0 0]]",
+      "00dbd492": "[[0 0 0 0 0 0 2 2 2 2 2 2 2 2 2]\n [0 0 0 0 0 0 2 3 3 3 3 3 3 3 2]\n [0 0 0 0 0 0 2 3 3 3 3 3 3 3 2]\n [0 0 0 0 0 0 2 3 3 3 3 3 3 3 2]\n [0 0 0 0 0 0 2 3 3 3 2 3 3 3 2]\n [0 0 0 0 0 0 2 3 3 3 3 3 3 3 2]\n [0 0 0 0 0 0 2 3 3 3 3 3 3 3 2]\n [0 0 0 0 0 0 2 3 3 3 3 3 3 3 2]\n [0 0 0 0 0 0 2 2 2 2 2 2 2 2 2]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 2 2 2 2 2 0 0 0 0 0 0 0 0 0]\n [0 2 8 8 8 2 0 0 0 0 0 0 0 0 0]\n [0 2 8 2 8 2 0 0 0 0 0 0 0 0 0]\n [0 2 8 8 8 2 0 0 0 0 0 0 0 0 0]\n [0 2 2 2 2 2 0 0 0 0 0 0 0 0 0]]",
+      "025d127b": "[[0 0 0 0 0 0 0 0 0]\n [0 0 8 8 8 8 8 0 0]\n [0 0 8 0 0 0 0 8 0]\n [0 0 0 8 0 0 0 0 8]\n [0 0 0 0 8 0 0 0 8]\n [0 0 0 0 8 8 8 8 8]\n [0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0]]",
+      "0607ce86": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 8 8 8 8 8 0 8 8 8 8 8 0 8 8 8 8 8 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 8 8 8 8 8 0 8 8 8 8 8 0 8 8 8 8 8 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 1 1 2 3 3 0 1 1 2 3 3 0 1 1 2 3 3 0 0 0 0]\n [0 8 8 8 8 8 0 8 8 8 8 8 0 8 8 8 8 8 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "070dd51e": "[[0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 0]\n [0 0 3 4 3 3 3 3 0 0]\n [0 0 0 4 0 0 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 0]\n [0 0 7 4 7 7 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 9 0 0 0 0]\n [0 0 0 0 0 9 0 0 0 0]\n [0 8 8 8 8 9 8 0 0 0]\n [0 0 0 0 0 9 0 0 0 0]\n [0 0 0 0 0 9 0 0 0 0]\n [0 0 0 0 0 9 0 0 0 0]\n [0 0 0 0 0 9 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]]",
+      "0a1d4ef5": "[[3 1 9]\n [6 4 1]]",
+      "0a2355a6": "[[0 0 0 0 0 0 0 0 0 2 2 2 0 0]\n [0 0 1 1 1 1 1 0 0 2 0 2 0 0]\n [0 0 1 0 0 0 1 0 0 2 2 2 0 0]\n [0 0 1 1 1 1 1 0 0 2 0 2 0 0]\n [0 0 0 0 0 0 0 0 0 2 2 2 0 0]\n [0 0 0 0 0 0 0 0 0 2 0 2 0 0]\n [0 0 0 0 0 0 0 0 0 2 2 2 0 0]\n [0 0 0 0 0 3 3 3 0 0 0 0 0 0]\n [0 0 0 3 3 3 0 3 0 0 0 0 0 0]\n [0 0 0 3 0 3 0 3 0 0 0 0 0 0]\n [0 0 0 3 3 3 0 3 0 0 1 1 1 0]\n [0 0 0 0 0 3 3 3 0 0 1 0 1 0]\n [0 0 0 0 0 0 0 0 0 0 1 1 1 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "0a938d79": "[[0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0]\n [2 2 2 2 2 2 2 2 2]\n [0 0 0 0 0 0 0 0 0]\n [3 3 3 3 3 3 3 3 3]\n [0 0 0 0 0 0 0 0 0]\n [2 2 2 2 2 2 2 2 2]\n [0 0 0 0 0 0 0 0 0]\n [3 3 3 3 3 3 3 3 3]\n [0 0 0 0 0 0 0 0 0]\n [2 2 2 2 2 2 2 2 2]\n [0 0 0 0 0 0 0 0 0]\n [3 3 3 3 3 3 3 3 3]\n [0 0 0 0 0 0 0 0 0]\n [2 2 2 2 2 2 2 2 2]\n [0 0 0 0 0 0 0 0 0]\n [3 3 3 3 3 3 3 3 3]\n [0 0 0 0 0 0 0 0 0]\n [2 2 2 2 2 2 2 2 2]]",
+      "0b148d64": "[[0 3 3 3 3 3 0 3 3]\n [3 3 3 0 0 0 3 3 0]\n [3 3 3 0 3 0 3 0 0]\n [3 3 0 0 0 3 3 3 3]\n [3 0 0 0 3 0 3 0 3]\n [0 3 3 0 3 3 3 0 3]\n [0 3 3 0 0 3 0 3 0]]",
+      "0e206a2e": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 3 0 0 0 4 0]\n [0 0 0 0 0 0 0 0 0 1 3 3 3 3 2]\n [0 0 0 0 0 0 0 0 0 3 0 0 0 3 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "103eff5b": "[[0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 3 1 0 0 0 0 0 0]\n [0 0 0 4 3 0 0 0 0 0 0 0]\n [0 0 0 2 0 4 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 2 2 2 4 4 4 0 0 0 0 0]\n [0 2 2 2 4 4 4 0 0 0 0 0]\n [0 2 2 2 4 4 4 0 0 0 0 0]\n [0 0 0 0 3 3 3 3 3 3 0 0]\n [0 0 0 0 3 3 3 3 3 3 0 0]\n [0 0 0 0 3 3 3 3 3 3 0 0]\n [0 4 4 4 0 0 0 1 1 1 0 0]\n [0 4 4 4 0 0 0 1 1 1 0 0]\n [0 4 4 4 0 0 0 1 1 1 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "10fcaaa3": "[[8 0 8 8 0 8]\n [0 4 0 0 4 0]\n [8 0 8 8 0 8]\n [0 8 8 0 8 0]\n [4 0 0 4 0 0]\n [8 8 8 8 8 8]\n [0 4 0 0 4 0]\n [8 0 8 8 0 8]\n [0 8 8 0 8 0]\n [4 0 0 4 0 0]]",
+      "1190e5a7": "[[1 1]\n [1 1]\n [1 1]]",
+      "11e1fe23": "[[0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 2 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 2 0 0 0 0]\n [0 0 0 0 0 5 0 0 0 0 0]\n [0 0 0 0 8 0 6 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]\n [0 0 8 0 0 0 0 0 6 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]]",
+      "12422b43": "[[5 0 0 3 3 0]\n [5 0 0 3 2 0]\n [5 0 0 2 3 0]\n [5 0 0 8 8 0]\n [0 0 0 8 8 0]\n [0 0 0 3 3 0]\n [0 0 0 3 2 0]\n [0 0 0 2 3 0]\n [0 0 0 8 8 0]\n [0 0 0 3 3 0]\n [0 0 0 3 2 0]\n [0 0 0 2 3 0]\n [0 0 0 8 8 0]]",
+      "12997ef3": "[[0 6 0]\n [6 6 0]\n [0 0 6]\n [0 2 0]\n [2 2 0]\n [0 0 2]]",
+      "12eac192": "[[3 7 7 1 0 3 0 3]\n [3 7 7 1 1 0 3 0]\n [3 3 0 0 7 7 7 7]\n [0 3 0 0 0 0 1 1]\n [3 0 3 0 3 0 1 1]]",
+      "13713586": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5]\n [0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 5]\n [0 0 0 0 0 0 0 0 0 0 0 2 2 2 2 2 5]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5]\n [0 0 0 0 0 0 3 3 3 3 3 3 3 3 3 3 5]\n [0 0 0 0 0 0 3 3 3 3 3 3 3 3 3 3 5]\n [0 0 0 0 0 0 3 3 3 3 3 3 3 3 3 3 5]\n [0 0 7 7 7 7 3 3 3 3 3 3 3 3 3 3 5]\n [0 0 7 7 7 7 7 7 7 7 7 7 7 7 7 7 5]\n [0 0 7 7 7 7 7 7 7 7 7 7 7 7 7 7 5]\n [0 0 7 7 7 7 7 7 7 7 7 7 7 7 7 7 5]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5]]",
+      "13f06aa5": "[[1 1 1 1 1 1 1 1 1 1 1 1 1 0]\n [2 2 2 2 2 2 2 2 2 1 2 2 2 8]\n [2 2 2 2 2 2 2 2 2 2 2 2 2 8]\n [2 2 2 2 2 2 2 4 4 1 4 4 2 8]\n [2 2 2 2 2 2 2 2 4 4 4 2 2 8]\n [2 2 2 2 2 2 2 2 2 2 2 2 2 8]\n [2 2 4 2 2 2 2 2 2 2 2 2 2 8]\n [2 4 4 2 2 2 2 2 2 2 2 2 2 8]\n [2 4 8 2 8 2 8 2 8 2 8 2 8 8]\n [2 4 4 2 2 2 2 2 2 2 2 2 2 8]\n [2 2 4 2 2 2 2 2 2 2 2 2 2 8]\n [2 2 2 2 2 2 2 2 2 2 2 2 2 8]]",
+      "140c817e": "[[9 9 9 1 9 9 1 9 9]\n [9 9 9 1 9 9 1 9 9]\n [9 9 3 1 3 9 1 9 9]\n [1 1 1 2 1 1 1 1 1]\n [9 9 3 1 3 9 1 9 9]\n [9 9 9 1 9 3 1 3 9]\n [1 1 1 1 1 1 2 1 1]\n [9 9 9 1 9 3 1 3 9]\n [9 9 9 1 9 9 1 9 9]]",
+      "150deff5": "[[0 0 0 0 0 0 0 0 0 0]\n [0 8 8 2 8 8 2 0 0 0]\n [0 8 8 2 8 8 2 0 0 0]\n [0 0 0 2 0 0 2 0 0 0]\n [0 0 0 0 2 8 8 0 0 0]\n [0 0 0 0 2 8 8 0 0 0]\n [0 0 0 0 2 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]]",
+      "15660dd6": "[[9 9 9 9 9 8 5 5 5 5 5 8 5 5 5 5 5]\n [9 8 3 8 9 8 5 6 8 8 5 8 5 7 7 7 5]\n [9 3 3 3 9 8 5 6 6 8 5 8 5 8 7 8 5]\n [9 8 3 8 9 8 5 8 6 6 5 8 5 8 8 8 5]\n [9 9 9 9 9 8 5 5 5 5 5 8 5 5 5 5 5]]",
+      "15663ba9": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 4 8 8 8 8 8 4 0 0 0 0 0 0 0]\n [0 8 0 0 0 0 0 8 0 0 0 0 0 0 0]\n [0 4 2 0 0 0 0 8 0 0 0 0 0 0 0]\n [0 0 8 0 0 0 0 8 0 0 4 8 8 8 4]\n [0 0 8 0 2 8 8 4 0 0 8 0 0 0 8]\n [0 0 4 8 4 0 0 0 0 0 4 2 0 0 8]\n [0 0 0 0 0 0 0 0 0 0 0 8 0 0 8]\n [0 0 0 0 0 0 0 0 0 4 8 2 0 2 4]\n [0 0 4 8 4 0 0 0 0 8 0 0 0 8 0]\n [0 0 8 0 8 0 0 0 0 4 8 8 8 4 0]\n [0 0 4 8 4 0 0 0 0 0 0 0 0 0 0]]",
+      "178fcbfb": "[[0 0 0 0 0 2 0 0]\n [3 3 3 3 3 3 3 3]\n [0 0 0 0 0 2 0 0]\n [0 0 0 0 0 2 0 0]\n [3 3 3 3 3 3 3 3]\n [0 0 0 0 0 2 0 0]\n [1 1 1 1 1 1 1 1]\n [0 0 0 0 0 2 0 0]\n [0 0 0 0 0 2 0 0]\n [0 0 0 0 0 2 0 0]]",
+      "17b866bd": "[[0 8 8 8 8 0 8 8 8 8 0 8 8 8 8 0 8 8 8 8 0]\n [8 8 0 0 8 8 8 0 0 8 8 8 0 0 8 8 8 0 0 8 8]\n [8 0 0 0 0 8 0 0 0 0 8 0 0 0 0 8 0 0 0 0 8]\n [8 0 0 0 0 8 0 0 0 0 8 0 0 0 0 8 0 0 0 0 8]\n [8 8 0 0 8 8 8 0 0 8 8 8 0 0 8 8 8 0 0 8 8]\n [0 8 8 8 8 0 8 8 8 8 0 8 8 8 8 0 8 8 8 8 0]\n [8 8 0 0 8 8 8 0 0 8 8 8 8 8 8 8 8 0 0 8 8]\n [8 0 0 0 0 8 0 0 0 0 8 8 8 8 8 8 0 0 0 0 8]\n [8 0 0 0 0 8 0 0 0 0 8 8 8 8 8 8 0 0 0 0 8]\n [8 8 0 0 8 8 8 0 0 8 8 8 8 8 8 8 8 0 0 8 8]\n [0 8 8 8 8 0 8 8 8 8 0 8 8 8 8 0 8 8 8 8 0]\n [8 8 4 4 8 8 8 0 0 8 8 8 0 0 8 8 8 0 0 8 8]\n [8 4 4 4 4 8 0 0 0 0 8 0 0 0 0 8 0 0 0 0 8]\n [8 4 4 4 4 8 0 0 0 0 8 0 0 0 0 8 0 0 0 0 8]\n [8 8 4 4 8 8 8 0 0 8 8 8 0 0 8 8 8 0 0 8 8]\n [0 8 8 8 8 0 8 8 8 8 0 8 8 8 8 0 8 8 8 8 0]]",
+      "18286ef8": "[[7 7 7 0 7 7 7 0 7 7 7 7]\n [7 7 7 0 7 7 7 0 7 7 4 7]\n [7 7 2 0 7 7 7 0 7 7 7 7]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [4 7 7 0 5 5 5 0 7 7 7 7]\n [7 7 7 0 5 5 5 0 7 7 7 8]\n [7 7 7 0 5 5 9 0 7 7 7 7]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [7 7 7 0 7 7 7 0 7 7 7 7]\n [7 7 7 0 7 7 7 0 7 7 7 7]\n [7 7 8 0 7 7 7 0 7 7 9 7]\n [7 7 7 0 7 7 7 0 7 7 7 7]]",
+      "182e5d0f": "[[0 3 0 7 7 7 7 7 7 7 7 7]\n [7 5 7 7 7 7 7 7 7 7 7 7]\n [7 7 7 7 7 7 7 7 7 7 7 7]\n [7 7 7 7 7 7 7 7 7 7 7 7]\n [7 7 7 7 7 7 7 7 7 7 7 7]\n [0 7 7 7 7 7 7 7 7 7 7 7]\n [3 3 7 7 7 7 7 7 7 7 7 7]\n [0 3 7 7 7 7 7 7 7 7 7 0]\n [7 3 7 7 7 7 7 7 7 7 5 3]\n [7 3 7 7 7 7 7 7 7 7 7 0]\n [7 3 7 7 7 7 7 7 7 7 7 7]\n [7 7 5 7 7 7 7 7 7 7 7 7]]",
+      "18419cfa": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 8 8 8 8 8 8 8 8 0 0 0 0 0 0 0]\n [0 0 8 0 0 0 0 0 0 8 0 0 0 0 0 0 0]\n [0 0 8 0 0 0 0 0 0 8 0 0 0 0 0 0 0]\n [0 8 8 0 2 2 2 2 0 8 8 0 0 0 0 0 0]\n [0 8 0 0 2 0 0 2 0 0 8 0 0 0 0 0 0]\n [0 8 8 0 2 2 2 2 0 8 8 0 0 0 0 0 0]\n [0 0 8 0 0 0 0 0 0 8 0 0 0 0 0 0 0]\n [0 0 8 0 0 0 0 0 0 8 0 0 0 0 0 0 0]\n [0 0 8 8 8 8 8 8 8 8 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "184a9768": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 1 4 4 4 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 1 1 2 2 2 2 2 1 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 1 1 2 2 2 2 2 1 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 4 4 4 4 4 4 4 4 4 4 4 0 0 0 0]\n [0 0 0 0 0 0 0 4 8 8 4 4 4 4 4 4 4 4 0 0 0 0]\n [0 0 0 0 0 0 0 4 8 8 4 4 3 3 4 4 4 4 0 0 0 0]\n [0 0 0 0 0 0 0 4 4 4 4 4 3 3 4 4 4 4 0 0 0 0]\n [0 0 0 0 0 0 0 4 4 4 4 4 3 3 4 4 4 4 0 0 0 0]\n [0 0 0 0 0 0 0 4 4 4 4 4 4 4 4 4 4 4 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "1a07d186": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 2 0 0 0 0 0 0 0 0 0 0]\n [2 2 2 2 2 2 2 2 2 2 2 2 2 2]\n [0 0 0 0 0 0 2 0 0 0 2 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 1 0 0 0]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1]\n [0 0 1 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "1a6449f1": "[[6 0 0 0 1 1 0 0 6 0]\n [0 0 6 0 6 0 4 0 0 0]\n [0 0 3 0 0 8 0 7 0 5]\n [4 0 3 4 0 3 0 0 8 0]\n [0 0 3 7 7 5 0 0 1 0]\n [3 0 0 0 0 9 0 0 0 0]\n [0 0 0 5 0 0 0 0 0 0]\n [3 0 0 0 0 0 0 9 0 0]]",
+      "1be83260": "[[3 3 3 3 3 2 1 1 1 1 1]\n [3 2 3 2 3 2 1 2 1 2 1]\n [3 3 3 3 3 2 1 1 1 1 1]\n [3 2 3 3 3 2 1 2 1 1 1]\n [3 3 3 3 3 2 1 1 1 1 1]\n [3 2 3 2 3 2 1 2 1 2 1]\n [3 3 3 3 3 2 1 1 1 1 1]\n [2 2 2 2 2 2 2 2 2 2 2]\n [4 4 4 4 4 2 2 2 2 2 2]\n [4 2 4 2 4 2 2 2 2 2 2]\n [4 4 4 4 4 2 2 2 2 2 2]\n [4 2 4 4 4 2 2 2 2 2 2]\n [4 4 4 4 4 2 2 2 2 2 2]\n [4 2 4 2 4 2 2 2 2 2 2]\n [4 4 4 4 4 2 2 2 2 2 2]\n [2 2 2 2 2 2 2 2 2 2 2]\n [3 3 3 3 3 2 1 1 1 1 1]\n [3 2 3 2 3 2 1 2 1 2 1]\n [3 3 3 3 3 2 1 1 1 1 1]\n [3 2 3 3 3 2 1 2 1 1 1]\n [3 3 3 3 3 2 1 1 1 1 1]\n [3 2 3 2 3 2 1 2 1 2 1]\n [3 3 3 3 3 2 1 1 1 1 1]]",
+      "1c0d0a4b": "[[0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 2 0 0 0 2 0 0 0 2 2 0]\n [0 2 0 2 0 0 0 0 0 0 0 2 0]\n [0 0 2 0 0 0 2 0 0 2 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 2 0]\n [0 0 2 0 0 2 2 2 0 2 2 0 0]\n [0 2 0 2 0 0 0 0 0 0 0 2 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "1c786137": "[[3 3 0]\n [9 3 9]\n [6 6 0]\n [9 0 0]\n [6 3 9]]",
+      "1cf80156": "[[1 0 0]\n [1 1 0]\n [0 1 0]\n [1 1 1]\n [0 0 1]]",
+      "1d398264": "[[0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 2 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 2 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 2 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 2 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 2 0 0 2]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 2 0 2 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 2 2 0 0]\n [4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 5 4 4 4]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 8 8 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 8 0 8 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 8 0 0 8]\n [0 0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 8 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 8 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 8 0 0 0]\n [0 0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 8 0 0 0]\n [0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 8 0 0 0]\n [0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 8 0 0 0]]",
+      "1da012fc": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 2 2 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 4 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 4 4 4 4 4 0 0]\n [0 5 2 5 5 5 5 0 0 0 0 0 0 0 4 0 4 0 0 0]\n [0 5 5 5 5 5 5 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 5 5 5 4 5 5 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 5 5 5 5 5 5 0 0 6 6 0 0 0 0 0 0 3 0 0]\n [0 5 6 5 5 3 5 0 6 6 6 6 0 0 0 0 3 3 3 0]\n [0 5 5 5 5 5 5 0 0 6 6 0 0 0 0 0 0 3 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "833dafe3": "[[0 3 3 4 4 3 3 0]\n [0 3 6 4 4 6 3 0]\n [3 0 6 4 4 6 0 3]\n [0 0 6 0 0 6 0 0]\n [0 0 6 0 0 6 0 0]\n [3 0 6 4 4 6 0 3]\n [0 3 6 4 4 6 3 0]\n [0 3 3 4 4 3 3 0]]",
+      "8dae5dfc": "[[1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0]\n [1 2 2 2 2 1 0 0 0 0 0 0 0 0 0 0 0]\n [1 2 8 8 2 1 0 0 0 0 0 0 0 0 0 0 0]\n [1 2 8 8 2 1 0 0 0 0 0 0 0 0 0 0 0]\n [1 2 2 2 2 1 0 0 0 0 0 0 0 0 0 0 0]\n [1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0]\n [0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 1 0]\n [0 0 0 0 1 2 4 4 4 4 4 4 4 4 2 1 0]\n [0 0 0 0 1 2 4 3 3 3 3 3 3 4 2 1 0]\n [0 0 0 0 1 2 4 3 6 6 6 6 3 4 2 1 0]\n [0 0 0 0 1 2 4 3 6 6 6 6 3 4 2 1 0]\n [0 0 0 0 1 2 4 3 3 3 3 3 3 4 2 1 0]\n [0 0 0 0 1 2 4 4 4 4 4 4 4 4 2 1 0]\n [0 0 0 0 1 2 2 2 2 2 2 2 2 2 2 1 0]\n [0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1 0]]",
+      "80214e03": "[[8 2 3]\n [4 4 2]\n [3 6 1]]",
+      "b1986d4b": "[[6 6 4 3 1 6 6 4 3 1 6 6 1 6 6 1]\n [6 6 4 3 1 6 6 4 3 1 6 6 1 6 6 1]\n [4 4 4 3 1 4 4 4 3 1 1 1 1 1 1 1]\n [3 3 3 3 1 3 3 3 3 1 1 1 1 1 1 1]\n [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]]",
+      "414297c0": "[[8 8 8 8 8 8]\n [8 2 8 8 8 8]\n [2 1 2 8 8 8]\n [2 8 8 8 8 8]\n [8 8 8 8 8 8]\n [8 8 8 8 8 8]\n [8 8 2 8 2 8]\n [8 8 8 4 2 8]\n [8 8 2 2 2 8]]",
+      "b71a7747": "[[8 8 8 8 8 8 8 8 8 8 8 8]\n [8 9 9 9 9 8 8 8 8 8 8 8]\n [8 9 8 8 9 8 8 8 8 8 8 8]\n [8 8 8 8 9 8 8 8 8 8 8 8]\n [8 8 8 8 9 9 9 9 8 8 8 8]\n [8 8 8 8 8 8 8 9 8 8 8 8]\n [8 8 8 8 8 8 8 9 8 8 8 8]\n [8 8 8 8 8 8 8 9 8 8 8 8]\n [8 8 8 8 8 8 8 9 8 8 8 8]\n [8 8 8 8 8 8 8 9 8 8 8 8]\n [8 8 8 8 8 8 8 9 9 9 9 8]\n [8 8 8 8 8 8 8 8 8 8 8 8]]",
+      "d687bc17": "[[0 1 1 1 1 1 1 1 1 1 1 0]\n [2 0 0 0 0 1 0 0 0 0 0 4]\n [2 0 0 0 0 0 0 0 0 0 0 4]\n [2 2 0 0 0 0 0 0 0 0 0 4]\n [2 0 0 0 0 0 0 0 0 0 0 4]\n [2 0 0 0 0 0 0 0 0 0 0 4]\n [2 0 0 0 0 0 0 0 0 0 4 4]\n [2 0 0 0 0 0 0 0 0 0 0 4]\n [2 0 0 0 0 0 0 0 0 0 0 4]\n [2 0 0 0 0 0 0 0 0 0 0 4]\n [2 0 0 0 0 0 0 0 7 7 0 4]\n [0 7 7 7 7 7 7 7 7 7 7 0]]",
+      "712bf12e": "[[0 0 0 0 2 0 5 0 0 0 5 0 0 2]\n [0 0 0 0 2 0 0 0 5 0 0 0 5 2]\n [0 0 0 0 2 0 0 0 0 0 0 5 2 2]\n [0 0 5 5 2 0 0 5 5 0 0 0 2 0]\n [0 0 5 5 2 0 0 0 0 0 0 0 2 0]\n [0 0 0 2 2 0 5 0 0 0 5 0 2 0]\n [0 5 5 2 0 0 0 0 0 5 0 0 2 0]\n [5 0 5 2 0 5 0 0 0 0 0 0 2 5]\n [5 0 0 2 5 2 5 0 0 0 0 0 2 0]\n [5 0 0 2 0 2 0 0 0 0 5 0 2 0]\n [0 0 5 2 0 2 5 0 0 0 5 5 2 0]\n [0 0 2 2 0 2 0 5 0 5 5 2 2 0]\n [5 0 2 0 0 2 0 5 5 0 2 2 0 0]]",
+      "9def23fe": "[[0 0 0 0 0 2 0 2 0 0 0 0 0 0 0]\n [0 0 0 0 3 2 0 2 3 0 0 0 0 0 0]\n [0 0 0 0 0 2 0 2 0 0 0 0 0 0 0]\n [0 0 0 0 0 2 3 2 0 0 0 0 0 0 0]\n [0 0 0 0 0 2 0 2 0 0 0 0 0 0 0]\n [2 2 2 2 2 2 2 2 2 0 0 0 3 0 0]\n [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]\n [0 3 0 0 2 2 2 2 2 2 2 2 2 2 2]\n [2 2 2 2 2 2 2 2 2 0 0 0 0 3 0]\n [2 2 2 2 2 2 2 2 2 2 2 2 2 2 2]\n [0 0 0 0 2 0 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 2 0 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 2 0 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 2 0 2 2 3 0 0 0 0 0 0]\n [0 0 0 0 2 0 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 2 0 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 2 3 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 2 0 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 2 0 2 2 0 0 0 0 0 0 0]\n [0 0 0 0 2 0 2 2 0 0 0 0 0 0 0]]",
+      "67385a82": "[[8 8 0 3]\n [8 8 0 0]\n [8 0 0 8]\n [0 0 8 8]]",
+      "3ad05f52": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 0 0 0]\n [0 0 8 0 0 0 8 6 6 6 8 6 6 6 8 6 6 6 8 6 6 6 8 0 0 0]\n [0 0 8 0 0 0 8 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 8 0 0 0]\n [0 0 8 0 0 0 8 6 6 6 8 6 6 6 8 6 6 6 8 6 6 6 8 0 0 0]\n [0 0 8 8 8 8 8 8 6 8 8 8 8 8 8 8 8 8 8 8 8 8 8 0 0 0]\n [0 0 0 0 0 0 8 6 6 6 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 6 6 6 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 6 6 6 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 8 6 8 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 8 6 8 8 8 8 8 8 8 8 8 8 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 6 6 6 8 6 6 6 8 6 6 6 8 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 6 6 6 6 6 6 6 6 6 6 6 8 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 6 6 6 8 6 6 6 8 6 6 6 8 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 8 8 8 8 8 8 8 8 8 8 6 8 8 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 8 6 6 6 8 6 6 6 8 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 8 6 6 6 6 6 6 6 8 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 8 6 6 6 8 6 6 6 8 0 0 0 0 0 0 0]]",
+      "67a423a3": "[[0 0 0 0 6 0 0 0]\n [0 0 0 0 6 0 0 0]\n [0 0 0 0 6 0 0 0]\n [0 0 0 4 4 4 0 0]\n [8 8 8 4 6 4 8 8]\n [0 0 0 4 4 4 0 0]\n [0 0 0 0 6 0 0 0]\n [0 0 0 0 6 0 0 0]]",
+      "d931c21c": "[[0 0 2 1 1 1 1 1 1 2 0 0 0 0]\n [0 0 2 1 3 3 3 3 1 2 2 2 2 0]\n [0 0 2 1 3 0 0 3 1 1 1 1 2 0]\n [0 0 2 1 3 0 0 3 3 3 3 1 2 0]\n [0 0 2 1 3 3 3 3 3 0 3 1 2 0]\n [0 0 2 1 1 1 1 1 3 0 3 1 2 0]\n [0 0 2 2 2 2 2 1 3 3 3 1 2 0]\n [0 0 0 0 0 0 2 1 1 1 1 1 2 0]\n [0 0 0 0 0 0 2 2 2 2 2 2 2 0]\n [0 0 0 0 0 0 0 0 0 2 2 2 2 2]\n [0 0 0 0 0 0 0 0 0 2 1 1 1 2]\n [0 0 0 0 0 0 0 0 0 2 1 3 1 2]\n [0 0 0 1 0 1 1 1 0 2 1 1 1 2]\n [0 0 0 1 0 0 0 1 0 2 2 2 2 2]\n [0 0 0 1 1 1 1 1 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "d631b094": "[[7]]",
+      "b942fd60": "[[0 7 0 0 0 0 2 0]\n [2 2 2 2 2 2 2 3]\n [0 2 0 0 0 0 2 0]\n [2 2 8 0 0 0 2 0]\n [0 2 0 0 0 0 2 0]\n [0 2 0 0 0 0 2 0]\n [0 2 0 0 7 0 2 0]\n [0 2 0 0 0 0 2 0]]",
+      "e4941b18": "[[7 7 7 7 7 7 7 7 7]\n [7 7 7 7 7 7 7 7 7]\n [7 7 7 7 7 7 7 7 7]\n [7 7 7 7 7 7 7 7 7]\n [7 7 7 7 2 7 7 7 7]\n [5 5 5 5 5 5 7 7 7]\n [5 5 5 5 5 5 7 7 7]\n [5 5 5 5 5 5 7 7 7]\n [5 5 5 5 5 5 8 7 7]]",
+      "3cd86f4f": "[[0 0 0 9 7 9 7 7 7 5 5 5]\n [0 0 4 7 9 7 9 7 7 5 5 0]\n [0 4 4 7 7 9 7 9 7 5 0 0]\n [4 4 4 7 7 7 9 7 9 0 0 0]]",
+      "5168d44c": "[[0 0 0 0 3 0 0]\n [0 0 0 0 0 0 0]\n [0 0 0 0 3 0 0]\n [0 0 0 0 0 0 0]\n [0 0 0 0 3 0 0]\n [0 0 0 2 2 2 0]\n [0 0 0 2 3 2 0]\n [0 0 0 2 2 2 0]\n [0 0 0 0 3 0 0]\n [0 0 0 0 0 0 0]\n [0 0 0 0 3 0 0]\n [0 0 0 0 0 0 0]\n [0 0 0 0 3 0 0]]",
+      "bf89d739": "[[0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 2 0 0 0 0 0]\n [0 0 0 0 3 0 0 0 0 0]\n [0 0 2 3 3 3 3 2 0 0]\n [0 0 0 0 0 3 0 0 0 0]\n [0 0 0 0 0 2 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0]]",
+      "df8cc377": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 2 8 0 8 2 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 2 0 8 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 2 8 0 8 2 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 2 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 3 3 3 3 3 3 3 3 3 0 0]\n [0 0 0 0 0 0 0 0 0 3 4 0 4 0 4 0 4 3 0 0]\n [0 0 0 0 0 0 0 0 0 3 0 4 0 4 0 4 0 3 0 0]\n [0 0 0 0 0 0 0 0 0 3 3 3 3 3 3 3 3 3 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "7e4d4f7c": "[[0 7 0 7 0 7 0 7]\n [7 0 0 0 0 0 0 0]\n [0 6 0 6 0 6 0 6]]",
+      "ce8d95cc": "[[0 4 0]\n [3 4 3]\n [0 4 0]\n [8 8 8]\n [0 4 0]]",
+      "2faf500b": "[[0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 9 9 0 0 0 9 9 9 0]\n [0 0 0 9 9 9 0 0 0 9 9 0]\n [0 0 0 9 9 0 0 0 9 9 9 0]\n [0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 9 9 0]\n [9 9 9 0 0 0 9 9 0 9 0 0]\n [9 9 0 0 0 9 9 9 0 0 0 0]\n [9 9 9 0 0 0 9 9 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 9 0]\n [0 0 0 0 0 0 0 0 0 9 9 0]]",
+      "48131b3c": "[[0 7 0 7]\n [7 0 7 0]\n [0 7 0 7]\n [7 0 7 0]]",
+      "45bbe264": "[[0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [3 3 3 2 3 3 3 3 3 3 3 3 3 3]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [4 4 4 4 4 4 4 4 4 2 4 4 4 4]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]\n [0 0 0 4 0 0 0 0 0 3 0 0 0 0]]",
+      "fbf15a0b": "[[8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8]\n [8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8]\n [8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1]\n [8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8]\n [8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1]\n [8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8]\n [8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1]\n [8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1]\n [8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8 8]\n [8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1 8 1]]",
+      "50cb2852": "[[0 0 0 0 0 0 0 0 0 0 0]\n [0 2 2 2 2 0 0 0 0 0 0]\n [0 2 8 8 2 0 0 0 0 0 0]\n [0 2 8 8 2 0 0 0 0 0 0]\n [0 2 2 2 2 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]\n [0 0 1 1 1 1 1 1 0 0 0]\n [0 0 1 8 8 8 8 1 0 0 0]\n [0 0 1 1 1 1 1 1 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0]]",
+      "d0f5fe59": "[[8 0 0]\n [0 8 0]\n [0 0 8]]",
+      "5b692c0f": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 3 3 3 3 0 3 3 3 3 0 0 0]\n [0 0 0 3 3 0 0 0 3 3 0 0 0 0]\n [0 0 0 0 3 3 4 3 3 0 0 0 0 0]\n [0 0 3 3 3 3 4 3 3 3 3 0 0 0]\n [0 0 3 3 3 3 4 3 3 3 3 0 0 0]\n [0 0 0 3 4 3 4 3 4 3 0 0 0 0]\n [0 0 0 0 3 3 4 3 3 0 0 0 0 0]\n [0 0 3 3 3 3 4 3 3 3 3 0 0 0]\n [0 0 3 3 3 3 4 3 3 3 3 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0]]",
+      "27a77e38": "[[3 6 4 2 4]\n [8 4 3 3 4]\n [5 5 5 5 5]\n [0 0 0 0 0]\n [0 0 4 0 0]]",
+      "a3325580": "[[8]\n [8]\n [8]]",
+      "22425bda": "[[2 5]]",
+      "a5f85a15": "[[0 0 9 0 0 0 0 0]\n [0 0 0 4 0 0 0 0]\n [0 0 0 0 9 0 0 0]\n [0 0 0 0 0 4 0 0]\n [9 0 0 0 0 0 9 0]\n [0 4 0 0 0 0 0 4]\n [0 0 9 0 0 0 0 0]\n [0 0 0 4 0 0 0 0]]",
+      "25e02866": "[[3 3 3 3]\n [3 6 6 3]\n [3 6 1 3]\n [3 3 3 3]]",
+      "9344f635": "[[7 9 7 7 7 7 7 7]\n [5 5 5 5 5 5 5 5]\n [5 5 5 5 5 5 5 5]\n [7 9 7 7 7 7 7 7]\n [7 9 7 7 7 7 7 7]\n [7 9 7 7 7 7 7 7]\n [4 4 4 4 4 4 4 4]\n [7 9 7 7 7 7 7 7]]",
+      "fcb5c309": "[[3 3 3 3 3 3 3]\n [3 0 0 3 0 0 3]\n [3 0 0 0 0 0 3]\n [3 3 0 3 0 0 3]\n [3 0 0 0 0 0 3]\n [3 3 3 3 3 3 3]]",
+      "f0afb749": "[[2 2 0 0]\n [2 2 0 0]\n [0 0 1 0]\n [0 0 0 1]]",
+      "b745798f": "[[2 2 2 2 2 8 5 5 5 5 5]\n [2 8 8 8 8 8 8 8 8 8 5]\n [2 8 8 8 8 8 8 8 8 8 5]\n [2 8 8 8 8 8 8 8 8 8 5]\n [2 8 8 8 8 8 8 8 8 8 5]\n [8 8 8 8 8 8 8 8 8 8 8]\n [1 8 8 8 8 8 8 8 8 8 5]\n [1 8 8 8 8 8 8 8 8 8 5]\n [1 8 8 8 8 8 8 8 8 8 5]\n [1 8 8 8 8 8 8 8 8 8 5]\n [1 1 1 1 1 8 5 5 5 5 5]]",
+      "b457fec5": "[[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 1 3 4 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 3 3 3 1 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 4 4 4 3 1 0 0 0 0 0]\n [0 0 0 0 0 0 0 1 1 1 4 3 0 0 0 0 0 0]\n [0 0 0 0 0 0 3 3 3 1 4 0 0 0 0 0 0 0]\n [0 0 0 0 0 4 4 4 3 1 0 0 0 0 0 0 0 0]\n [0 0 0 0 1 1 1 4 3 0 0 0 0 0 0 0 0 0]\n [0 0 0 3 3 3 1 4 0 0 0 0 0 0 0 0 0 0]\n [0 0 4 4 4 3 1 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 4 4 4 3 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 4 4 4 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]\n [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]"
+    },
+    "pattern_scores": {
+      "afdd21777f81f385c7125b65d1ed0743": 161.0,
+      "4d658d85cb21fa8467446e0803f5fe9e": -0.5,
+      "02060cebd7a5070786bf13bf821d4f86": -0.5,
+      "402471e8d32367341927906a40b3284f": -0.5,
+      "a3e4ac98acbf66deb0c6eb696402257a": -1.5,
+      "9b6b1bf1958b1b570391ea87ce132201": -0.5,
+      "1f7b3aa7e6a0f5ce1ab4d52583e08884": -0.5,
+      "5f1c98adc3c5522f27c6d76b149738b1": -1.5,
+      "6d68c2a9941090bebf2103d1dd1f227d": -1.5,
+      "9980694268947460c3b62f0d83059c7d": -1.0,
+      "aff759534574c121fcb8adb9047c83bf": -0.5,
+      "f8683e51b7185d784e8091e394ffeca0": -1.0,
+      "f8f542f68d99578c23347660e93f9a71": -2.5,
+      "16cc8a5efeeefa6a6f4410f924dc986d": -1.5,
+      "8f2c3e409d0ccc568f5800352d6ac458": -0.5,
+      "e6227ef658c3313aa36e89a12db9b74d": -0.5,
+      "73820bbd35827db0b24c84ff1fc5726a": -0.5,
+      "fd6fad0d9146f7ddef4295f508761d7d": -0.5,
+      "5aa4b8cccd39237b5d479874d71d7041": -0.5,
+      "d36a7f715b045372df1de856b0c740b4": -0.5,
+      "8f7c6cd8157383000e759bea835e1549": -0.5,
+      "04e213b0f2473d5443979793d156541b": -1.5,
+      "29f351220f1900a0f0a261b5c040d963": -0.5,
+      "ce149c9c7aede02da808438cf8dafd12": -0.5,
+      "22c3487a00cfaff5f8d6528172e25a8c": -0.5,
+      "6d8667db6383e61d7e9ba5d8fe939908": -0.5,
+      "aeece74d27ee04f3162844472e10a56e": -1.5,
+      "155907f0f7b16b0578b44dd63afb4fa6": -1.0,
+      "2a6383098e94e8a4f101e31bca790032": -0.5,
+      "fab718c8e8d767a4ff74d3d829d55052": -0.5,
+      "b2b16459e74dad205fec0e05ae4594ee": -0.5,
+      "22aa580bee79ece4bda11b1ab96aa391": -2.0,
+      "c6cb363894db6e1da4df7cc717b9bad5": -1.0,
+      "3fbf04040e5998ea9a510edee1364c4f": -0.5,
+      "358e34db3972cc5766e457bc37aecae3": -1.0,
+      "afff2a304a5e066d41eacfc12be3e1f1": -0.5,
+      "9bf26c9f728d7903d5f534e69101e075": -0.5,
+      "3c642e8365294ab35babca0e1348fe00": -2.5,
+      "f39cb42a8fdaf2acb8799d3d758d30c6": -0.5,
+      "1841c990cdf0650e17a09642670e5b4f": -0.5,
+      "39d11f7d9db92ba265e9eaa1a2746845": -0.5,
+      "fe93926b7ea9c24334e8a100e86c19fd": -0.5,
+      "7e2432985b13efc2dfd846860dfbfbd6": -0.5,
+      "d2eef30cc2bddb5cc796a3f2619a2f46": -0.5,
+      "98f317c97a0a63caf578f8227535c383": -1.5,
+      "30dcfe5d60e81ad3af001b66ef3d26c1": -0.5,
+      "50e6251c5a36fe450ca24e6504b9eaae": -0.5,
+      "c6618536a5ddb4666ed4bde3c164bd77": -0.5,
+      "6287e00e04a3c804393668fd6a1d968e": -0.5,
+      "5f6d867f735f7ac45e4bc67e7d04449a": -0.5,
+      "757ab98d8a6cf99ade42572868caffb2": -0.5,
+      "48410a0ade0979582a50d99bee9268f7": -0.5,
+      "341892e6331e8dd61ce19009fbc79266": -0.5,
+      "17a2ea198fa793eb3c469d8bef16fa5f": -1.5,
+      "025f704f853de27e83220f1bd4e15f0f": -1.5,
+      "e9e2bb42b09665222b1678bc75f73b60": -0.5,
+      "63b3f66cd904e2ee0128c06f8162e939": -0.5,
+      "a86fdd340dfe53c3ac374a00abf5b034": -1.0,
+      "5015eefa7b27238e924de8432ac44949": -1.0,
+      "42b23ef838d089565f0c8972bbb60d3d": -1.0,
+      "3b62db0f42070eb66a966f28849e84e0": -1.0,
+      "16a3b5a946991e3c2f7dfcd0aefdd391": -1.0,
+      "cc64a7065fbc77284f63d6e279a6ed17": -1.0,
+      "1a54f3566f74fe43f6693be53981361a": -1.0,
+      "5b151f4525ee348283eef7f22702602e": -1.5,
+      "e34a59b6d7b91faafd5d56d4e62d4d53": -1.0,
+      "c20f906a05eb97b0bcb6a2a3ee9598cd": -1.0,
+      "0de085670741f8c80e8c3ff038887fc3": -1.0,
+      "212668cfbe9ddb8b50535f887f52d8dd": -1.0,
+      "62a57a77a407ab0756fbc10abf73173e": -1.0,
+      "a896405a8d4de6e20ff25e72cda188a9": -1.0,
+      "adf0f3e8501df6158ae806125e89938e": -1.0,
+      "dc841ea69b68a51c7bcdb32ba085b8ff": -1.0,
+      "d3e40ba38cc9700192b3790139fb3ef2": -1.0,
+      "51cb2d3dab4514b80f75d272befeb180": -1.0,
+      "7df287768a9c5ac1ef2e0336029bc560": -1.0,
+      "a467bb19c22ba100b73819da7f1dd490": -1.5,
+      "fbdaff0d13cd0389678382f218fa4d0a": -1.5,
+      "fef4b5559e44d60287f01244e4e5e699": -1.0,
+      "c292db80728a95e590500337733b20ce": -1.0,
+      "578903a76bc04d1a273959ca65ffd30b": -1.0,
+      "6c54184d4f563a5e1b366cab2d495352": -1.0,
+      "c2a9a2eb8cd33a42ec834b57f431b7bc": -1.0,
+      "9295905983aef152338d4a243b79f755": -1.0,
+      "cad804941ad5058e3e37ef87dc46e0b7": -1.0,
+      "8a754dd41f7d0be235a1b7a2938c731d": -1.0,
+      "21c34bb164daa28e8a542ca809b140ac": -1.5,
+      "327f01c36d1aa2bea539b297dfcc65ee": -1.0,
+      "78a7e511361d6fd644f1818159c4a655": -1.0,
+      "ac535c1216714317620e53da75692991": -1.5,
+      "438f3f77b2420bf2a41cd14c39eda02d": -1.0,
+      "adf95567ab582943d5c805a9ed78fda2": -1.0,
+      "fcb98376dbe894caabc069ca524162d1": -1.0,
+      "23c206fdc17c9d45cc385f74073ad67b": -1.0,
+      "c2c1db7b26ce0c93901b5c6131fb5268": -1.0,
+      "d486ba4ccd85f686e03597137873ee40": -1.0,
+      "fcb35e8628b8995884fe802faad61923": -1.0,
+      "180e22b59f7958354ca144eef7d42962": -1.0,
+      "68dc7c2a9088215e4f62355cb5ed8160": -1.5,
+      "c37470cb2dac5ad029d9ae861f90f5fa": -1.0,
+      "9ac17a3bea72bf93df1011a9e0e8b005": -1.5,
+      "378f3e5786bafa009a9567608d0a6bc8": -1.0,
+      "862f5a6ca01318333c2e6e7dba6df3e3": -1.0,
+      "c374de4d2e958f5271e49efca9a221bb": -1.0,
+      "4291234342f3b9f79724a9e767b8e496": -1.0,
+      "ac2b810b5dff462f0492a56ce45389c6": -1.0,
+      "257d0cfff61a7e53675ea331c39218dd": -1.0,
+      "4fc567e5115668abf7b30c7added2a0c": -1.0,
+      "01cabac6f41dfa41cfd8bee71d0ba646": -1.0,
+      "3cde56dcfc8a85a7ddf06e5b7b15e2b2": -1.0,
+      "1905e1460fada6f41c0b7239058f7ca9": -1.0,
+      "9322e344e0e8a5e84eb1d686b9a8e491": -0.5,
+      "1bac1ec9ba9e3efca465d84bfbe5c0f1": -0.5,
+      "180915b9d3d8638b7c728926035077e4": -0.5,
+      "3dfa6aa54568c17fb3d9de69427c6938": -0.5,
+      "671bae9886f233358433c2c1796163fd": -0.5,
+      "6ad9ea668d2b2cfd2761a630c2d6085e": -0.5,
+      "46751968433e473f2d58b8da911ab75d": -0.5,
+      "d11dfa327e0c92b702dde755654e5ed5": -0.5,
+      "4dbc2a282f278f88be093ce5a8949420": -0.5,
+      "a7f937b5475981993d769497c323e071": -0.5,
+      "8ce3c504b8782ac9a776e6badd31b65a": -0.5,
+      "6db7294e31a34213664d716070d9f536": -0.5,
+      "f5a2f2ee517b7ea17ec6384228f23848": -0.5,
+      "1e0ab69f1247653eba1c9d26c090d423": -0.5,
+      "a893b6cb37224e5f05c708c5d91f3c0c": -0.5,
+      "3405faffc2950019b2ebf4cbe089aa70": -0.5,
+      "753806bcd5fa5e3b4146c76b077da240": -0.5,
+      "0828b21f78ee060fe25ea9792d9471a2": -0.5,
+      "3364f76d8af582783418781bab5b81e3": -0.5,
+      "3e6f5cd50926e8c6f4a2c5acf0e6dddb": -0.5,
+      "ebffc45eb3930e6e367163992243e05f": -0.5,
+      "43d584695035ae30de000c49029cc680": -0.5,
+      "c4981dce0f435004317cc6a633c31279": -0.5,
+      "b7607aaa19315eebb2afd935d8a27f83": -0.5,
+      "47289a817a3aa26e8a46baae1aa56aba": -0.5,
+      "df79180eb8723e0a05a58e6f5c486011": -0.5,
+      "3373b5b99c9b15c7d314450e94653ba5": -0.5,
+      "e957a702ed82e4484994a33ac6aab836": -0.5,
+      "e50f3b110db2f62f6144f9658becd0c1": -0.5,
+      "f585a9067f9c232b4e5c3c9156d1d7d4": -0.5,
+      "19d783bd0f2fe3ebfefc3c480eae6309": -0.5,
+      "2250daaaf4e252457ebab7c27a3987f4": -0.5,
+      "42dc1c4a80a124eecd2749c1b0fccd49": -0.5,
+      "70089c4856ff31058524045b4fb5fe2e": -0.5
+    },
+    "dsl_programs": {}
+  },
+  "dsl_generator": {
+    "max_length": 3,
+    "successful_programs": {}
+  },
+  "system_performance": {
+    "unified_solver": {
+      "success": 161,
+      "total": 161
+    }
+  }
+}

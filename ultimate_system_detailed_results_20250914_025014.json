@@ -1,0 +1,578 @@
+{
+  "by_task": {
+    "00576224": {
+      "task_id": "00576224",
+      "success": false,
+      "time": 0.0,
+      "error": "operands could not be broadcast together with shapes (2,2) (6,6) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (2,2) (6,6) \n"
+    },
+    "007bbfb7": {
+      "task_id": "007bbfb7",
+      "success": false,
+      "time": 0.0035245418548583984,
+      "error": "operands could not be broadcast together with shapes (3,3) (9,9) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (3,3) (9,9) \n"
+    },
+    "009d5c81": {
+      "task_id": "009d5c81",
+      "success": true,
+      "time": 1.5794837474822998,
+      "complexity": "EASY",
+      "solution_shape": [
+        14,
+        14
+      ],
+      "strategy_used": "simple"
+    },
+    "00d62c1b": {
+      "task_id": "00d62c1b",
+      "success": true,
+      "time": 0.04470086097717285,
+      "complexity": "EASY",
+      "solution_shape": [
+        20,
+        20
+      ],
+      "strategy_used": "simple"
+    },
+    "00dbd492": {
+      "task_id": "00dbd492",
+      "success": true,
+      "time": 0.03385186195373535,
+      "complexity": "EASY",
+      "solution_shape": [
+        20,
+        20
+      ],
+      "strategy_used": "simple"
+    },
+    "017c7c7b": {
+      "task_id": "017c7c7b",
+      "success": false,
+      "time": 0.0,
+      "error": "operands could not be broadcast together with shapes (6,3) (9,3) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (6,3) (9,3) \n"
+    },
+    "025d127b": {
+      "task_id": "025d127b",
+      "success": true,
+      "time": 0.011860132217407227,
+      "complexity": "EASY",
+      "solution_shape": [
+        10,
+        10
+      ],
+      "strategy_used": "simple"
+    },
+    "03560426": {
+      "task_id": "03560426",
+      "success": true,
+      "time": 0.012798547744750977,
+      "complexity": "EASY",
+      "solution_shape": [
+        10,
+        10
+      ],
+      "strategy_used": "simple"
+    },
+    "045e512c": {
+      "task_id": "045e512c",
+      "success": true,
+      "time": 1.9219443798065186,
+      "complexity": "MEDIUM",
+      "solution_shape": [
+        21,
+        21
+      ],
+      "strategy_used": "simple"
+    },
+    "0520fde7": {
+      "task_id": "0520fde7",
+      "success": false,
+      "time": 0.0,
+      "error": "operands could not be broadcast together with shapes (3,7) (3,3) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (3,7) (3,3) \n"
+    },
+    "05269061": {
+      "task_id": "05269061",
+      "success": true,
+      "time": 0.015388965606689453,
+      "complexity": "MEDIUM",
+      "solution_shape": [
+        7,
+        7
+      ],
+      "strategy_used": "simple"
+    },
+    "05a7bcf2": {
+      "task_id": "05a7bcf2",
+      "success": true,
+      "time": 2.833251714706421,
+      "complexity": "MEDIUM",
+      "solution_shape": [
+        30,
+        30
+      ],
+      "strategy_used": "simple"
+    },
+    "05f2a901": {
+      "task_id": "05f2a901",
+      "success": true,
+      "time": 0.020214080810546875,
+      "complexity": "EASY",
+      "solution_shape": [
+        11,
+        10
+      ],
+      "strategy_used": "simple"
+    },
+    "0607ce86": {
+      "task_id": "0607ce86",
+      "success": true,
+      "time": 1.6607558727264404,
+      "complexity": "MEDIUM",
+      "solution_shape": [
+        24,
+        22
+      ],
+      "strategy_used": "simple"
+    },
+    "0692e18c": {
+      "task_id": "0692e18c",
+      "success": false,
+      "time": 0.002652406692504883,
+      "error": "operands could not be broadcast together with shapes (3,3) (9,9) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (3,3) (9,9) \n"
+    },
+    "06df4c85": {
+      "task_id": "06df4c85",
+      "success": true,
+      "time": 1.4490442276000977,
+      "complexity": "MEDIUM",
+      "solution_shape": [
+        26,
+        26
+      ],
+      "strategy_used": "simple"
+    },
+    "070dd51e": {
+      "task_id": "070dd51e",
+      "success": true,
+      "time": 0.8990545272827148,
+      "complexity": "MEDIUM",
+      "solution_shape": [
+        20,
+        20
+      ],
+      "strategy_used": "simple"
+    },
+    "08ed6ac7": {
+      "task_id": "08ed6ac7",
+      "success": true,
+      "time": 0.013385772705078125,
+      "complexity": "TRIVIAL",
+      "solution_shape": [
+        9,
+        9
+      ],
+      "strategy_used": "simple"
+    },
+    "09629e4f": {
+      "task_id": "09629e4f",
+      "success": false,
+      "time": 2.501164436340332,
+      "error": "The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 701, in solve_task\n    hybrid_solution = self._hybrid_solve(task_data, patterns)\n                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 762, in _hybrid_solve\n    mode_solution = max(solutions, key=solutions.count)\n                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()\n"
+    },
+    "0962bcdd": {
+      "task_id": "0962bcdd",
+      "success": true,
+      "time": 0.01832747459411621,
+      "complexity": "EASY",
+      "solution_shape": [
+        12,
+        12
+      ],
+      "strategy_used": "simple"
+    },
+    "09c534e7": {
+      "task_id": "09c534e7",
+      "success": true,
+      "time": 1.869910717010498,
+      "complexity": "MEDIUM",
+      "solution_shape": [
+        30,
+        30
+      ],
+      "strategy_used": "simple"
+    },
+    "0a1d4ef5": {
+      "task_id": "0a1d4ef5",
+      "success": false,
+      "time": 0.0,
+      "error": "operands could not be broadcast together with shapes (30,30) (2,3) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (30,30) (2,3) \n"
+    },
+    "0a2355a6": {
+      "task_id": "0a2355a6",
+      "success": true,
+      "time": 0.9267725944519043,
+      "complexity": "EASY",
+      "solution_shape": [
+        15,
+        17
+      ],
+      "strategy_used": "simple"
+    },
+    "0a938d79": {
+      "task_id": "0a938d79",
+      "success": true,
+      "time": 0.8837573528289795,
+      "complexity": "EASY",
+      "solution_shape": [
+        11,
+        27
+      ],
+      "strategy_used": "simple"
+    },
+    "0b148d64": {
+      "task_id": "0b148d64",
+      "success": false,
+      "time": 0.0010077953338623047,
+      "error": "operands could not be broadcast together with shapes (18,19) (7,9) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (18,19) (7,9) \n"
+    },
+    "0b17323b": {
+      "task_id": "0b17323b",
+      "success": true,
+      "time": 0.023677587509155273,
+      "complexity": "EASY",
+      "solution_shape": [
+        15,
+        15
+      ],
+      "strategy_used": "simple"
+    },
+    "0bb8deee": {
+      "task_id": "0bb8deee",
+      "success": false,
+      "time": 0.0020089149475097656,
+      "error": "operands could not be broadcast together with shapes (15,13) (6,6) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (15,13) (6,6) \n"
+    },
+    "0becf7df": {
+      "task_id": "0becf7df",
+      "success": true,
+      "time": 0.014614343643188477,
+      "complexity": "EASY",
+      "solution_shape": [
+        10,
+        10
+      ],
+      "strategy_used": "simple"
+    },
+    "0c786b71": {
+      "task_id": "0c786b71",
+      "success": false,
+      "time": 0.0,
+      "error": "operands could not be broadcast together with shapes (3,4) (6,8) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (3,4) (6,8) \n"
+    },
+    "0c9aba6e": {
+      "task_id": "0c9aba6e",
+      "success": false,
+      "time": 0.0,
+      "error": "operands could not be broadcast together with shapes (13,4) (6,4) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (13,4) (6,4) \n"
+    },
+    "0ca9ddb6": {
+      "task_id": "0ca9ddb6",
+      "success": true,
+      "time": 0.014948844909667969,
+      "complexity": "EASY",
+      "solution_shape": [
+        9,
+        9
+      ],
+      "strategy_used": "simple"
+    },
+    "0d3d703e": {
+      "task_id": "0d3d703e",
+      "success": true,
+      "time": 0.016907691955566406,
+      "complexity": "EASY",
+      "solution_shape": [
+        3,
+        3
+      ],
+      "strategy_used": "simple"
+    },
+    "0d87d2a6": {
+      "task_id": "0d87d2a6",
+      "success": true,
+      "time": 1.5468058586120605,
+      "complexity": "EASY",
+      "solution_shape": [
+        23,
+        25
+      ],
+      "strategy_used": "simple"
+    },
+    "0e206a2e": {
+      "task_id": "0e206a2e",
+      "success": true,
+      "time": 1.7324750423431396,
+      "complexity": "EASY",
+      "solution_shape": [
+        24,
+        19
+      ],
+      "strategy_used": "simple"
+    },
+    "0e671a1a": {
+      "task_id": "0e671a1a",
+      "success": true,
+      "time": 1.155613899230957,
+      "complexity": "EASY",
+      "solution_shape": [
+        13,
+        13
+      ],
+      "strategy_used": "simple"
+    },
+    "0f63c0b9": {
+      "task_id": "0f63c0b9",
+      "success": true,
+      "time": 1.1701552867889404,
+      "complexity": "EASY",
+      "solution_shape": [
+        15,
+        15
+      ],
+      "strategy_used": "simple"
+    },
+    "103eff5b": {
+      "task_id": "103eff5b",
+      "success": true,
+      "time": 0.8169517517089844,
+      "complexity": "MEDIUM",
+      "solution_shape": [
+        16,
+        26
+      ],
+      "strategy_used": "simple"
+    },
+    "10fcaaa3": {
+      "task_id": "10fcaaa3",
+      "success": false,
+      "time": 0.0010120868682861328,
+      "error": "operands could not be broadcast together with shapes (5,3) (10,6) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (5,3) (10,6) \n"
+    },
+    "11852cab": {
+      "task_id": "11852cab",
+      "success": true,
+      "time": 0.014291524887084961,
+      "complexity": "EASY",
+      "solution_shape": [
+        10,
+        10
+      ],
+      "strategy_used": "simple"
+    },
+    "1190bc91": {
+      "task_id": "1190bc91",
+      "success": true,
+      "time": 0.014101505279541016,
+      "complexity": "HARD",
+      "solution_shape": [
+        8,
+        8
+      ],
+      "strategy_used": "simple"
+    },
+    "1190e5a7": {
+      "task_id": "1190e5a7",
+      "success": false,
+      "time": 0.0010197162628173828,
+      "error": "operands could not be broadcast together with shapes (11,11) (3,2) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (11,11) (3,2) \n"
+    },
+    "11dc524f": {
+      "task_id": "11dc524f",
+      "success": true,
+      "time": 0.8591058254241943,
+      "complexity": "EASY",
+      "solution_shape": [
+        13,
+        13
+      ],
+      "strategy_used": "simple"
+    },
+    "11e1fe23": {
+      "task_id": "11e1fe23",
+      "success": true,
+      "time": 0.026738405227661133,
+      "complexity": "EASY",
+      "solution_shape": [
+        12,
+        14
+      ],
+      "strategy_used": "simple"
+    },
+    "12422b43": {
+      "task_id": "12422b43",
+      "success": true,
+      "time": 0.02846813201904297,
+      "complexity": "EASY",
+      "solution_shape": [
+        10,
+        7
+      ],
+      "strategy_used": "simple"
+    },
+    "12997ef3": {
+      "task_id": "12997ef3",
+      "success": false,
+      "time": 0.0,
+      "error": "operands could not be broadcast together with shapes (11,11) (6,3) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (11,11) (6,3) \n"
+    },
+    "12eac192": {
+      "task_id": "12eac192",
+      "success": true,
+      "time": 0.023715496063232422,
+      "complexity": "EASY",
+      "solution_shape": [
+        8,
+        8
+      ],
+      "strategy_used": "simple"
+    },
+    "13713586": {
+      "task_id": "13713586",
+      "success": true,
+      "time": 1.065986156463623,
+      "complexity": "EASY",
+      "solution_shape": [
+        19,
+        18
+      ],
+      "strategy_used": "simple"
+    },
+    "137eaa0f": {
+      "task_id": "137eaa0f",
+      "success": false,
+      "time": 0.0,
+      "error": "operands could not be broadcast together with shapes (11,11) (3,3) ",
+      "traceback": "Traceback (most recent call last):\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\test_ultimate_system_full.py\", line 197, in test_single_task\n    solution = self.system.solve_task(task_data)\n               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 648, in solve_task\n    complexity = self.analyze_complexity(task_data)\n                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"C:\\Users\\Lenovo\\OneDrive\\Desktop\\مشروع برهان\\ultimate_generalized_arc_system.py\", line 611, in analyze_complexity\n    changes = np.sum(input_grid != output_grid)\n                     ^^^^^^^^^^^^^^^^^^^^^^^^^\nValueError: operands could not be broadcast together with shapes (11,11) (3,3) \n"
+    },
+    "137f0df0": {
+      "task_id": "137f0df0",
+      "success": true,
+      "time": 0.016980648040771484,
+      "complexity": "EASY",
+      "solution_shape": [
+        10,
+        10
+      ],
+      "strategy_used": "simple"
+    },
+    "13f06aa5": {
+      "task_id": "13f06aa5",
+      "success": true,
+      "time": 0.6564338207244873,
+      "complexity": "EASY",
+      "solution_shape": [
+        15,
+        17
+      ],
+      "strategy_used": "simple"
+    }
+  },
+  "by_complexity": {
+    "EASY": {
+      "total": 25,
+      "solved": 25
+    },
+    "MEDIUM": {
+      "total": 8,
+      "solved": 8
+    },
+    "TRIVIAL": {
+      "total": 1,
+      "solved": 1
+    },
+    "HARD": {
+      "total": 1,
+      "solved": 1
+    }
+  },
+  "by_pattern": {},
+  "failures": [
+    "00576224",
+    "007bbfb7",
+    "017c7c7b",
+    "0520fde7",
+    "0692e18c",
+    "09629e4f",
+    "0a1d4ef5",
+    "0b148d64",
+    "0bb8deee",
+    "0c786b71",
+    "0c9aba6e",
+    "10fcaaa3",
+    "1190e5a7",
+    "12997ef3",
+    "137eaa0f"
+  ],
+  "successes": [
+    "009d5c81",
+    "00d62c1b",
+    "00dbd492",
+    "025d127b",
+    "03560426",
+    "045e512c",
+    "05269061",
+    "05a7bcf2",
+    "05f2a901",
+    "0607ce86",
+    "06df4c85",
+    "070dd51e",
+    "08ed6ac7",
+    "0962bcdd",
+    "09c534e7",
+    "0a2355a6",
+    "0a938d79",
+    "0b17323b",
+    "0becf7df",
+    "0ca9ddb6",
+    "0d3d703e",
+    "0d87d2a6",
+    "0e206a2e",
+    "0e671a1a",
+    "0f63c0b9",
+    "103eff5b",
+    "11852cab",
+    "1190bc91",
+    "11dc524f",
+    "11e1fe23",
+    "12422b43",
+    "12eac192",
+    "13713586",
+    "137f0df0",
+    "13f06aa5"
+  ],
+  "statistics": {
+    "total_tasks": 50,
+    "solved_tasks": 35,
+    "failed_tasks": 15,
+    "total_time": 25.90486454963684,
+    "avg_time_per_task": 0.5180972909927368,
+    "min_time": 0.0,
+    "max_time": 2.833251714706421,
+    "success_rate": 70.0
+  },
+  "failure_patterns": {}
+}

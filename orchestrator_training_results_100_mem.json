@@ -1,0 +1,6739 @@
+{
+  "summary": {
+    "total_tasks": 100,
+    "perfect": 4,
+    "partial": 96,
+    "avg_accuracy_percent": 73.92052449997739
+  },
+  "results": [
+    {
+      "task_id": "00576224",
+      "acc": 0.3333333333333333,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "007bbfb7",
+      "acc": 0.7777777777777778,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "009d5c81",
+      "acc": 1.0,
+      "log": [
+        {
+          "system": "Perfect_V2",
+          "refine": "hungarian",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "hungarian",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "hungarian",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "hungarian",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "00d62c1b",
+      "acc": 0.6925,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "rot90+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "rot90+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "rot90+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "rot90+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "00dbd492",
+      "acc": 0.685,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "017c7c7b",
+      "acc": 0.7037037037037037,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            3
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "025d127b",
+      "acc": 0.98,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "03560426",
+      "acc": 0.79,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "045e512c",
+      "acc": 0.9024943310657596,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "shift(1,0)",
+          "shape": [
+            21,
+            21
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(-1,-1)",
+          "shape": [
+            21,
+            21
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            21,
+            21
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            21,
+            21
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            21,
+            21
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            21,
+            21
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "0520fde7",
+      "acc": 0.6666666666666666,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "05269061",
+      "acc": 0.42857142857142855,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "05a7bcf2",
+      "acc": 0.6066666666666667,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "05f2a901",
+      "acc": 0.9454545454545454,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            10
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0607ce86",
+      "acc": 0.9128787878787878,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "rot180+remapH",
+          "shape": [
+            24,
+            22
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "transpose+remapH",
+          "shape": [
+            24,
+            22
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            24,
+            22
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            22
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            22
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            22
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            22
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "0692e18c",
+      "acc": 0.8024691358024691,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "06df4c85",
+      "acc": 0.8757396449704142,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "rot90+remapH",
+          "shape": [
+            26,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            26,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot90+remapH",
+          "shape": [
+            26,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            26,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            26,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            26,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            26,
+            26
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "070dd51e",
+      "acc": 0.8825,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot180+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "08ed6ac7",
+      "acc": 0.8148148148148148,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "09629e4f",
+      "acc": 0.7024793388429752,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            11,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            11,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            11,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            11,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            11,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            11,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            11,
+            11
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0962bcdd",
+      "acc": 0.8333333333333334,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "09c534e7",
+      "acc": 0.6733333333333333,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot180+remapH",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            30,
+            30
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "0a1d4ef5",
+      "acc": 0.3333333333333333,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0a2355a6",
+      "acc": 0.7725490196078432,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0a938d79",
+      "acc": 0.8114478114478114,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            22,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            22,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            22,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            22,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            22,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            22,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            22,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0b148d64",
+      "acc": 0.7222222222222222,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0b17323b",
+      "acc": 0.9911111111111112,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(-1,-1)",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "greedy",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "0bb8deee",
+      "acc": 0.4444444444444444,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0becf7df",
+      "acc": 0.96,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "shift(0,1)",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(1,-1)",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(1,0)",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "hungarian",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "hungarian",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "hungarian",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "hungarian",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "0c786b71",
+      "acc": 0.4375,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            8
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0c9aba6e",
+      "acc": 0.75,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            4
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            4
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            4
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            4
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            4
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            4
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            4
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0ca9ddb6",
+      "acc": 0.8518518518518519,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0d3d703e",
+      "acc": 1.0,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "none",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "hungarian",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "hungarian",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "hungarian",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "hungarian",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "0d87d2a6",
+      "acc": 0.7182608695652174,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            20
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0e206a2e",
+      "acc": 0.9385964912280702,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            24,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot180+remapH",
+          "shape": [
+            24,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            24,
+            19
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "0e671a1a",
+      "acc": 0.8757396449704142,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "0f63c0b9",
+      "acc": 0.5377777777777778,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "103eff5b",
+      "acc": 0.7139423076923077,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            22,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            22,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            22,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            22,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            22,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            22,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            22,
+            12
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "10fcaaa3",
+      "acc": 0.6083333333333333,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            6
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "11852cab",
+      "acc": 0.97,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "shift(1,0)",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(1,0)",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "greedy",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1190bc91",
+      "acc": 0.390625,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1190e5a7",
+      "acc": 1.0,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            2
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "11dc524f",
+      "acc": 0.9644970414201184,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "greedy",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(0,1)",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(1,0)",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            13,
+            13
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "11e1fe23",
+      "acc": 0.9761904761904762,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot90+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "12422b43",
+      "acc": 0.8142857142857143,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            6
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "12997ef3",
+      "acc": 0.4722222222222222,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            3
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "12eac192",
+      "acc": 0.671875,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            8
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "13713586",
+      "acc": 0.4649122807017544,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            17
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "137eaa0f",
+      "acc": 0.4444444444444444,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            3
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "137f0df0",
+      "acc": 0.72,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "13f06aa5",
+      "acc": 0.6901960784313725,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "140c817e",
+      "acc": 0.5459183673469388,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "14754a24",
+      "acc": 0.7257617728531855,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "rot180+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot270+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1478ab18",
+      "acc": 0.75,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "14b8e18c",
+      "acc": 0.68,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "150deff5",
+      "acc": 0.8636363636363636,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "rot270+remapH",
+          "shape": [
+            8,
+            11
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            8,
+            11
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            8,
+            11
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            8,
+            11
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            8,
+            11
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            8,
+            11
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            8,
+            11
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "15113be4",
+      "acc": 0.9716446124763705,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "shift(0,-1)",
+          "shape": [
+            23,
+            23
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(-1,0)",
+          "shape": [
+            23,
+            23
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            23,
+            23
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            23,
+            23
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            23,
+            23
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            23,
+            23
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            23,
+            23
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "15660dd6",
+      "acc": 0.33540372670807456,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            17
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "15663ba9",
+      "acc": 0.8541666666666666,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            15
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "15696249",
+      "acc": 0.5925925925925926,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "17829a00",
+      "acc": 0.83984375,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "178fcbfb",
+      "acc": 0.5757575757575758,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            8
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "17b80ad2",
+      "acc": 0.7750865051903114,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "17b866bd",
+      "acc": 0.5922619047619048,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            21
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            21
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            16,
+            21
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            21
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            21
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            21
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            16,
+            21
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "17cae0c1",
+      "acc": 0.3333333333333333,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            3,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            3,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "18286ef8",
+      "acc": 0.7894736842105263,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "flipud+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "transpose+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "transpose+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "transpose+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "transpose+remapH",
+          "shape": [
+            19,
+            19
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "182e5d0f",
+      "acc": 0.7602040816326531,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot90+remapH",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            14,
+            14
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "18419cfa",
+      "acc": 0.8887362637362637,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "fliplr+remapH",
+          "shape": [
+            28,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "flipud+remapH",
+          "shape": [
+            28,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot90+remapH",
+          "shape": [
+            28,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            28,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            28,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            28,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            28,
+            26
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "18447a8d",
+      "acc": 0.5935828877005348,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            13,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            13,
+            11
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "184a9768",
+      "acc": 0.7353846153846154,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            20,
+            22
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            20,
+            22
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            20,
+            22
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            20,
+            22
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            20,
+            22
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            20,
+            22
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            20,
+            22
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "195ba7dc",
+      "acc": 0.8333333333333334,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            6
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1990f7a8",
+      "acc": 0.5306122448979592,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            7,
+            7
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "19bb5feb",
+      "acc": 0.25,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            2,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            2,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            2,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            2,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            2,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            2,
+            2
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            2,
+            2
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1a07d186",
+      "acc": 0.8906882591093117,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "flipud+remapH",
+          "shape": [
+            19,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot270+remapH",
+          "shape": [
+            19,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            26
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            26
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1a244afd",
+      "acc": 0.98046875,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(0,-1)",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(-1,-1)",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1a2e2828",
+      "acc": 1.0,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            1,
+            1
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            1,
+            1
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            1,
+            1
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            1,
+            1
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            1,
+            1
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            1,
+            1
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            1,
+            1
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1a6449f1",
+      "acc": 0.61,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            10
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1acc24af",
+      "acc": 0.9722222222222222,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "shift(1,1)",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "greedy",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(0,-1)",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "hungarian",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "hungarian",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "hungarian",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "hungarian",
+          "shape": [
+            12,
+            12
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1b2d62fb",
+      "acc": 0.6666666666666666,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1b59e163",
+      "acc": 0.8641975308641975,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            18,
+            18
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            18,
+            18
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            18,
+            18
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            18,
+            18
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            18,
+            18
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            18,
+            18
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            18,
+            18
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1b60fb0c",
+      "acc": 0.91,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "shift(-1,1)",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(1,-1)",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1b8318e3",
+      "acc": 0.9511111111111111,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "shift(-1,0)",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(-1,0)",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1be83260",
+      "acc": 0.4150197628458498,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            23,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            23,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            23,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            23,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            23,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            23,
+            11
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            23,
+            11
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1bfc4729",
+      "acc": 0.5,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1c02dbbe",
+      "acc": 0.48444444444444446,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1c0d0a4b",
+      "acc": 0.8224852071005917,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            13
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            13
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1c56ad9f",
+      "acc": 0.84,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1c786137",
+      "acc": 0.3611111111111111,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1caeab9d",
+      "acc": 0.9,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            10
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            10
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1cf80156",
+      "acc": 0.625,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            5,
+            3
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1d0a4b61",
+      "acc": 0.9456,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            25,
+            25
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            25,
+            25
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            25,
+            25
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            25,
+            25
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            25,
+            25
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            25,
+            25
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            25,
+            25
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1d398264",
+      "acc": 0.83203125,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            20,
+            20
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1d61978c",
+      "acc": 0.9921875,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "shift(1,1)",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(1,0)",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "hungarian",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "hungarian",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "hungarian",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "hungarian",
+          "shape": [
+            16,
+            16
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1da012fc",
+      "acc": 0.8568421052631578,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "flipud+remapH",
+          "shape": [
+            19,
+            25
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            25
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            25
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            25
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            25
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            25
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            19,
+            25
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1e0a9b12",
+      "acc": 0.68,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            6,
+            6
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1e32b0e9",
+      "acc": 0.8131487889273357,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            17,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            17,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            17,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            17,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            17,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            17,
+            17
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            17,
+            17
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1e5d6875",
+      "acc": 0.6015625,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            8,
+            8
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1e81d6f9",
+      "acc": 0.9688888888888889,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            15,
+            15
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1efba499",
+      "acc": 0.8809523809523809,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "rot270+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "rot90+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "identity+remapH",
+          "shape": [
+            12,
+            14
+          ],
+          "tf": "identity"
+        }
+      ]
+    },
+    {
+      "task_id": "1f0c79e5",
+      "acc": 0.7530864197530864,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "recalled",
+          "refine": "recalled",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultimate",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "shape_only",
+          "shape": [
+            9,
+            9
+          ],
+          "tf": null
+        }
+      ]
+    },
+    {
+      "task_id": "1f642eb9",
+      "acc": 0.93,
+      "log": [
+        {
+          "system": "recalled",
+          "refine": "hungarian",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "recalled",
+          "refine": "shift(1,1)",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Perfect_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Interactive_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultimate",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        },
+        {
+          "system": "Ultra_V2",
+          "refine": "none",
+          "shape": [
+            10,
+            10
+          ],
+          "tf": "identity"
+        }
+      ]
+    }
+  ]
+}

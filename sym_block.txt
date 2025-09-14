@@ -1,0 +1,60 @@
+class SymmetryTheory(Theory):
+    """نظرية التناظر: تبحث عن تحويلات التناظر البسيطة."""
+    
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.symmetry_rules = {
+            'identity': lambda g: g,
+            'flip_horizontal': np.fliplr,
+            'flip_vertical': np.flipud,
+            'rotate_90': lambda g: np.rot90(g, 1),
+            'rotate_180': lambda g: np.rot90(g, 2),
+            'rotate_270': lambda g: np.rot90(g, 3),
+            'transpose': np.transpose,
+        }
+
+    def propose(self, train_pairs: List[Dict[str, np.ndarray]]) -> List[Hypothesis]:
+        hypotheses = []
+        for rule_name, func in self.symmetry_rules.items():
+            is_consistent = True
+            for pair in train_pairs:
+                input_grid, output_grid = pair['input'], pair['output']
+                # التحقق من تطابق الأبعاد قبل التطبيق
+                if func(input_grid).shape != output_grid.shape or not np.array_equal(func(input_grid), output_grid):
+                    is_consistent = False
+                    break
+            
+            if is_consistent:
+                hypotheses.append(Hypothesis(
+                    theory_name=self.name,
+                    rule_name=rule_name,
+                    rule_parameters={'name': rule_name},
+                    confidence_score=1.0, # الثقة الكاملة إذا كانت متسقة
+                    description=f"Apply {rule_name} transformation to the entire grid.",
+                    applicator=self._apply_symmetry_rule
+                ))
+        logger.info(f"SymmetryTheory proposed {len(hypotheses)} consistent rules.")
+        return hypotheses
+
+    def validate(self, train_pairs: List[Dict[str, np.ndarray]], hypothesis: Hypothesis) -> float:
+        rule_name = hypothesis.rule_parameters['name']
+        if rule_name not in self.symmetry_rules:
+            return 0.0
+        
+        matches = 0
+        func = self.symmetry_rules[rule_name]
+        for pair in train_pairs:
+            input_grid, output_grid = pair['input'], pair['output']
+            if func(input_grid).shape == output_grid.shape and np.array_equal(func(input_grid), output_grid):
+                matches += 1
+        
+        return matches / len(train_pairs)
+
+    @staticmethod
+    def _apply_symmetry_rule(grid: np.ndarray, params: Dict) -> np.ndarray:
+        rule_name = params['name']
+        rules = {
+            'identity': lambda g: g,
+            'flip_horizontal': np.fliplr,
+            'flip_vertical': np.flipud,
+            'rotate_90': lambda g: np.rot90(g, 1),
