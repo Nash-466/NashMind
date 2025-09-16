@@ -12,6 +12,10 @@ if str(root) not in sys.path:
     sys.path.insert(0, str(root))
 
 from unified_solver_wrapper import UnifiedSolverWrapper
+import argparse
+import io
+import contextlib
+import logging
 
 
 def load_tasks(challenges_path: Path, solutions_path: Path, limit: int = 50) -> List[Dict[str, Any]]:
@@ -40,8 +44,8 @@ def evaluate_solution(pred: np.ndarray, expected: List[List[List[int]]]) -> Tupl
     return exact, sim
 
 
-def run_eval(challenges: str, solutions: str, out_name: str) -> Dict[str, Any]:
-    tasks = load_tasks(Path(challenges), Path(solutions), 50)
+def run_eval(challenges: str, solutions: str, out_name: str, limit: int) -> Dict[str, Any]:
+    tasks = load_tasks(Path(challenges), Path(solutions), limit)
     w = UnifiedSolverWrapper()
     systems = w.systems
 
@@ -74,7 +78,11 @@ def run_eval(challenges: str, solutions: str, out_name: str) -> Dict[str, Any]:
                 "test": [{"input": task["test"][0]["input"]}] if task.get("test") else []
             }
             try:
-                pred = solve(sub_task)
+                # Suppress verbose prints/logs during solve
+                logging.getLogger().setLevel(logging.ERROR)
+                buf = io.StringIO()
+                with contextlib.redirect_stdout(buf), contextlib.redirect_stderr(buf):
+                    pred = solve(sub_task)
                 if isinstance(pred, list) and pred:
                     pred = pred[0]
                 exact, sim = evaluate_solution(pred, task.get("expected", []))
@@ -96,15 +104,21 @@ def run_eval(challenges: str, solutions: str, out_name: str) -> Dict[str, Any]:
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Evaluate all systems via UnifiedSolverWrapper on ARC datasets.")
+    parser.add_argument("--limit", type=int, default=50, help="Number of tasks to evaluate (default: 50)")
+    args = parser.parse_args()
+
+    limit = args.limit
+
     # Training set
-    tr_results = run_eval("arc-agi_training_challenges.json", "arc-agi_training_solutions.json", "wrapper_eval_50_training.json")
+    tr_results = run_eval("arc-agi_training_challenges.json", "arc-agi_training_solutions.json", f"wrapper_eval_{limit}_training.json", limit)
     print("Training summary (top-5 by exact):")
     ranked_tr = sorted(tr_results["systems"].items(), key=lambda x: (x[1]["exact"], x[1]["avg_similarity"]), reverse=True)
     for name, s in ranked_tr[:5]:
         print(f"- {name}: exact={s['exact']}/{s['total']} sim={s['avg_similarity']:.1%}")
 
     # Evaluation set
-    ev_results = run_eval("arc-agi_evaluation_challenges.json", "arc-agi_evaluation_solutions.json", "wrapper_eval_50_evaluation.json")
+    ev_results = run_eval("arc-agi_evaluation_challenges.json", "arc-agi_evaluation_solutions.json", f"wrapper_eval_{limit}_evaluation.json", limit)
     print("\nEvaluation summary (top-5 by exact):")
     ranked_ev = sorted(ev_results["systems"].items(), key=lambda x: (x[1]["exact"], x[1]["avg_similarity"]), reverse=True)
     for name, s in ranked_ev[:5]:
@@ -113,4 +127,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
