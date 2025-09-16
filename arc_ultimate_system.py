@@ -43,7 +43,13 @@ from scipy.stats import entropy, chi2_contingency, pearsonr
 from scipy.optimize import minimize, differential_evolution
 from skimage.measure import regionprops, moments, moments_hu, perimeter
 from skimage.morphology import skeletonize, convex_hull_image, dilation, erosion
-from skimage.feature import local_binary_pattern, greycomatrix, greycoprops
+from skimage.feature import local_binary_pattern
+try:
+    # skimage <=0.19
+    from skimage.feature import greycomatrix, greycoprops  # type: ignore
+except Exception:
+    # skimage >=0.20 moved to feature.texture
+    from skimage.feature.texture import greycomatrix, greycoprops  # type: ignore
 from skimage.segmentation import watershed, felzenszwalb
 from skimage.filters import sobel, gaussian, median
 from sklearn.cluster import DBSCAN, KMeans, AgglomerativeClustering

@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "challenges": "arc-agi_training_challenges.json",
+    "solutions": "arc-agi_training_solutions.json",
+    "num_tasks": 50,
+    "num_systems": 20,
+    "timestamp": "2025-09-16 07:05:02"
+  },
+  "systems": {
+    "ultimate_arc_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "perfect_arc_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "revolutionary_arc_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "enhanced_efficient_zero": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.26737277730224784,
+      "fail": 0,
+      "times": []
+    },
+    "deep_learning_arc_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.26737277730224784,
+      "fail": 0,
+      "times": []
+    },
+    "genius_arc_manager": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "advanced_simulation_engine": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "arc_adaptive_hybrid_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 50,
+      "times": []
+    },
+    "arc_learning_solver": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.26737277730224784,
+      "fail": 0,
+      "times": []
+    },
+    "efficient_zero_engine": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "semantic_memory_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "symbolic_rule_engine": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "neural_pattern_learner": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.26737277730224784,
+      "fail": 0,
+      "times": []
+    },
+    "continuous_learning_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "intelligent_verification_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "true_learning_ai": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "ultimate_ai_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "ultra_advanced_arc_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.0,
+      "fail": 0,
+      "times": []
+    },
+    "perfect_arc_system_v2": {
+      "total": 50,
+      "exact": 1,
+      "avg_similarity": 0.6379955006732824,
+      "fail": 0,
+      "times": []
+    },
+    "ultimate_generalized_arc_system": {
+      "total": 50,
+      "exact": 0,
+      "avg_similarity": 0.20073329403435938,
+      "fail": 14,
+      "times": []
+    }
+  }
+}
