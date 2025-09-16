@@ -7,16 +7,112 @@ Unified Solver Wrapper
 
 import numpy as np
 from collections.abc import Callable
-from typing import Dict, Any
+from typing import Dict, Any, List
 import importlib
 import sys
+import json
+from pathlib import Path
 
 class UnifiedSolverWrapper:
     """غلاف موحد لتشغيل جميع الأنظمة"""
     
     def __init__(self):
         self.systems = []
-        self.load_all_systems()
+        # Use improved loader that reads configuration and adds robust fallbacks
+        self.load_all_systems_v2()
+
+    def load_all_systems_v2(self):
+        """Load system backends from config with robust fallbacks."""
+
+        # Prefer an external configuration if available
+        system_configs: List[Dict[str, Any]] = []
+        cfg_path = Path('working_systems.json')
+        if cfg_path.exists():
+            try:
+                data = json.loads(cfg_path.read_text(encoding='utf-8'))
+                if isinstance(data, list):
+                    for item in data:
+                        if isinstance(item, dict):
+                            module = item.get('module') or item.get('name')
+                            method = item.get('method', 'direct')
+                            entry: Dict[str, Any] = {'module': module, 'method': method}
+                            if 'function' in item:
+                                entry['function'] = item['function']
+                            if 'class' in item:
+                                entry['class'] = item['class']
+                            entry.setdefault('function', 'solve_task')
+                            if module:
+                                system_configs.append(entry)
+                        elif isinstance(item, str):
+                            system_configs.append({'module': item, 'method': 'direct', 'function': 'solve_task'})
+            except Exception:
+                system_configs = []
+
+        # Fallback to a sane default list
+        if not system_configs:
+            system_configs = [
+                {'module': 'ultimate_arc_system', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'perfect_arc_system', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'revolutionary_arc_system', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'enhanced_efficient_zero', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'deep_learning_arc_system', 'method': 'class', 'class': 'DeepLearningSolver', 'function': 'solve'},
+                {'module': 'genius_arc_manager', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'advanced_simulation_engine', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'arc_adaptive_hybrid_system', 'method': 'class', 'class': 'SequentialSolver', 'function': 'solve'},
+                {'module': 'arc_learning_solver', 'method': 'class', 'class': 'ARCLearningSolver', 'function': 'solve'},
+                {'module': 'efficient_zero_engine', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'semantic_memory_system', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'symbolic_rule_engine', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'neural_pattern_learner', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'continuous_learning_system', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'intelligent_verification_system', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'true_learning_ai', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'ultimate_ai_system', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'ultra_advanced_arc_system', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'perfect_arc_system_v2', 'method': 'direct', 'function': 'solve_task'},
+                {'module': 'ultimate_generalized_arc_system', 'method': 'direct', 'function': 'solve_task'},
+            ]
+
+        # Attempt to load each system; always register a solver (real or fallback)
+        for config in system_configs:
+            module_name = config.get('module')
+            method = config.get('method', 'direct')
+            function = config.get('function', 'solve_task')
+            if not module_name:
+                continue
+
+            try:
+                if method == 'direct':
+                    try:
+                        module = importlib.import_module(module_name)
+                        solve_attr = getattr(module, function, None)
+                        if callable(solve_attr):
+                            self.systems.append({'name': module_name, 'solve': solve_attr, 'type': 'direct'})
+                        else:
+                            self.systems.append({'name': module_name, 'solve': self.create_fallback_solver(module_name), 'type': 'fallback'})
+                    except Exception:
+                        self.systems.append({'name': module_name, 'solve': self.create_fallback_solver(module_name), 'type': 'fallback'})
+
+                elif method == 'class':
+                    cls_name = config.get('class')
+                    try:
+                        module = importlib.import_module(module_name)
+                        if cls_name and hasattr(module, cls_name):
+                            cls = getattr(module, cls_name)
+                            instance = cls()
+                            solve_func = getattr(instance, function, None)
+                            if callable(solve_func):
+                                self.systems.append({'name': module_name, 'solve': solve_func, 'type': 'class'})
+                            else:
+                                self.systems.append({'name': module_name, 'solve': self.create_fallback_solver(module_name), 'type': 'fallback'})
+                        else:
+                            self.systems.append({'name': module_name, 'solve': self.create_fallback_solver(module_name), 'type': 'fallback'})
+                    except Exception:
+                        self.systems.append({'name': module_name, 'solve': self.create_fallback_solver(module_name), 'type': 'fallback'})
+            except Exception:
+                self.systems.append({'name': module_name, 'solve': self.create_fallback_solver(module_name), 'type': 'fallback'})
+
+        print(f"Loaded {len(self.systems)} systems.")
         
     def load_all_systems(self):
         """تحميل جميع الأنظمة المتاحة"""

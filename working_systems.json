@@ -1,10 +1,22 @@
 [
-  {
-    "name": "enhanced_efficient_zero",
-    "function": "solve_task"
-  },
-  {
-    "name": "neural_pattern_learner",
-    "function": "solve_task"
-  }
+  { "module": "ultimate_arc_system", "method": "direct", "function": "solve_task" },
+  { "module": "perfect_arc_system", "method": "direct", "function": "solve_task" },
+  { "module": "revolutionary_arc_system", "method": "direct", "function": "solve_task" },
+  { "module": "enhanced_efficient_zero", "method": "direct", "function": "solve_task" },
+  { "module": "deep_learning_arc_system", "method": "class",  "class": "DeepLearningSolver", "function": "solve" },
+  { "module": "genius_arc_manager", "method": "direct", "function": "solve_task" },
+  { "module": "advanced_simulation_engine", "method": "direct", "function": "solve_task" },
+  { "module": "arc_adaptive_hybrid_system", "method": "class", "class": "SequentialSolver", "function": "solve" },
+  { "module": "arc_learning_solver", "method": "class", "class": "ARCLearningSolver", "function": "solve" },
+  { "module": "efficient_zero_engine", "method": "direct", "function": "solve_task" },
+  { "module": "semantic_memory_system", "method": "direct", "function": "solve_task" },
+  { "module": "symbolic_rule_engine", "method": "direct", "function": "solve_task" },
+  { "module": "neural_pattern_learner", "method": "direct", "function": "solve_task" },
+  { "module": "continuous_learning_system", "method": "direct", "function": "solve_task" },
+  { "module": "intelligent_verification_system", "method": "direct", "function": "solve_task" },
+  { "module": "true_learning_ai", "method": "direct", "function": "solve_task" },
+  { "module": "ultimate_ai_system", "method": "direct", "function": "solve_task" },
+  { "module": "ultra_advanced_arc_system", "method": "direct", "function": "solve_task" },
+  { "module": "perfect_arc_system_v2", "method": "direct", "function": "solve_task" },
+  { "module": "ultimate_generalized_arc_system", "method": "direct", "function": "solve_task" }
 ]
