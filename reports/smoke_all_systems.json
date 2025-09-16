@@ -1,0 +1,169 @@
+[
+  {
+    "name": "ultimate_arc_system",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "perfect_arc_system",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "revolutionary_arc_system",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "enhanced_efficient_zero",
+    "type": "direct",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  },
+  {
+    "name": "deep_learning_arc_system",
+    "type": "fallback",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  },
+  {
+    "name": "genius_arc_manager",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "advanced_simulation_engine",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "arc_adaptive_hybrid_system",
+    "type": "class",
+    "ok": false,
+    "shape": null,
+    "error": "SequentialSolver.solve() missing 1 required positional argument: 'analysis'"
+  },
+  {
+    "name": "arc_learning_solver",
+    "type": "fallback",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  },
+  {
+    "name": "efficient_zero_engine",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "semantic_memory_system",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "symbolic_rule_engine",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: list"
+  },
+  {
+    "name": "neural_pattern_learner",
+    "type": "direct",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  },
+  {
+    "name": "continuous_learning_system",
+    "type": "direct",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  },
+  {
+    "name": "intelligent_verification_system",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "true_learning_ai",
+    "type": "direct",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  },
+  {
+    "name": "ultimate_ai_system",
+    "type": "direct",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  },
+  {
+    "name": "ultra_advanced_arc_system",
+    "type": "direct",
+    "ok": false,
+    "shape": null,
+    "error": "unexpected result type: NoneType"
+  },
+  {
+    "name": "perfect_arc_system_v2",
+    "type": "direct",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  },
+  {
+    "name": "ultimate_generalized_arc_system",
+    "type": "direct",
+    "ok": true,
+    "shape": [
+      3,
+      3
+    ],
+    "error": null
+  }
+]

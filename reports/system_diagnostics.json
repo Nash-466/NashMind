@@ -1,0 +1,90 @@
+{
+  "python": "3.11.8",
+  "platform": "Windows-10-10.0.26100-SP0",
+  "torch": "2.8.0+cpu",
+  "cuda_available": false,
+  "cuda_device_count": 0,
+  "gpu_backend": "cpu",
+  "systems": [
+    {
+      "name": "ultimate_arc_system",
+      "type": "direct"
+    },
+    {
+      "name": "perfect_arc_system",
+      "type": "direct"
+    },
+    {
+      "name": "revolutionary_arc_system",
+      "type": "direct"
+    },
+    {
+      "name": "enhanced_efficient_zero",
+      "type": "direct"
+    },
+    {
+      "name": "deep_learning_arc_system",
+      "type": "fallback"
+    },
+    {
+      "name": "genius_arc_manager",
+      "type": "direct"
+    },
+    {
+      "name": "advanced_simulation_engine",
+      "type": "direct"
+    },
+    {
+      "name": "arc_adaptive_hybrid_system",
+      "type": "class"
+    },
+    {
+      "name": "arc_learning_solver",
+      "type": "fallback"
+    },
+    {
+      "name": "efficient_zero_engine",
+      "type": "direct"
+    },
+    {
+      "name": "semantic_memory_system",
+      "type": "direct"
+    },
+    {
+      "name": "symbolic_rule_engine",
+      "type": "direct"
+    },
+    {
+      "name": "neural_pattern_learner",
+      "type": "direct"
+    },
+    {
+      "name": "continuous_learning_system",
+      "type": "direct"
+    },
+    {
+      "name": "intelligent_verification_system",
+      "type": "direct"
+    },
+    {
+      "name": "true_learning_ai",
+      "type": "direct"
+    },
+    {
+      "name": "ultimate_ai_system",
+      "type": "direct"
+    },
+    {
+      "name": "ultra_advanced_arc_system",
+      "type": "direct"
+    },
+    {
+      "name": "perfect_arc_system_v2",
+      "type": "direct"
+    },
+    {
+      "name": "ultimate_generalized_arc_system",
+      "type": "direct"
+    }
+  ]
+}
